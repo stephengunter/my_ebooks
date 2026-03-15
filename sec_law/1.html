@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+	<meta charset="UTF-8">
+	<title>資通安全管理法</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Bootstrap 5 CSS -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+	<div class="container mt-4">
+		<h1>資通安全管理法</h1>
+		<h5>適用對象</h5>
+		<table class="table table-bordered table-striped" style="width: 900px;">
+			<tr>
+				<th class="text-center" style="width: 50%; vertical-align: middle;">
+					公務機關
+				</th>
+				<th class="text-center" style="vertical-align: middle;">
+					特定非公務機關	
+				</th>
+			</tr>
+			<tr >
+				<td>
+					<ul>
+						<li>
+							依法行使公權力之中央、地方機關（構）或公法人
+						</li>
+						<li>
+							不包括軍事機關及情報機關
+						</li>
+					</ul>	
+				</td>
+				<td>
+					<b>關鍵基礎設施提供者</b>
+					<ul>
+						<li>
+							維運或提供關鍵基礎設施（如能源、水資源、通訊、交通、金融、緊急救援等領域）全部或一部
+						</li>
+						<li>
+							經中央目的事業主管機關指定，並報行政院核定者
+						</li>
+						<li>
+							例如：台電、中華電信、自來水公司、高鐵、銀行結算系統等
+						</li>
+					</ul>	
+					<b>公營事業</b>
+					<ul>
+						<li>
+							政府獨資或持股超過50%的事業
+						</li>
+						<li>
+							例如：中油、台糖、台鹽等
+						</li>
+					</ul>		
+					<b>特定財團法人</b>
+					<ul>
+						<li>
+							由政府捐助成立、對社會或經濟有重大影響力的財團法人
+						</li>
+					</ul>
+					<b>受政府控制之事業、團體或機構</b>
+					<ul>
+						<li>
+							經銓敘部公告，且具資通安全重要性，並經中央目的事業主管機關指定及主管機關核定者
+						</li>
+						<li>
+							例如：政府基金（如國發基金）轉投資的公司
+						</li>
+					</ul>
+				</td>
+			</tr>
+		</table>
+		<h5>優先適用高強度規範</h5>
+		<ul>
+			<li>
+				公務機關兼具關鍵基礎設施提供者：優先適用公務機關之規定
+				<ul>
+					<li>
+						例如：飛航服務總台
+					</li>
+				</ul>
+			</td>
+			</li>
+			<li>
+				公營事業或財團法人兼具關鍵基礎設施提供者：關鍵基礎設施提供者之規定
+				<ul>
+					<li>
+						例如：台電、中油
+					</li>
+				</ul>
+			</li>
+		</ul>
+		<h5>機關層級與權責分工</h5>
+		<table class="table table-bordered table-striped" style="width: 900px;">
+			<tr>
+				<th class="text-center" style="width: 50%; vertical-align: middle;">
+					公務機關
+				</th>
+				<th class="text-center" style="vertical-align: middle;">
+					特定非公務機關	
+				</th>
+			</tr>
+			<tr>
+				<td>
+					<b>主管機關：數位發展部</b>
+					<ul>
+						<li>
+							資安法的中央主管機關，負責整體制度的規劃與運作
+						</li>
+					</ul>
+					<b>上級機關或監督機關</b>
+					<ul>
+						<li>
+							負責監督所屬機關的資安業務。例如，教育部要監督它所屬的大學、國立高中
+						</li>
+						<li>
+							向上對主管機關：
+							<ul>
+								<li>
+									提報自身及所屬機關資安責任等級
+								</li>
+							</ul>
+						</li>
+						<li>
+							向下對所屬機關：
+							<ul>
+								<li>
+									進行資安稽核
+								</li>
+							</ul>
+						</li>
+					</ul>
+					<b>公務機關</b>
+					<ul>
+						<li>
+							設置資安長
+						</li>
+						<li>
+							制定及實施資安維護計畫
+						</li>
+						<li>
+							制定資安事件通報及應變機制
+						</li>
+						<li>
+							向上級機關：
+							<ul>
+								<li>
+									提報資安維護計畫與實施情形
+								</li>
+								<li>
+									通報資安事件、提出改善報告
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</td>
+				<td>
+					<b>主管機關：數位發展部</b>
+					<ul>
+						<li>
+							得對特定非公務機關進行稽核
+						</li>
+					</ul>
+					<b>中央目的事業主管機關</b>
+					<ul>
+						<li>
+							從所轄特定非公務機關中指定「關鍵基礎設施提供者」，報請行政院核定
+							<ul>
+								<li>
+									例如，經濟部指定它所轄的國營事業（如台電、中油）為關鍵基礎設施提供者							
+								</li>
+							</ul>
+						</li>
+						<li>
+							負責監督所轄特定非公務機關的資安業務。例如，經濟部要監督它所轄的國營事業（如台電、中油）
+						</li>
+						<li>
+							向上對主管機關：
+							<ul>
+								<li>
+									提報關鍵基礎設施提供者
+								</li>
+								<li>
+									提報所轄特定非公務機關資安責任等級
+								</li>
+								<li>
+									提報相關資安規範
+								</li>
+								<li>
+									提報重大資安事件調查報告
+								</li>
+							</ul>
+						</li>
+						<li>
+							向下對所轄特定非公務機關：
+							<ul>
+								<li>
+									進行資安稽核
+								</li>
+							</ul>
+						</li>
+					</ul>
+					<b>特定非公務機關</b>
+					<ul>
+						<li>
+							設置資安長
+						</li>
+						<li>
+							制定及實施資安維護計畫
+						</li>
+						<li>
+							制定資安事件通報及應變機制
+						</li>
+						<li>
+							向中央目的事業主管機關：
+							<ul>
+								<li>
+									提報資安維護計畫與實施情形
+								</li>
+								<li>
+									通報資安事件、提出改善報告
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</td>
+			</tr>
+		</table>
+		<h5>資安責任等級分級</h5>
+		<ul>
+			<li>
+				口訣：「A級國家級，B級區域性，C級有系統，D級辦業務，E級全代管」
+			</li>
+		</ul>
+		<table class="table table-bordered table-striped" style="width: 900px;">
+			<tr>
+				<th class="text-center" style="width: 10%; vertical-align: middle;">
+					A級
+				</th>
+				<td>
+					<ul>
+						<li>
+							最高風險（國家機密、國安、全國性關鍵設施）
+						</li>
+					</ul>	
+					有下列情形之一者，列為A級：
+					<ul>
+						<li>
+							<b>國家安全：</b>
+							業務涉及國家機密、國防、外交、國土安全
+						</li>
+						<li>
+							<b>全國性服務：</b>
+							業務涉及全國性民眾服務或跨公務機關共用性資通系統之維運
+						</li>
+						<li>
+							<b>全國性個資：</b>
+							業務涉及全國性民眾或公務員個人資料檔案之持有
+						</li>
+						<li>
+							<b>全國性關鍵設施：</b>
+							屬公務機關，且業務涉及全國性之關鍵基礎設施事項
+						</li>
+						<li>
+							<b>影響極大：</b>
+							屬關鍵基礎設施提供者，且其系統失效對社會公益將產生災難性或非常嚴重影響
+						</li>
+						<li>
+							<b>公立醫學中心</b>
+						</li>
+					</ul>	
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="width: 10%; vertical-align: middle;">
+					B級
+				</th>
+				<td>
+					<ul>
+						<li>
+							中高風險（區域性關鍵設施、國家核心科技）
+						</li>
+					</ul>	
+					有下列情形之一者，列為B級：
+					<ul>
+						<li>
+							<b>核心科技：</b>
+							業務涉及國家核心科技資訊之安全維護及管理	
+						</li>
+						<li>
+							<b>區域性服務：</b>
+							業務涉及區域性、地區性民眾服務或跨公務機關共用性資通系統之維運
+						</li>
+						<li>
+							<b>區域性個資：</b>
+							業務涉及區域性或地區性民眾個人資料檔案之持有
+						</li>
+						<li>
+							<b>部會層級：</b>
+							業務涉及中央二級機關及所屬共用性資通系統之維運
+						</li>
+						<li>
+							<b>區域性關鍵設施：</b>
+							屬公務機關，且業務涉及區域性或地區性之關鍵基礎設施事項
+						</li>
+						<li>
+							<b>影響嚴重：</b>
+							屬關鍵基礎設施提供者，且其系統失效對社會公益將產生嚴重影響
+						</li>
+						<li>
+							<b>公立區域醫院或地區醫院</b>
+						</li>
+					</ul>	
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="width: 10%; vertical-align: middle;">
+					C級
+				</th>
+				<td>
+					<ul>
+						<li>
+							有維運資通系統者
+						</li>
+					</ul>
+
+					認定標準：維運自行或委外設置、開發之資通系統
+					<ul>
+						<li>
+							定義：指具權限區分及管理功能之資通系統
+						</li>
+						<li>
+							實例：只要有網站（無論對內或對外）、內部系統，且是自己或委外開發維運，就是C級
+						</li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="width: 10%; vertical-align: middle;">
+					D級
+				</th>
+				<td>
+					認定標準：自行辦理資通業務，但未維運資通系統
+					<ul>
+						<li>
+							實例：僅自行維護個人電腦及印表機等設備，仍屬自行辦理資通業務，列為D級
+						</li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="width: 10%; vertical-align: middle;">
+					E級
+				</th>
+				<td>
+					<ul>
+						<li>
+							無資通系統、業務全部委託代管
+						</li>
+					</ul>
+					認定標準：有下列情形之一：
+					<ul>
+						<li>
+							無資通系統且未提供資通服務
+						</li>
+						<li>
+							屬公務機關，全部資通業務由其上級機關兼辦或代管
+						</li>
+						<li>
+							屬特定非公務機關，全部資通業務由中央目的事業主管機關兼辦或代管
+						</li>
+					</ul>
+				</td>
+			</tr>
+		</table> 
+		<h5>核定週期與程序</h5>
+		<ul>
+			<li>
+				每3年核定資通安全責任等級，報主管機關核定備查
+			</li>
+		</ul>
+		<table class="table table-bordered table-striped" style="width: 900px;">
+			<tr>
+				<th class="text-center" style="width: 20%; vertical-align: middle;">
+					機關類別	
+				</th>
+				<th class="text-center" style="vertical-align: middle;">
+					程序	
+				</th>
+				<th class="text-center" style="width: 20%; vertical-align: middle;">
+					備註
+				</th>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					行政院	
+				</th>
+				<td>
+					每3年核定自身等級，送主管機關備查	
+				</td>
+				<td>
+					自己核定
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					行政院直屬機關		
+				</th>
+				<td>
+					每3年提交自身及所屬等級，報主管機關核定		
+				</td>
+				<td>
+					需核定
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					地方政府			
+				</th>
+				<td>
+					每3年提交自身及所屬等級，報主管機關核定			
+				</td>
+				<td>
+					需核定
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					直轄市、縣(市)議會				
+				</th>
+				<td>
+					每3年提交自身等級，報主管機關核定	
+				</td>
+				<td>
+					需核定
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					五院（除行政院）		
+				</th>
+				<td>
+					每3年核定自身及所屬等級，送主管機關備查		
+				</td>
+				<td>
+					自己核定
+				</td>
+			</tr>
+		</table>
+		<h5>資通安全事件分級標準</h5>
+		<ul>
+			<li>
+				資安事件等級是根據對機密性、完整性、可用性的衝擊程度，以及是否涉及核心業務、關鍵基礎設施（CI）、國家機密來判定
+			</li>
+			<li>
+				對象：非核心 vs 核心 vs 關鍵基礎設施（CI） vs 國家機密
+			</li>
+			<li>
+				程度：輕微 vs 嚴重
+			</li>
+			<li>
+				時間：是否超過「可容忍中斷時間（MTPD）」
+			</li>
+		</ul>
+		<table class="table table-bordered table-striped" style="width: 900px;">
+			<tr>
+				<th class="text-center" style="width: 10%; vertical-align: middle;">
+					等級	
+				</th>
+				<th class="text-center" style="width: 30%; vertical-align: middle;">
+					機密性衝擊		
+				</th>
+				<th class="text-center" style="width: 30%; vertical-align: middle;">
+					完整性衝擊		
+				</th>
+				<th class="text-center" style="vertical-align: middle;">
+					可用性衝擊
+				</th>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					1級		
+				</th>
+				<td>
+					<ul>
+						<li>
+							非核心業務資訊輕微洩漏
+						</li>
+					</ul>
+						
+				</td>
+				<td>
+					<ul>
+						<li>
+							非核心業務資訊/系統輕微竄改	
+						</li>
+					</ul>
+				</td>
+				<td>
+					<ul>
+						<li>
+							非核心系統中斷，且中斷時間 < MTPD
+						</li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					2級
+				</th>
+				<td>
+					<ul>
+						<li>
+							非核心業務資訊嚴重洩漏
+						</li>
+						<li>
+							非CI之核心業務資訊輕微洩漏
+						</li>
+					</ul>	
+				</td>
+				<td>
+					<ul>
+						<li>
+							非核心業務資訊/系統嚴重竄改
+						</li>
+						<li>
+							非CI之核心業務資訊/系統輕微竄改
+						</li>
+					</ul>	
+				</td>
+				<td>
+					
+					<ul>
+						<li>
+							非核心系統中斷，且中斷時間 > MTPD
+						</li>
+						<li>
+							非CI之核心系統中斷，且中斷時間 < MTPD
+						</li>
+					</ul>	
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					3級	
+				</th>
+				<td>
+					<ul>
+						<li>
+							非CI之核心業務資訊嚴重洩漏
+						</li>
+						<li>
+							CI核心業務資訊輕微洩漏
+						</li>
+						<li>
+							一般公務機密洩漏
+						</li>
+					</ul>	
+				</td>
+				<td>
+					<ul>
+						<li>
+							非CI之核心業務資訊/系統嚴重竄改
+						</li>
+						<li>
+							CI核心業務資訊/系統輕微竄改
+						</li>
+						<li>
+							一般公務機密竄改
+						</li>
+					</ul>	
+				</td>
+				<td>
+					<ul>
+						<li>
+							非CI之核心系統中斷，且中斷時間 > MTPD
+						</li>
+						<li>
+							CI核心系統中斷，且中斷時間 < MTPD
+						</li>
+					</ul>	
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					4級
+				</th>
+				<td>
+					<ul>
+						<li>
+							CI核心業務資訊嚴重洩漏
+						</li>
+						<li>
+							國家機密洩漏
+						</li>
+					</ul>	
+				</td>
+				<td>
+					<ul>
+						<li>
+							CI核心業務資訊/系統嚴重竄改
+						</li>
+						<li>
+							國家機密竄改
+						</li>
+					</ul>	
+				</td>
+				<td>
+					<ul>
+						<li>
+							CI核心系統中斷，且中斷時間 > MTPD
+						</li>
+					</ul>	
+				</td>
+			</tr>
+		</table>
+		<h5>通報與應變流程時限</h5>
+		<table class="table table-bordered table-striped" style="width: 900px;">
+			<tr>
+				<th class="text-center" style="width: 20%; vertical-align: middle;">
+					
+				</th>
+				<th class="text-center" style="width: 40%; vertical-align: middle;">
+					公務機關
+				</th>
+				<th class="text-center" style="vertical-align: middle;">
+					特定非公務機關	
+				</th>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					通報
+				</th>
+				<td>
+					知悉事件後1小時內至指定系統平臺通報
+				</td>
+				<td>
+					知悉事件後1小時內至指定系統平臺通報
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					審核
+				</th>
+				<td>
+					上級機關審核事件等級
+					<ul>
+						<li>
+							1-2級事件：8小時內完成審核
+						</li>
+						<li>
+							重大事件(3-4級)：2小時內完成審核
+						</li>
+					</ul>
+				</td>
+				<td>
+					中央目的事業主管機關審核事件等級
+					<ul>
+						<li>
+							1-2級事件：8小時內完成審核
+						</li>
+						<li>
+							重大事件(3-4級)：2小時內完成審核
+						</li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					損害控制/復原
+				</th>
+				<td>
+					時限要求(自知悉該事件後起算) 
+					<ul>
+						<li>
+					    1-2級事件：72小時內完成
+						</li>
+						<li>
+							重大事件(3-4級)：36小時內完成
+						</li>
+					</ul>
+				</td>
+				<td>
+					時限要求(自知悉該事件後起算) 
+					<ul>
+						<li>
+					    1-2級事件：72小時內完成
+						</li>
+						<li>
+							重大事件(3-4級)：36小時內完成
+						</li>
+					</ul>
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="vertical-align: middle;">
+					調查報告
+				</th>
+				<td>
+					<ul>
+						<li>
+					   進行事件調查及處理
+						</li>
+						<li>
+						1個月內提交資通安全事件調查、處理及改善報告
+						</li>
+					</ul>
+				</td>
+				<td>
+					<ul>
+						<li>
+					   進行事件調查及處理
+						</li>
+						<li>
+						1個月內提交資通安全事件調查、處理及改善報告
+						</li>
+					</ul>
+				</td>
+			</tr>
+		</table>
+		<h5>PDCA 資安管理循環架構</h5>
+		<ul>
+			<li>
+				P (Plan) 規劃：訂定政策、目標、程序與控制措施，進行風險評估
+			</li>
+			<li>
+				D (Do) 執行：落實規劃階段的各項控制措施與程序
+			</li>
+			<li>
+				C (Check) 查核：監督、量測並稽核各項流程的執行情況
+			</li>
+			<li>
+				A (Act) 改善：根據查核結果，採取矯正與預防措施，持續優化制度
+			</li>
+		</ul>
+		<h5>機關 PDCA 資安管理各階段應辦事項</h5>
+		<table class="table table-bordered table-striped" style="width: 900px;">
+			<tr>
+				<th class="text-center" style="width: 20%; vertical-align: middle;">
+					規劃 (Plan)
+				</th>
+				<td>
+					<ul>
+						<li>
+							核心任務：制度建立與風險評估
+						</li>
+						<li>
+							對應法規：
+							<ul>
+								<li>
+									資通安全責任等級分級辦法
+								</li>
+								<li>
+									資通安全維護計畫
+								</li>
+							</ul>
+						</li>
+						<li>
+							應辦事項：
+							<ul>
+								<li>
+									設置資安長 (機關副首長) 
+								</li>
+								<li>
+									成立資通安全組織 (如：資通安全推行小組) 
+								</li>
+								<li>
+									訂定資通安全維護計畫
+								</li>
+								<li>
+									建立資通安全政策
+								</li>
+								<li>
+									進行資訊資產清查與風險評鑑
+								</li>
+								<li>
+									依責任等級，完成資通系統防護需求分級
+								</li>
+								<li>
+									訂定緊急應變計畫及災害復原計畫
+								</li>
+							</ul>
+						</li>
+					</ul>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="width: 20%; vertical-align: middle;">
+					執行 (Do)
+				</th>
+				<td>
+					<ul>
+						<li>
+							核心任務：落實防護與日常維運
+						</li>
+						<li>
+							對應法規：
+							<ul>
+								<li>
+									資通安全責任等級分級辦法-附表十
+								</li>
+								<li>
+									資通安全情資分享辦法
+								</li>
+							</ul>
+						</li>
+						<li>
+							應辦事項：
+							<ul>
+								<li>
+									實施資安防護措施(防火牆、入侵偵測、郵件過濾等)
+								</li>
+								<li>
+									執行網路與系統安全維運 (如：弱點掃描、漏洞修補、白名單政策)
+								</li>
+								<li>
+									落實人員資安管理 (教育訓練、宣導、適任性查核) 
+								</li>
+								<li>
+									強化供應鏈安全 (於委外合約明訂廠商資安責任與監督) 
+								</li>
+								<li>
+									執行資料備份與系統發展週期安全檢核 (SSDLC) 
+								</li>
+								<li>
+									參與情資分享與聯防組織
+								</li>
+							</ul>
+						</li>
+					</ul>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="width: 20%; vertical-align: middle;">
+					查核 (Check)
+				</th>
+				<td>
+					<ul>
+						<li>
+							核心任務：監督量測與稽核
+						</li>
+						<li>
+							對應法規：
+							<ul>
+								<li>
+									資通安全事件通報及應變辦法
+								</li>
+								<li>
+									公務機關所屬人員資通安全事項獎懲辦法
+								</li>
+							</ul>
+						</li>
+						<li>
+							應辦事項：
+							<ul>
+								<li>
+									持續進行資安監控(EDR 端點偵測、日誌分析等)
+								</li>
+								<li>
+									定期實施內部稽核
+								</li>
+								<li>
+									辦理社交工程演練
+								</li>
+								<li>
+									進行資安事件通報與應變處置審核
+								</li>
+								<li>
+									召開資通安全會議 (如：推動小組會議、管理審查會議)，檢討執行成效
+								</li>
+							</ul>
+						</li>
+					</ul>
+					
+					
+				</td>
+			</tr>
+			<tr>
+				<th class="text-center" style="width: 20%; vertical-align: middle;">
+					改善 (Act)
+				</th>
+				<td>
+					<ul>
+						<li>
+							核心任務：矯正預防與持續優化
+						</li>
+						<li>
+							對應法規：
+							<ul>
+								<li>
+									特定非公務機關資通安全維護計畫實施情形稽核辦法
+								</li>
+							</ul>
+						</li>
+						<li>
+							應辦事項：
+							<ul>
+								<li>
+									針對稽核缺失與事件檢討，提出矯正預防措施
+								</li>
+								<li>
+									辦理災害還原演練，驗證備份有效性與復原計畫 
+								</li>
+								<li>
+									完成業務持續運作計畫演練
+								</li>
+								<li>
+									因應內外部環境變化，修訂資安政策與相關計畫
+								</li>
+								<li>
+									定期向管理階層（如：董事會、資安長）報告執行成果與改善方向
+								</li>
+							</ul>
+						</li>
+					</ul>
+					
+					
+				</td>
+			</tr>
+		</table>
+
+		
+	</div>
+	<!-- Bootstrap 5 JS -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
