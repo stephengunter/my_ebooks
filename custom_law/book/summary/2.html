@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+	<meta charset="UTF-8">
+	<title>關稅法規 2</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Bootstrap 5 CSS -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+	<style>
+		.my-card {
+			border: 1px solid #d1d9e6;
+			border-radius: 8px;
+			padding: 8px 12px;
+			background: #ffffff;
+			box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+			margin-bottom: 8px;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="container mt-4">
+		<div style=" display: flex; border: 1px solid #ccc; ">
+			<div style="flex: 1;padding: 12px 12px 12px 12px;">
+				<div class="my-card">
+					<h5>海關進口稅則</h5>
+					<b>《海關進口稅則》是專門用來查「貨物編號和對應稅率」的法律</b>
+					<ul>
+						<li>
+							是法律：須經「立法程序」制定公布，即須經立法院審議通過，總統公布，始生效力。
+						</li>
+						<li>
+							修正程序：財政部會有關機關（如經濟部、農業部等）及學者專家研擬 → 報行政院 → 送立法院審議
+						</li>
+						<li>
+							主要內容：「貨物名稱、稅則號列、對應稅率」對照表。
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div style="flex: 1;padding: 12px 12px 12px 0px;">
+				<div class="my-card">
+					<b>稅則號列（或稱「進口稅則」、「稅則編號」）</b>
+					<ul>
+						<li>
+							是貨物的「身分證號碼」對照表，決定這批貨要課多少稅。
+						</li>
+						<li>
+							一類貨物對應一個稅則編號。從「稅則編號 + 產地」可以查到對應的稅率。
+						</li>
+						<li>
+							我國稅則號別為8碼。例如：「其他醬油」的稅則號別是 21031090
+						</li>
+					</ul>
+				</div>
+				<div class="my-card">
+					<b>三欄稅率：依貨物原產地不同，適用不同稅率</b>
+					<table class="table table-bordered table-striped ">
+						<tr>
+							<td class="text-center" style="width: 15;">
+								欄位
+							</td>
+							<td style="width: 60%;">
+								適用對象
+							</td>
+							<td>
+								稅率高低
+							</td>
+						</tr>
+						<tr>
+							<th class="text-center">
+								第1欄
+							</th>
+							<td>
+								<ul>
+									<li>
+										<b>WTO</b>會員國
+									</li>
+									<li>
+										與我國有互惠待遇的國家
+									</li>
+								</ul>
+
+							</td>
+							<td>
+								中等（最常見）
+							</td>
+						</tr>
+						<tr>
+							<th class="text-center">
+								第2欄
+							</th>
+							<td>
+								<ul>
+									<li>
+										與我簽訂<b>FTA</b>或經濟合作協定的國家
+									</li>
+									<li>
+										特定低度開發、開發中國家(LDCS)
+									</li>
+								</ul>
+
+							</td>
+							<td>
+								最低
+							</td>
+						</tr>
+						<tr>
+							<th class="text-center">
+								第3欄
+							</th>
+							<td>
+								不適用第1、2欄的國家
+							</td>
+							<td>
+								最高
+							</td>
+						</tr>
+					</table>
+					<b>如果同一批貨同時符合第1欄和第2欄，適用較低者</b>
+					<br>
+					範例：
+					<ul>
+						<li>
+							從美國進口工具機 → 美國是WTO會員 → 適用第1欄稅率
+						</li>
+						<li>
+							從新加坡進口特定貨物 → 台星有經濟合作協議 → 可能適用第2欄較低稅率（若有列明）
+						</li>
+						<li>
+							從北韓進口貨物 → 不符合第1、2欄條件 → 適用第3欄最高稅率
+						</li>
+					</ul>
+
+				</div>
+				<div class="my-card">
+					<b>編碼結構（從國際到國內）</b>
+					<ul>
+						<li>
+							進口稅則的編號不是隨便編的，有嚴格的層級邏輯：
+						</li>
+					</ul>
+					<table class="table table-bordered table-striped table-md">
+						<tr>
+							<td class="text-center" style="width: 20%;">
+								位數
+							</td>
+							<td style="width: 30%;">
+								意義
+							</td>
+							<td>
+								舉例（數控車床）
+							</td>
+						</tr>
+						<tr>
+							<th class="text-center">
+								前2碼
+							</th>
+							<td>
+								章（大分類）
+							</td>
+							<td>
+								84章（機器及機械用具）
+							</td>
+						</tr>
+						<tr>
+							<th class="text-center">
+								第3、4碼
+							</th>
+							<td>
+								節（中分類）
+							</td>
+							<td>
+								8458（切削金屬用車床）
+							</td>
+						</tr>
+						<tr>
+							<th class="text-center">
+								第5、6碼
+							</th>
+							<td>
+								目（細分類）
+							</td>
+							<td>
+								845811（數值控制車床）
+							</td>
+						</tr>
+						<tr>
+							<th class="text-center">
+								第7、8碼
+							</th>
+							<td>
+								款（最細分類）
+							</td>
+							<td>
+								84581100（數值控制臥式車床）
+							</td>
+						</tr>
+						<tr>
+							<th class="text-center">
+								第9、10碼
+							</th>
+							<td>
+								統計號別
+							</td>
+							<td>
+
+							</td>
+						</tr>
+						<tr>
+							<th class="text-center">
+								第11碼
+							</th>
+							<td>
+								檢查號
+							</td>
+							<td>
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<div>
+					<b>HS Code 是什麼？</b>
+					<ul>
+						<li>
+							HS Code（國際商品統一分類代碼）是全球通用的商品身分證號碼。
+						</li>
+						<li>
+							由世界海關組織（WCO）制定，前 6 碼世界各國完全相同。
+						</li>
+						<li>
+							比如：「845811」 無論哪一國，看到這6碼就知道是「數值控制車床」。
+						</li>
+					</ul>
+					<b>台灣的8位碼怎麼來的？</b>
+					<ul>
+						<li>
+							前6位照抄國際HS編碼。
+						</li>
+						<li>
+							第7、8位是台灣根據自己的關稅政策和產業需求，在HS分類基礎上增加的「本國子目」。
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Bootstrap 5 JS -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
