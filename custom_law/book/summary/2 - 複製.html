@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>左右兩欄自動等高範例</title>
+    <style>
+        /* 全域樣式，去除預設邊距 */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background: #f5f7fa;
+            padding: 40px;
+        }
+
+        /* 主要容器 */
+        .container {
+            display: flex;
+            border: 1px solid #ccc;
+            background: #ffffff;
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+
+        /* 左欄 */
+        .left {
+            flex: 2;
+            border-right: 1px solid #ccc;
+            padding: 20px 24px;
+        }
+
+        /* 右欄 */
+        .right {
+            flex: 1;
+            padding: 20px 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        /* 右欄內的小卡片 */
+        .right-item {
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            padding: 14px 18px;
+            background: #fafcff;
+        }
+
+        .right-item .label {
+            font-weight: 700;
+            font-size: 14px;
+            margin-bottom: 4px;
+        }
+
+        .right-item .content {
+            font-size: 14px;
+            color: #334155;
+            line-height: 1.6;
+        }
+
+        /* 標題與基本樣式 */
+        h3 {
+            font-size: 20px;
+            margin-bottom: 12px;
+            color: #0b3b5c;
+        }
+        p, li {
+            font-size: 15px;
+            line-height: 1.7;
+            color: #1e293b;
+        }
+        ul {
+            padding-left: 20px;
+            margin: 8px 0 12px 0;
+        }
+        strong {
+            color: #0b3b5c;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- 左欄：長文 -->
+        <div class="left">
+            <h3>📖 完稅價格之核估</h3>
+            <p><strong>基本原則：</strong></p>
+            <p>從價課徵關稅之進口貨物，其完稅價格以該進口貨物之交易價格作為計算根據。交易價格，指進口貨物由輸出國銷售至中華民國實付或應付之價格。</p>
+
+            <p><strong>應加計之費用（6項）：</strong></p>
+            <ul>
+                <li><strong>① 佣金、手續費、容器及包裝費用</strong> — 由買方負擔者</li>
+                <li><strong>② 買方無償提供賣方之物品及勞務</strong> — 原材料、工具、設計等</li>
+                <li><strong>③ 權利金及報酬</strong> — 由買方支付者</li>
+                <li><strong>④ 轉售利益</strong> — 買方轉售時回饋賣方之金額</li>
+                <li><strong>⑤ 運費、裝卸費及搬運費</strong> — 至輸入口岸</li>
+                <li><strong>⑥ 保險費</strong></li>
+            </ul>
+
+            <p><strong>應計入項目須有客觀及可計量之資料。</strong>無客觀及可計量之資料者，視為無法按本條規定核估其完稅價格。</p>
+            <p>海關對納稅義務人提出之交易文件或其內容之真實性或正確性存疑，納稅義務人未提出說明或提出說明後，海關仍有合理懷疑者，視為無法按本條規定核估其完稅價格。</p>
+
+            <p><strong>核估方法：</strong></p>
+            <p>完稅價格 ＝ 實付或應付價格 ＋ 6項應加計費用。如海關對交易文件真實性有合理懷疑，且納稅義務人未說明或說明後仍有懷疑者，視為無法按本條核估，應改依第31條（同樣貨物價格）或第32條（類似貨物價格）核定。</p>
+        </div>
+
+        <!-- 右欄：三篇短文 -->
+        <div class="right">
+            <div class="right-item">
+                <div class="label" style="color: #2563eb;">📌 要件</div>
+                <div class="content">交易價格須符合三條件：貨物已銷售、價格已確定、買賣雙方無特殊關係影響價格。</div>
+            </div>
+            <div class="right-item">
+                <div class="label" style="color: #f59e0b;">⚖️ 爭議</div>
+                <div class="content">對發票真實性或正確性存疑，納稅義務人未說明或說明後仍有合理懷疑 → 視為無法按第29條核估。</div>
+            </div>
+            <div class="right-item">
+                <div class="label" style="color: #10b981;">📊 實例</div>
+                <div class="content">發票價格：100萬元<br>加計：佣金5萬＋運費8萬＋保險2萬<br><strong>完稅價格 = 115萬元</strong></div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

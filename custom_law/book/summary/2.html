@@ -22,228 +22,537 @@
 
 <body>
 	<div class="container mt-4">
-		<div style=" display: flex; border: 1px solid #ccc; ">
+		<div style=" display: flex; border: 1px solid #ccc;background: #ffffff;">
 			<div style="flex: 1;padding: 12px 12px 12px 12px;">
 				<div class="my-card">
 					<h5>海關進口稅則</h5>
-					<b>《海關進口稅則》是專門用來查「貨物編號和對應稅率」的法律</b>
-					<ul>
-						<li>
-							是法律：須經「立法程序」制定公布，即須經立法院審議通過，總統公布，始生效力。
-						</li>
-						<li>
-							修正程序：財政部會有關機關（如經濟部、農業部等）及學者專家研擬 → 報行政院 → 送立法院審議
-						</li>
-						<li>
-							主要內容：「貨物名稱、稅則號列、對應稅率」對照表。
-						</li>
-					</ul>
+					<div>
+						<b>《海關進口稅則》是專門用來查「貨物編號和對應稅率」的法律</b>
+						<ul>
+							<li>
+								是法律：須經「立法程序」制定公布，即須經立法院審議通過，總統公布，始生效力。
+							</li>
+							<li>
+								修正程序：財政部會有關機關（如經濟部、農業部等）及學者專家研擬 → 報行政院 → 送立法院審議
+							</li>
+							<li>
+								主要內容：「稅則」的集合。
+								<ul>
+									<li>
+										一條稅則代表一類貨物。
+									</li>
+									<li>
+									   稅則內容：稅則號別、貨名、對應稅率、輸入/輸出規定等資訊。
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+					<div>
+						<b>稅則範例</b>
+						<table class="table table-bordered table-striped ">
+							<tr>
+								<th>
+									稅則號別
+								</th>
+								<th>
+									貨名
+								</th>
+								<th>
+									第1欄稅率
+								</th>
+								<th>
+									第2欄稅率
+								</th>
+								<th>
+									第3欄稅率
+								</th>
+							</tr>
+							<tr>
+								<th>
+									21031090
+								</th>
+								<td>
+									其他醬油
+								</td>
+								<td>
+									15%
+								</td>
+								<td>
+									12%（GT）/ 13.5%（NI）/ 0%（PA）/ 14%（SV）/ 0%（LDCs）
+								</td>
+								<td>
+									25%
+								</td>
+							</tr>
+						</table>
+					</div>
+					<div>
+						<b>三欄稅率：依貨物原產地不同，適用不同稅率</b>
+						<table class="table table-bordered table-striped ">
+							<tr>
+								<td class="text-center" style="width: 15;">
+									欄位
+								</td>
+								<td style="width: 60%;">
+									適用對象
+								</td>
+								<td>
+									稅率高低
+								</td>
+							</tr>
+							<tr>
+								<th class="text-center">
+									第1欄
+								</th>
+								<td>
+									<ul>
+										<li>
+											<b>WTO</b>會員國
+										</li>
+										<li>
+											與我國有互惠待遇的國家
+										</li>
+									</ul>
+									
+								</td>
+								<td>
+									中等（最常見）
+								</td>
+							</tr>
+							<tr>
+								<th class="text-center">
+									第2欄
+								</th>
+								<td>
+									<ul>
+										<li>
+											與我簽訂<b>FTA</b>或經濟合作協定的國家
+										</li>
+										<li>
+											特定低度開發、開發中國家(LDCS)
+										</li>
+									</ul>
+									
+								</td>
+								<td>
+									最低
+								</td>
+							</tr>
+							<tr>
+								<th class="text-center">
+									第3欄
+								</th>
+								<td>
+									不適用第1、2欄的國家
+								</td>
+								<td>
+									最高
+								</td>
+							</tr>
+						</table>
+						<b>如果同一批貨同時符合第1欄和第2欄，適用較低者</b>
+						<br>
+						範例：
+						<ul>
+							<li>
+								從美國進口工具機 → 美國是WTO會員 → 適用第1欄稅率
+							</li>
+							<li>
+								從新加坡進口特定貨物 → 台星有經濟合作協議 → 可能適用第2欄較低稅率（若有列明）
+							</li>
+							<li>
+								從北韓進口貨物 → 不符合第1、2欄條件 → 適用第3欄最高稅率
+							</li>
+						</ul>
+					</div>
+					<div>
+						<b>稅則號別（或稱「稅則編號」、「稅則號列」）</b>
+						<ul>
+							<li>
+								是貨物的「身分證號碼」對照表，決定這批貨要課多少稅。
+							</li>
+							<li>
+								一類貨物對應一個稅則編號。從「稅則編號 + 產地」可以查到對應的稅率。
+							</li>
+							<li>
+								我國稅則號別為8碼。例如：「其他醬油」的稅則號別是 21031090
+							</li>
+						</ul>
+						<b>編碼結構（從國際到國內）</b>
+						<ul>
+							<li>
+								稅則號別不是隨便編的，有嚴格的層級邏輯：
+							</li>
+						</ul>
+						<table class="table table-bordered table-striped ">
+							<tr>
+								<td class="text-center" style="width: 20%;">
+									位數
+								</td>
+								<td style="width: 30%;">
+									意義
+								</td>
+								<td>
+									舉例（數控車床）
+								</td>
+							</tr>
+							<tr>
+								<th class="text-center">
+									前2碼
+								</th>
+								<td>
+									章（大分類）
+								</td>
+								<td>
+									84章（機器及機械用具）
+								</td>
+							</tr>
+							<tr>
+								<th class="text-center">
+									第3、4碼
+								</th>
+								<td>
+									節（中分類）
+								</td>
+								<td>
+									8458（切削金屬用車床）
+								</td>
+							</tr>
+							<tr>
+								<th class="text-center">
+									第5、6碼
+								</th>
+								<td>
+									目（細分類）
+								</td>
+								<td>
+									845811（數值控制車床）
+								</td>
+							</tr>
+							<tr>
+								<th class="text-center">
+									第7、8碼
+								</th>
+								<td>
+									款（最細分類）
+								</td>
+								<td>
+									84581100（數值控制臥式車床）
+								</td>
+							</tr>
+							<tr>
+								<th class="text-center">
+									第9、10碼
+								</th>
+								<td>
+									統計號別
+								</td>
+								<td>
+									
+								</td>
+							</tr>
+							<tr>
+								<th class="text-center">
+									第11碼
+								</th>
+								<td>
+									檢查號
+								</td>
+								<td>
+									
+								</td>
+							</tr>
+						</table>
+						<b>HS Code 是什麼？</b>
+						<ul>
+							<li>
+								HS Code（國際商品統一分類代碼）是全球通用的商品身分證號碼。
+							</li>
+							<li>
+								由世界海關組織（WCO）制定，前 6 碼世界各國完全相同。
+							</li>
+							<li>
+								比如：「845811」 無論哪一國，看到這6碼就知道是「數值控制車床」。
+							</li>
+						</ul>
+						<b>台灣的8位碼怎麼來的？</b>
+						<ul>
+							<li>
+								前6位照抄國際HS編碼。
+							</li>
+							<li>
+								第7、8位是我國依自身需求，在HS分類基礎上增加的「本國子目」。
+							</li>
+						</ul>
+					</div>
 				</div>
 			</div>
 			<div style="flex: 1;padding: 12px 12px 12px 0px;">
 				<div class="my-card">
-					<b>稅則號列（或稱「進口稅則」、「稅則編號」）</b>
-					<ul>
-						<li>
-							是貨物的「身分證號碼」對照表，決定這批貨要課多少稅。
-						</li>
-						<li>
-							一類貨物對應一個稅則編號。從「稅則編號 + 產地」可以查到對應的稅率。
-						</li>
-						<li>
-							我國稅則號別為8碼。例如：「其他醬油」的稅則號別是 21031090
-						</li>
-					</ul>
-				</div>
-				<div class="my-card">
-					<b>三欄稅率：依貨物原產地不同，適用不同稅率</b>
-					<table class="table table-bordered table-striped ">
-						<tr>
-							<td class="text-center" style="width: 15;">
-								欄位
-							</td>
-							<td style="width: 60%;">
-								適用對象
-							</td>
-							<td>
-								稅率高低
-							</td>
-						</tr>
-						<tr>
-							<th class="text-center">
-								第1欄
-							</th>
-							<td>
+					<h5>關稅配額制度</h5>
+					<div>
+						<ul>
+							<li>
+								關稅配額，就是政府對特定進口貨物設定一個數量上限：
 								<ul>
 									<li>
-										<b>WTO</b>會員國
+										<b>數量內適用配額內稅率，超過適用配額外稅率。</b>
 									</li>
 									<li>
-										與我國有互惠待遇的國家
+										白話：<b>上限內用便宜的稅率，超過上限就用貴的稅率。</b>
 									</li>
 								</ul>
-
-							</td>
-							<td>
-								中等（最常見）
-							</td>
-						</tr>
-						<tr>
-							<th class="text-center">
-								第2欄
-							</th>
-							<td>
-								<ul>
-									<li>
-										與我簽訂<b>FTA</b>或經濟合作協定的國家
-									</li>
-									<li>
-										特定低度開發、開發中國家(LDCS)
-									</li>
-								</ul>
-
-							</td>
-							<td>
-								最低
-							</td>
-						</tr>
-						<tr>
-							<th class="text-center">
-								第3欄
-							</th>
-							<td>
-								不適用第1、2欄的國家
-							</td>
-							<td>
-								最高
-							</td>
-						</tr>
-					</table>
-					<b>如果同一批貨同時符合第1欄和第2欄，適用較低者</b>
-					<br>
-					範例：
-					<ul>
-						<li>
-							從美國進口工具機 → 美國是WTO會員 → 適用第1欄稅率
-						</li>
-						<li>
-							從新加坡進口特定貨物 → 台星有經濟合作協議 → 可能適用第2欄較低稅率（若有列明）
-						</li>
-						<li>
-							從北韓進口貨物 → 不符合第1、2欄條件 → 適用第3欄最高稅率
-						</li>
-					</ul>
-
+							</li>
+							<li>
+								目的：調節進口量並保護國內產業。
+							</li>
+						</ul>
+						例如：政府說「香蕉可以進口，前13,338噸只課12.5%的稅，超過的每噸課100%的稅」。
+						<table class="table table-bordered table-striped ">
+							<tr>
+								<th class="text-center" style="width: 25%;">
+									配額數量
+								</th>
+								<th>
+									13,338公噸
+								</th>
+							</tr>
+							<tr>
+								<th class="text-center" style="width: 25%;">
+									配額內稅率
+								</th>
+								<th>
+									12.5%
+								</th>
+							</tr>
+							<tr>
+								<th class="text-center" style="width: 25%;">
+									配額外稅率
+								</th>
+								<th>
+									100%
+								</th>
+							</tr>
+							<tr>
+								<th class="text-center" style="width: 25%;">
+									差多少
+								</th>
+								<th>
+									配額外稅率是配額內的8倍
+								</th>
+							</tr>
+						</table>
+					</div>
+					<div>
+						<b>關稅配額的主管機關：財政部</b>
+						<ul>
+							<li>
+								《關稅配額實施辦法》由財政部會同有關機關（經濟部、農業部等）擬訂，報請行政院核定之。
+							</li>
+						</ul>
+					</div>
+					<div>
+						<b>配額核配：財政部委託「台灣銀行」辦理</b>
+						<ul>
+							<li>
+								台灣銀行實際負責「配額核配」並「核發配額證」。
+							</li>
+							<li>
+								廠商配額應向台灣銀行申請。
+							</li>
+						</ul>
+						<b>我國目前實施關稅配額的貨品</b>
+						<ul>
+							<li>
+								依據WTO會員協議：現有16項農產品實施關稅配額（椰子、大蒜等）。
+							</li>
+							<li>
+								依各國自貿協定：例如台巴自由貿易協定（雞肉、鯖魚等）。
+							</li>
+						</ul>
+					</div>
 				</div>
 				<div class="my-card">
-					<b>編碼結構（從國際到國內）</b>
-					<ul>
-						<li>
-							進口稅則的編號不是隨便編的，有嚴格的層級邏輯：
-						</li>
-					</ul>
-					<table class="table table-bordered table-striped table-md">
-						<tr>
-							<td class="text-center" style="width: 20%;">
-								位數
-							</td>
-							<td style="width: 30%;">
-								意義
-							</td>
-							<td>
-								舉例（數控車床）
-							</td>
-						</tr>
-						<tr>
-							<th class="text-center">
-								前2碼
-							</th>
-							<td>
-								章（大分類）
-							</td>
-							<td>
-								84章（機器及機械用具）
-							</td>
-						</tr>
-						<tr>
-							<th class="text-center">
-								第3、4碼
-							</th>
-							<td>
-								節（中分類）
-							</td>
-							<td>
-								8458（切削金屬用車床）
-							</td>
-						</tr>
-						<tr>
-							<th class="text-center">
-								第5、6碼
-							</th>
-							<td>
-								目（細分類）
-							</td>
-							<td>
-								845811（數值控制車床）
-							</td>
-						</tr>
-						<tr>
-							<th class="text-center">
-								第7、8碼
-							</th>
-							<td>
-								款（最細分類）
-							</td>
-							<td>
-								84581100（數值控制臥式車床）
-							</td>
-						</tr>
-						<tr>
-							<th class="text-center">
-								第9、10碼
-							</th>
-							<td>
-								統計號別
-							</td>
-							<td>
-
-							</td>
-						</tr>
-						<tr>
-							<th class="text-center">
-								第11碼
-							</th>
-							<td>
-								檢查號
-							</td>
-							<td>
-
-							</td>
-						</tr>
-					</table>
+					<h5>《關稅配額實施辦法》</h5>
+					<div>
+						<b>核配方式一：先到先配</b>
+						<ul>
+							<li>
+								按進口日先後順序自動核配（先搶先贏）。
+							</li>
+							<li>
+								無須事先申請。
+							</li>
+						</ul>
+						<b>核配方式二：事先核配</b>
+						<ul>
+							<li>
+								提出申請：廠商須在公告期間內申請，由台灣銀行依「核配方法」決定分配。
+							</li>
+							<li>
+								核配方法：（由台灣銀行決定，採行以下任一種）
+								<ol>
+									<li>
+										先申請先分配
+									</li>
+									<li>
+										按進口實績核配
+									</li>
+									<li>
+										標售進口權利
+									</li>
+									<li>
+										抽籤
+									</li>
+								</ol>
+							</li>
+							<li>
+								核配證明：獲配權利人應繳納履約保證金或權利金，繳納後核發關稅配額證明書。
+							</li>
+							<li>
+								配額轉讓：得於證明書「有效期限內」全部或部分轉讓。
+							</li>
+						</ul>
+						<table class="table table-bordered table-striped">
+							<tr>
+								<th class="text-center" style="width: 50%;">
+									轉讓申請人
+								</th>
+								<th class="text-center">
+									受理機關
+								</th>
+							</tr>
+							<tr>
+								<td>
+									<b>限於有效期限內</b>
+									<ul>
+										<li>
+											有效期限內：以配額證明書為準
+										</li>
+										<li>
+											限於「事先核配」配額：只有「事先核配」配額有證明書跟有效期限
+										</li>
+									</ul>
+									<b>聯名填具申請書</b>
+									<ul>
+										<li>
+											應由權利人及受讓人聯名填具關稅配額申請書
+										</li>
+									</ul>
+									<b>檢附下列文件</b>
+									<ol>
+										<li>
+											原關稅配額證明書
+										</li>
+										<li>
+											配額轉讓同意書（雙方簽署）
+										</li>
+										<li>
+											履約保證金移轉同意書（雙方簽署）
+										</li>
+									</ol>
+									<b>向原核配之機關辦理</b>
+									<ul>
+										<li>
+											即台灣銀行
+										</li>
+									</ul>
+								</td>
+								<td>
+									<b>按轉讓數量比例辦理「履約保證金移轉」手續</b>
+									<ul>
+										<li>
+											例如轉讓40%的配額，保證金也移轉40%過去
+										</li>
+									</ul>
+									<b>得重新核發關稅配額證明書</b>
+									<ul>
+										<li>
+											證明書之有效期限，同原關稅配額證明書所載
+										</li>
+									</ul>
+								</td>
+							</tr>
+						</table>
+					</div>
 				</div>
-				<div>
-					<b>HS Code 是什麼？</b>
-					<ul>
-						<li>
-							HS Code（國際商品統一分類代碼）是全球通用的商品身分證號碼。
-						</li>
-						<li>
-							由世界海關組織（WCO）制定，前 6 碼世界各國完全相同。
-						</li>
-						<li>
-							比如：「845811」 無論哪一國，看到這6碼就知道是「數值控制車床」。
-						</li>
-					</ul>
-					<b>台灣的8位碼怎麼來的？</b>
-					<ul>
-						<li>
-							前6位照抄國際HS編碼。
-						</li>
-						<li>
-							第7、8位是台灣根據自己的關稅政策和產業需求，在HS分類基礎上增加的「本國子目」。
-						</li>
-					</ul>
+			</div>
+		</div>
+		<div style=" display: flex; border: 1px solid #ccc;background: #ffffff;">
+			<div style="flex: 1;padding: 12px 12px 12px 12px;">
+				<div class="my-card">
+					<h5>納稅義務人</h5>
+					<div>
+						<b>關稅納稅義務人為收貨人、提貨單或貨物持有人</b>
+						<ul>
+							<li>
+								原則：有「收貨人」就找收貨人 → 收貨人找不到／搞不定，就抓「提貨單持有人」 → 再不行，誰「拿著貨」就找誰。
+							</li>
+						</ul>
+						<table class="table table-bordered table-striped ">
+							<tr>
+								<td class="text-center" style="width: 15%;">
+									順位
+								</td>
+								<td class="text-center" style="width: 25%;">
+									身分
+								</td>
+								<td>
+									說明
+								</td>
+							</tr>
+							<tr>
+								<th class="text-center">
+									① 
+								</th>
+								<th class="text-center">
+									收貨人
+								</th>
+								<td>
+									提單上寫的「貨物受領人」（Consignee）
+								</td>
+							</tr>
+							<tr>
+								<th class="text-center">
+									②
+								</th>
+								<th class="text-center">
+									提貨單持有人
+
+								</th>
+								<td>
+									拿著提貨單、有權去領貨的人
+									<ul>
+										<li>
+											例：A把貨賣給C，並把提貨單背書轉讓給C => C就是提貨單持有人
+										</li>
+									</ul>
+								</td>
+							</tr>
+							<tr>
+								<th class="text-center">
+									③
+								</th>
+								<th class="text-center">
+									貨物持有人
+								</th>
+								<td>
+									拿著提貨單、有權去領貨的人
+									<ul>
+										<li>
+											例：貨物在D的倉庫被查到，D說不是他的 => D是「貨物持有人」=> D是納稅義務人
+										</li>
+									</ul>
+								</td>
+							</tr>
+						</table>
+					</div>	
+				</div>
+			</div>
+			<div style="flex: 1;padding: 12px 12px 12px 0px;">
+				<div class="my-card">
+
 				</div>
 			</div>
 		</div>
