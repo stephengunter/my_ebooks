@@ -1,0 +1,581 @@
+[
+   {
+      "title": "英譯中：請將下列英文句子譯成中文。（15 分）\nWhat we feel is a sense of precariousness—a gut-level suspicion that hard work, thrift, and following the rules won't give us control over our life, much less guarantee a happy ending.",
+      "answer": "我們所感受到的，是一種不安全感——一種發自內心的懷疑：努力工作、節儉度日、循規蹈矩，並不能讓我們掌控自己的人生，更遑論保證一個幸福的結局。",
+      "hint": "<div> <b>句構拆解</b> <ul> <li> <b>What we feel</b>（主語子句：我們所感受到的）＋ <b>is</b>（動詞）＋ <b>a sense of precariousness</b>（主語補語：一種不安全感）。 </li> <li> 破折號後的 <b>a gut-level suspicion</b> 是同位語，補充說明「不安全感」的內容。 </li> <li> <b>that hard work, thrift, and following the rules won't give us control over our life</b> 是同位語子句，說明 suspicion 的內容：努力工作、節儉、守規矩「不能讓我們掌控人生」。 </li> <li> <b>much less guarantee a happy ending</b>：much less 為「更遑論、更不用說」，後面接與前面平行的動詞片語（guarantee）。 </li> </ul> <b>關鍵詞</b> <ul> <li> <b>precariousness</b>（不穩定、岌岌可危）→ 譯「不安全感」比直譯「危險性」自然。 </li> <li> <b>gut-level</b>（發自內心的、直覺的）→ 「內心深處的」「本能的」。 </li> <li> <b>thrift</b>（節儉）→ 「節儉度日」。 </li> <li> <b>much less</b>（更不用說）→ 「更遑論」。 </li> </ul> <b>翻譯技巧</b> <ul> <li> 英文一個長句，中文宜<b>斷成兩句</b>：先譯主句，再用冒號或「——」引出懷疑的內容。 </li> <li> 三個並列名詞 hard work, thrift, and following the rules 譯成四字或短語節奏（努力工作、節儉度日、循規蹈矩），比逐字直譯通順。 </li> <li> 破折號在中文可保留為「——」，但若句子太長，改用冒號更清楚。 </li> </ul> <b>易錯點</b> <ul> <li> 把 much less 誤譯為「少得多」（那是 much less + 不可數名詞的用法，此處是連接詞用法）。 </li> <li> 把 control over our life 譯成「控制我們的生活」——宜譯「掌控自己的人生」。 </li> </ul> </div>"
+   },
+   {
+      "title": "中譯英：請將下列中文句子譯成英文。（15 分）\n臺灣過去的發展完全仰賴成本優勢，政策手段不出降低稅負、補貼油電、壓低勞動條件、犧牲環境品質，以及為了特定產業的出口配額或關稅而犧牲其他產業。這些補貼手段培養出各級產業競逐下游的惰性，壓榨員工勞力，還成為政府財政嚴重惡化的元兇。",
+      "answer": "Taiwan's development in the past relied entirely on cost advantages. Its policy measures consisted of nothing more than lowering taxes, subsidizing fuel and electricity, driving down labor conditions, sacrificing environmental quality, and sacrificing other industries for the sake of export quotas or tariffs for particular industries. These subsidies have bred in industries at every level an inertia to compete only in downstream segments, squeezed workers' labor, and become the chief culprit behind the severe deterioration of the government's finances.",
+      "hint": "<div> <b>句構策略</b> <ul> <li> 原文是兩個長句，英文也建議<b>分成兩句</b>：第一句講「發展仰賴成本優勢＋政策手段」；第二句講「補貼的後果」。 </li> <li> 第一句主幹：<b>Taiwan's development relied entirely on cost advantages</b>；「政策手段不出……」用 <b>Its policy measures consisted of nothing more than...</b> 或 <b>were limited to...</b> 表達「不出、僅止於」。 </li> <li> 後面五個動作以<b>並列的動名詞</b>（lowering, subsidizing, driving down, sacrificing, sacrificing）承接，維持平行結構。 </li> </ul> <b>關鍵詞對應</b> <ul> <li> 成本優勢 → <b>cost advantages</b> </li> <li> 降低稅負 → <b>lowering taxes</b>（或 tax cuts） </li> <li> 補貼油電 → <b>subsidizing fuel and electricity</b> </li> <li> 壓低勞動條件 → <b>driving down labor conditions</b>（或 suppressing labor conditions） </li> <li> 出口配額 → <b>export quotas</b>；關稅 → <b>tariffs</b> </li> <li> 為了……而犧牲其他產業 → <b>sacrificing other industries for the sake of...</b> </li> <li> 競逐下游 → <b>compete in downstream segments</b> </li> <li> 惰性 → <b>inertia</b>（或 a habit of） </li> <li> 壓榨員工勞力 → <b>squeeze workers' labor</b>（或 exploit workers） </li> <li> 元兇 → <b>the chief culprit</b> </li> <li> 財政嚴重惡化 → <b>the severe deterioration of government finances</b> </li> </ul> <b>加分句型</b> <ul> <li> <b>nothing more than</b>／<b>no more than</b>：強調「僅止於」，呼應原文「不出」。 </li> <li> <b>have bred...</b>（現在完成式）：表示補貼造成的後果延續至今。 </li> <li> <b>the chief culprit behind...</b>：比 the main reason for 更有力。 </li> </ul> <b>易錯點</b> <ul> <li> 「政策手段不出」若直譯 policy methods do not come out of，會完全走鐘。 </li> <li> 「各級產業」譯成 industries of all levels 可以，但 <b>industries at every level</b> 更道地。 </li> <li> 「競逐下游」不是 compete downstream（副詞），宜用 compete in downstream segments。 </li> </ul> </div>"
+   },
+   {
+      "title": "英文作文：（20 分）\nWrite a composition of no less than 200 words to answer the following question—For being a customs official, what do you consider may be the essential qualification required of you? And explain why you think so.",
+      "answer": "Among the many qualities a customs official should possess, I consider integrity to be the essential qualification. Customs officers stand at the border, where enormous volumes of goods and money pass through their hands every day. They decide whether a shipment is cleared, inspected, or taxed, and they have access to sensitive information about traders. This discretion makes integrity not merely a virtue but a professional necessity.\n\nFirst, integrity protects the revenue of the state. A customs officer who accepts a bribe in exchange for understating the value of imported goods directly reduces government income and gives dishonest firms an unfair advantage. Second, integrity safeguards fair competition. When clearance depends on personal connections rather than regulations, law-abiding businesses suffer and the market is distorted. Third, integrity preserves public trust. Customs is often the first face of the country that foreign visitors and traders see, and a single corruption scandal can damage the nation's reputation for years.\n\nIntegrity can be supported by institutional design—rotation of posts, transparent procedures, and strict internal audits—but the final decision always lies with the individual. A customs officer who refuses a bribe may lose a short-term gain, yet he or she keeps something far more valuable: a clear conscience and the respect of the public. For these reasons, I firmly believe that integrity is the qualification that matters most.",
+      "hint": "<div> <b>審題</b> <ul> <li> 題目問「你認為海關人員最必備的資格是什麼？並說明理由」——必須<b>選定一項</b>資格（不可列一堆），並<b>說明為什麼</b>。 </li> <li> 建議主題：<b>integrity（廉潔、誠信）</b>，因為海關掌握通關、查驗、課稅的裁量權，誘惑最多、風險最高，最好發揮。 </li> <li> 其他可選主題：professional knowledge（專業知識）、communication skills（溝通能力）、attention to detail（細心）、resilience（抗壓）。 </li> </ul> <b>三段架構</b> <ul> <li> <b>第一段（開頭）</b>：點出主題＋一句話說明海關的工作性質（通關、查驗、課稅、掌握資訊），結尾下立場句。 </li> <li> <b>第二段（主體）</b>：三個理由——①保護國家稅收 ②維護公平競爭 ③維持公眾信任；每個理由用 2–3 句說明，最好各給一個具體情境（收賄低報貨價、靠關係通關）。 </li> <li> <b>第三段（結論）</b>：承認制度面（輪調、透明程序、內部稽核）也重要，但最終仍取決於個人；以「clear conscience and public respect」收尾，回扣主題。 </li> </ul> <b>關鍵詞彙</b> <ul> <li> customs official／customs officer 海關人員 </li> <li> clearance 通關；inspection 查驗；duty 關稅 </li> <li> discretion 裁量權；bribe 賄賂；understate the value 低報價值 </li> <li> state revenue 國家稅收；fair competition 公平競爭 </li> <li> public trust 公眾信任；corruption scandal 貪腐醜聞 </li> <li> rotation of posts 職務輪調；transparent procedures 透明程序；internal audit 內部稽核 </li> <li> a clear conscience 問心無愧 </li> </ul> <b>加分句型</b> <ul> <li> <b>not merely A but B</b>：This discretion makes integrity not merely a virtue but a professional necessity. </li> <li> <b>When..., ...</b>：When clearance depends on connections rather than regulations, law-abiding businesses suffer. </li> <li> <b>may lose..., yet keeps something far more valuable</b>：讓結論有轉折張力。 </li> </ul> <b>評分重點</b> <ul> <li> <b>字數</b>：至少 200 字，建議 220–250 字。 </li> <li> <b>結構</b>：三段、每段一個中心句（topic sentence）。 </li> <li> <b>用字</b>：避免 good、bad 等空泛字，改用具體名詞（revenue, integrity, credibility）。 </li> <li> <b>文法</b>：注意關係子句、分詞構句、時態一致。 </li> </ul> </div>"
+   },
+   {
+      "title": "The sign says: “We wish to apologize to local residents for any ______ caused.”",
+      "options": [
+         {
+            "text": "inconvenience",
+            "isCorrect": true
+         },
+         {
+            "text": "compliment",
+            "isCorrect": false
+         },
+         {
+            "text": "inspiration",
+            "isCorrect": false
+         },
+         {
+            "text": "contribution",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>1. We wish to apologize to local residents for any inconvenience caused.</b> <br> （我們希望為造成任何不便，向當地居民致歉。） <ul> <li> <b>考點：</b>apologize to sb. for sth.＝為某事向某人道歉；<b>inconvenience（不便）為不可數名詞</b>，故用 any inconvenience。 </li> <li> <b>固定搭配：</b>apologize for any inconvenience caused（告示、公告最常見的道歉句）。 </li> <li> <b>其他選項：</b>compliment 讚美；inspiration 靈感；contribution 貢獻——都不會「被造成」，語意不通。 </li> <li> <b>例句：</b>We apologize for any inconvenience caused by the road works.（我們為道路施工造成的不便致歉。） </li> </ul> <b>撇步</b> <ul> <li> 看到「apologize for any ___ caused」，答案幾乎就是 <b>inconvenience</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "The dentist fills in the ______ in her tooth in case that the decay gets larger in the future and leads to serious toothache and even tooth loss.",
+      "options": [
+         {
+            "text": "acne",
+            "isCorrect": false
+         },
+         {
+            "text": "bait",
+            "isCorrect": false
+         },
+         {
+            "text": "cavity",
+            "isCorrect": true
+         },
+         {
+            "text": "facet",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>2. The dentist fills in the cavity in her tooth in case that the decay gets larger in the future and leads to serious toothache and even tooth loss.</b> <br> （牙醫把她的蛀牙洞補起來，以免日後蛀蝕範圍擴大，導致嚴重牙痛甚至掉牙。） <ul> <li> <b>考點：</b><b>cavity</b>＝蛀洞、腔（此處指牙齿因蛀蝕形成的洞）；fill in a cavity＝補牙。 </li> <li> <b>線索：</b>the dentist、the decay、toothache、tooth loss 全都是牙科用語，答案必與「牙齒的洞」有關。 </li> <li> <b>其他選項：</b>acne 青春痘；bait 誘餌；facet 切面、（事物的）面向——都與牙齒無關。 </li> <li> <b>例句：</b>I had two cavities filled last week.（我上週補了兩顆蛀牙。） </li> </ul> <b>撇步</b> <ul> <li> 牙醫、蛀蝕、牙痛 → 直接聯想 <b>cavity</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "Judy, who sued her boss for constantly ______ her physically and verbally, has so far refused to settle the case out of court.",
+      "options": [
+         {
+            "text": "sponsoring",
+            "isCorrect": false
+         },
+         {
+            "text": "dissuading",
+            "isCorrect": false
+         },
+         {
+            "text": "harassing",
+            "isCorrect": true
+         },
+         {
+            "text": "patronizing",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>3. Judy, who sued her boss for constantly harassing her physically and verbally, has so far refused to settle the case out of court.</b> <br> （茱蒂控告老闆長期對她施加肢體與言語騷擾，至今仍拒絕庭外和解。） <ul> <li> <b>考點：</b><b>harass</b>＝騷擾、侵擾；<b>physically and verbally</b>（肢體上與言語上）正是 harassment 的常見描述。 </li> <li> <b>線索：</b>sued her boss（控告老闆）、settle the case out of court（庭外和解）→ 一定是侵害行為。 </li> <li> <b>其他選項：</b>sponsor 贊助；dissuade 勸阻（dissuade sb. from doing sth.）；patronize 光顧、以居高臨下的態度對待——都不是「被告」的行為。 </li> <li> <b>例句：</b>She was harassed by a colleague and reported it to HR.（她遭同事騷擾，並向人資部門舉報。） </li> </ul> <b>撇步</b> <ul> <li> 「physically and verbally」＋「提告」→ <b>harassing</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "Even though John does not intend to hurt his friend, he still needs to face the ______ of manslaughter because he has wounded him badly.",
+      "options": [
+         {
+            "text": "allegation",
+            "isCorrect": true
+         },
+         {
+            "text": "captivity",
+            "isCorrect": false
+         },
+         {
+            "text": "objection",
+            "isCorrect": false
+         },
+         {
+            "text": "mandate",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>4. Even though John does not intend to hurt his friend, he still needs to face the allegation of manslaughter because he has wounded him badly.</b> <br> （即使約翰無意傷害朋友，他仍須面對過失致死的指控，因為他把朋友傷得很重。） <ul> <li> <b>考點：</b><b>allegation</b>＝（尚未證實的）指控；<b>face the allegation of...</b>＝面對……的指控。 </li> <li> <b>線索：</b>manslaughter（過失殺人）是一種罪名，前面接的必然是「指控」。 </li> <li> <b>其他選項：</b>captivity 囚禁；objection 反對；mandate 授權、命令——都不能接「罪名」。 </li> <li> <b>例句：</b>He denied the allegation of fraud.（他否認詐欺的指控。） </li> </ul> <b>撇步</b> <ul> <li> the ___ of + 罪名 → <b>allegation</b>（指控）。 </li> </ul> </div>"
+   },
+   {
+      "title": "Teresa is an excellent high school counsellor because of not only her professional background but also her ______ personality.",
+      "options": [
+         {
+            "text": "indifferent",
+            "isCorrect": false
+         },
+         {
+            "text": "compassionate",
+            "isCorrect": true
+         },
+         {
+            "text": "discriminating",
+            "isCorrect": false
+         },
+         {
+            "text": "problematic",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>5. Teresa is an excellent high school counsellor because of not only her professional background but also her compassionate personality.</b> <br> （泰瑞莎是優秀的高中輔導老師，因為她不僅有專業背景，還有富有同理心的性格。） <ul> <li> <b>考點：</b><b>compassionate</b>＝有同理心的、富同情心的，是輔導人員的核心特質。 </li> <li> <b>句構：</b>not only A but also B（不僅 A 而且 B），A、B 詞性須對稱（此處皆為名詞片語）。 </li> <li> <b>其他選項：</b>indifferent 冷漠的；discriminating 有差別待遇的、歧視的；problematic 有問題的——都是負面特質，與 excellent 矛盾。 </li> <li> <b>例句：</b>A good nurse should be patient and compassionate.（好的護理師應有耐心與同理心。） </li> </ul> <b>撇步</b> <ul> <li> 輔導、護理、社工 → 正向特質選 <b>compassionate</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "In the 17th century, Port Royal was considered the most ______ port in the world because of its pirate activities, loose morals and tasteless displays of wealth.",
+      "options": [
+         {
+            "text": "deserted",
+            "isCorrect": false
+         },
+         {
+            "text": "luxurious",
+            "isCorrect": false
+         },
+         {
+            "text": "notorious",
+            "isCorrect": true
+         },
+         {
+            "text": "prosperous",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>6. In the 17th century, Port Royal was considered the most notorious port in the world because of its pirate activities, loose morals and tasteless displays of wealth.</b> <br> （十七世紀時，皇家港因海盜活動、道德敗壞與俗不可耐的炫富，被認為是世界上最聲名狼藉的港口。） <ul> <li> <b>考點：</b><b>notorious</b>＝惡名昭彰的；<b>be notorious for</b>＝因……而惡名昭彰。 </li> <li> <b>線索：</b>pirate activities（海盜活動）、loose morals（道德敗壞）、tasteless displays of wealth（俗氣炫富）全是負面描述。 </li> <li> <b>其他選項：</b>deserted 荒廢的；luxurious 奢華的；prosperous 繁榮的——都無法統攝「海盜＋敗德」的負面語意。 </li> <li> <b>例句：</b>The area is notorious for its high crime rate.（該區因犯罪率高而惡名昭彰。） </li> </ul> <b>撇步</b> <ul> <li> 負面原因串連 → 選 <b>notorious</b>；正面繁榮才選 prosperous。 </li> </ul> </div>"
+   },
+   {
+      "title": "Rags-to-riches stories read like scripts for movies, but they're the true-life dramas of ______ born into deep poverty but becoming superstars.",
+      "options": [
+         {
+            "text": "celebrities",
+            "isCorrect": true
+         },
+         {
+            "text": "criminals",
+            "isCorrect": false
+         },
+         {
+            "text": "villains",
+            "isCorrect": false
+         },
+         {
+            "text": "swindlers",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>7. Rags-to-riches stories read like scripts for movies, but they're the true-life dramas of celebrities born into deep poverty but becoming superstars.</b> <br> （白手起家的故事讀起來像電影劇本，但它們是名人真實的人生戲碼——出身赤貧，最後成為超級巨星。） <ul> <li> <b>考點：</b><b>rags-to-riches</b>＝從赤貧到富有的、白手起家的；<b>celebrities</b>＝名人（celebrity 的複數）。 </li> <li> <b>線索：</b>born into deep poverty but becoming <b>superstars</b> → 一定是名人。 </li> <li> <b>其他選項：</b>criminals 罪犯；villains 壞人；swindlers 騙子——都與「成為巨星」的正面結局矛盾。 </li> <li> <b>例句：</b>Her life is a rags-to-riches story.（她的人生是白手起家的故事。） </li> </ul> <b>撇步</b> <ul> <li> rags-to-riches ＋ superstars → <b>celebrities</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "The company's new policy requiring female workers to wear high heels ______ when a number of female employees threatened to quit.",
+      "options": [
+         {
+            "text": "backfired",
+            "isCorrect": true
+         },
+         {
+            "text": "outstripped",
+            "isCorrect": false
+         },
+         {
+            "text": "upheld",
+            "isCorrect": false
+         },
+         {
+            "text": "withstood",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>8. The company's new policy requiring female workers to wear high heels backfired when a number of female employees threatened to quit.</b> <br> （公司要求女性員工穿高跟鞋的新政策適得其反，因為多名女員工揚言辭職。） <ul> <li> <b>考點：</b><b>backfire</b>＝（計畫、政策）適得其反、產生反效果。 </li> <li> <b>線索：</b>員工威脅辭職，表示政策帶來<b>反效果</b>。 </li> <li> <b>其他選項：</b>outstrip 超越；uphold 維持、支持（過去式 upheld）；withstand 承受（過去式 withstood）——都無法表達「弄巧成拙」。 </li> <li> <b>例句：</b>The marketing campaign backfired and sales dropped.（行銷活動適得其反，銷售下滑。） </li> </ul> <b>撇步</b> <ul> <li> 政策＋員工反彈 → <b>backfired</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "The state-wide transport strike is expected to ______ public transportation by 100 percent, so we'd better stay at home today.",
+      "options": [
+         {
+            "text": "administer",
+            "isCorrect": false
+         },
+         {
+            "text": "depreciate",
+            "isCorrect": false
+         },
+         {
+            "text": "paralyze",
+            "isCorrect": true
+         },
+         {
+            "text": "reform",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>9. The state-wide transport strike is expected to paralyze public transportation by 100 percent, so we'd better stay at home today.</b> <br> （全州交通罷工預料將使大眾運輸完全癱瘓，所以我們今天最好待在家裡。） <ul> <li> <b>考點：</b><b>paralyze</b>＝使癱瘓、使無法運作；常用來描述交通、系統、城市停擺。 </li> <li> <b>線索：</b>strike（罷工）＋by 100 percent（百分之百）→ 完全停擺。 </li> <li> <b>其他選項：</b>administer 管理、施用；depreciate 貶值；reform 改革——罷工不會「管理／貶值／改革」交通。 </li> <li> <b>例句：</b>The snowstorm paralyzed the city's traffic.（暴風雪使全市交通癱瘓。） </li> </ul> <b>撇步</b> <ul> <li> 罷工、風雪、癱瘓 → <b>paralyze</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "Air Canada has announced drastic cuts to its domestic network as it ______ with sharply reduced demand in travel.",
+      "options": [
+         {
+            "text": "grapples",
+            "isCorrect": true
+         },
+         {
+            "text": "interchanges",
+            "isCorrect": false
+         },
+         {
+            "text": "integrates",
+            "isCorrect": false
+         },
+         {
+            "text": "equips",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>10. Air Canada has announced drastic cuts to its domestic network as it grapples with sharply reduced demand in travel.</b> <br> （加拿大航空宣布大幅削減國內航網，因為它正努力應對旅遊需求驟減的困境。） <ul> <li> <b>考點：</b><b>grapple with</b>＝努力應付、设法解決（難題）。 </li> <li> <b>線索：</b>sharply reduced demand（需求驟減）是負面困境，須用「應付」之意的動詞。 </li> <li> <b>其他選項：</b>interchange 交換；integrate 整合；equip 裝備——都不能接 with 表達「對抗困境」。 </li> <li> <b>例句：</b>The government is grappling with rising inflation.（政府正努力應對通膨上升。） </li> </ul> <b>撇步</b> <ul> <li> <b>grapple with + 問題</b>是固定搭配；tackle／deal with／cope with 亦可。 </li> </ul> </div>"
+   },
+   {
+      "title": "As a safety feature, this machine has a special ______ which will shut itself off if it begins to overheat.",
+      "options": [
+         {
+            "text": "expertise",
+            "isCorrect": false
+         },
+         {
+            "text": "mechanism",
+            "isCorrect": true
+         },
+         {
+            "text": "regulation",
+            "isCorrect": false
+         },
+         {
+            "text": "utensil",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>11. As a safety feature, this machine has a special mechanism which will shut itself off if it begins to overheat.</b> <br> （作為安全設計，這台機器有一個特殊機制，一旦開始過熱就會自動關機。） <ul> <li> <b>考點：</b><b>mechanism</b>＝機制、（機械）裝置；a safety mechanism＝安全機制。 </li> <li> <b>線索：</b>shut itself off（自動關機）是機器內部的裝置在運作。 </li> <li> <b>其他選項：</b>expertise 專業知識；regulation 法規；utensil 器具（多指廚房用具）。 </li> <li> <b>例句：</b>The car has a safety mechanism that locks the doors automatically.（這輛車有自動鎖門的安全機制。） </li> </ul> <b>撇步</b> <ul> <li> 機器「有某個裝置會自動……」→ <b>mechanism</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "At the sport stadium, most of the crowd were cheering for the ______ to win just this one time as the team was from a remote slum district.",
+      "options": [
+         {
+            "text": "top class",
+            "isCorrect": false
+         },
+         {
+            "text": "underdog",
+            "isCorrect": true
+         },
+         {
+            "text": "lapdog",
+            "isCorrect": false
+         },
+         {
+            "text": "top dog",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>12. At the sport stadium, most of the crowd were cheering for the underdog to win just this one time as the team was from a remote slum district.</b> <br> （在體育場裡，大多數觀眾都為這支弱隊加油，希望它就贏這麼一次，因為該隊來自偏遠的貧民區。） <ul> <li> <b>考點：</b><b>underdog</b>＝劣勢者、不被看好的隊伍；cheer for the underdog＝為弱勢的一方加油。 </li> <li> <b>線索：</b>remote slum district（偏遠貧民區）＋「就贏這麼一次」→ 弱勢的一方。 </li> <li> <b>其他選項：</b>top class 頂級；lapdog 哈巴狗、順從者；top dog 領導者、贏家——都與「弱勢」相反。 </li> <li> <b>例句：</b>Everyone loves an underdog.（大家都愛看弱隊逆襲。） </li> </ul> <b>撇步</b> <ul> <li> 對比記：<b>underdog 弱勢／top dog 老大</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "Newly developed data visualization types are more complex in form and content, and thus are more ______ for users to decode and make sense of.",
+      "options": [
+         {
+            "text": "demanding",
+            "isCorrect": true
+         },
+         {
+            "text": "descending",
+            "isCorrect": false
+         },
+         {
+            "text": "depreciating",
+            "isCorrect": false
+         },
+         {
+            "text": "diverting",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>13. Newly developed data visualization types are more complex in form and content, and thus are more demanding for users to decode and make sense of.</b> <br> （新開發的資料視覺化類型在形式與內容上更複雜，因此對使用者而言，解讀與理解起來也更費力。） <ul> <li> <b>考點：</b><b>demanding</b>＝費力的、要求高的；<b>be demanding for sb. to do sth.</b>＝對某人而言做某事很吃力。 </li> <li> <b>線索：</b>more complex（更複雜）→ 所以「更難解讀」。 </li> <li> <b>其他選項：</b>descending 下降的；depreciating 貶值的；diverting 轉移注意力的、娛樂的——都不合語意。 </li> <li> <b>例句：</b>This task is demanding for beginners.（這項任務對初學者很吃力。） </li> </ul> <b>撇步</b> <ul> <li> complex → <b>demanding</b>（需要更多心力）。 </li> </ul> </div>"
+   },
+   {
+      "title": "It was a ______ that three earthquakes happened across the world in one week.",
+      "options": [
+         {
+            "text": "subscription",
+            "isCorrect": false
+         },
+         {
+            "text": "synthesis",
+            "isCorrect": false
+         },
+         {
+            "text": "commentary",
+            "isCorrect": false
+         },
+         {
+            "text": "coincidence",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>14. It was a coincidence that three earthquakes happened across the world in one week.</b> <br> （一週內世界各地發生三起地震，純屬巧合。） <ul> <li> <b>考點：</b><b>coincidence</b>＝巧合；<b>It was a coincidence that...</b>＝……是巧合。 </li> <li> <b>線索：</b>三起地震在同一週發生、彼此無因果關係 → 巧合。 </li> <li> <b>其他選項：</b>subscription 訂閱；synthesis 綜合；commentary 評論——都與「偶然同時發生」無關。 </li> <li> <b>例句：</b>By coincidence, we both arrived at the same time.（湊巧的是，我們同時抵達。） </li> </ul> <b>撇步</b> <ul> <li> 「同時發生、無因果」→ <b>coincidence</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "The inspector general told policemen to be polite with people and ______ urged citizens to show respect to law enforcers.",
+      "options": [
+         {
+            "text": "spaciously",
+            "isCorrect": false
+         },
+         {
+            "text": "redundantly",
+            "isCorrect": false
+         },
+         {
+            "text": "reciprocally",
+            "isCorrect": true
+         },
+         {
+            "text": "superstitiously",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>15. The inspector general told policemen to be polite with people and reciprocally urged citizens to show respect to law enforcers.</b> <br> （督察長要求警察對民眾有禮，並相對地呼籲民眾尊重執法人員。） <ul> <li> <b>考點：</b><b>reciprocally</b>＝相互地、對等地；此處指「一方有禮、另一方也應尊重」的對等關係。 </li> <li> <b>線索：</b>be polite with people ↔ citizens show respect to law enforcers，兩邊互相對應。 </li> <li> <b>其他選項：</b>spaciously 寬敞地；redundantly 多餘地；superstitiously 迷信地——都不合語意。 </li> <li> <b>例句：</b>Respect should be reciprocal.（尊重應該是相互的。） </li> </ul> <b>撇步</b> <ul> <li> 「你對我、我也對你」的對等關係 → <b>reciprocally</b>（形容詞 reciprocal）。 </li> </ul> </div>"
+   },
+   {
+      "title": "<div> A time zone is a region of the globe that observes a uniform standard time for legal, commercial, and social purposes. Time zones tend to follow the <u>&nbsp;&nbsp; 16 &nbsp;&nbsp;</u> of countries and their subdivisions because it is convenient for areas in close communication and interaction to keep the same time. From east to west, four time zones, <u>&nbsp;&nbsp; 17 &nbsp;&nbsp;</u>, Eastern, Central, Mountain, and Pacific, spread across the continental United States. Noticeably, a recent study found that living on the “wrong” side of a time zone can be <u>&nbsp;&nbsp; 18 &nbsp;&nbsp;</u> to one's health.<br><br>The researchers tracked about one million people's sleep times. They found that bedtimes shift from east to west, with a sharp <u>&nbsp;&nbsp; 19 &nbsp;&nbsp;</u> happening once one crosses into a new time zone. The key to understanding the finding is knowing the link between time zones and local sunset times. Traveling east to west, one can find sunrise and sunset times get later. In general, people on the late sunset side of a time zone are more likely to be sleep <u>&nbsp;&nbsp; 20 &nbsp;&nbsp;</u>, more likely to sleep less than 6 hours, and less likely to sleep at least 8 hours. Given what is known about the importance of sleep for good physical and mental health, it is no surprise that a greater incidence of health problems, including overweight, diabetes, heart attack, and breast cancer, was found in areas where the sun sets later. </div>",
+      "options": [],
+      "hint": "",
+      "subItems": [
+         {
+            "title": "16",
+            "options": [
+               {
+                  "text": "authorities",
+                  "isCorrect": false
+               },
+               {
+                  "text": "boundaries",
+                  "isCorrect": true
+               },
+               {
+                  "text": "estates",
+                  "isCorrect": false
+               },
+               {
+                  "text": "populations",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>16. Time zones tend to follow the boundaries of countries and their subdivisions because it is convenient for areas in close communication and interaction to keep the same time.</b> <br> （時區往往依循國家及其行政區的界線，因為對往來密切的地區而言，維持相同時間較為方便。） <ul> <li> <b>考點：</b><b>boundaries</b>＝界線、邊界（boundary 的複數）；follow the boundaries of countries＝依循各國邊界。 </li> <li> <b>線索：</b>後文 their subdivisions（下級行政區）提示前面是「國家與行政區的界線」。 </li> <li> <b>其他選項：</b>authorities 當局；estates 地產；populations 人口——都不能「被時區依循」。 </li> </ul> <b>撇步</b> <ul> <li> 時區沿著「國界、行政區界」劃分 → <b>boundaries</b>。 </li> </ul> </div>"
+         },
+         {
+            "title": "17",
+            "options": [
+               {
+                  "text": "consequently",
+                  "isCorrect": false
+               },
+               {
+                  "text": "in contrast",
+                  "isCorrect": false
+               },
+               {
+                  "text": "for instance",
+                  "isCorrect": false
+               },
+               {
+                  "text": "namely",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>17. From east to west, four time zones, namely, Eastern, Central, Mountain, and Pacific, spread across the continental United States.</b> <br> （由東向西，四個時區，即東部、中部、山地與太平洋時區，橫跨美國本土。） <ul> <li> <b>考點：</b><b>namely</b>＝即、也就是，用來<b>列舉前面名詞的具體內容</b>。 </li> <li> <b>句構：</b>four time zones, <b>namely</b>, A, B, C, and D → 後面的四個名稱正是前面「四個時區」的內容。 </li> <li> <b>其他選項：</b>consequently 因此（因果）；in contrast 相反地（對比）；for instance 例如（舉例，通常只舉一項）。 </li> </ul> <b>撇步</b> <ul> <li> 前面是「總稱」、後面是「完整清單」→ <b>namely</b>；只舉一例才用 for instance。 </li> </ul> </div>"
+         },
+         {
+            "title": "18",
+            "options": [
+               {
+                  "text": "fragile",
+                  "isCorrect": false
+               },
+               {
+                  "text": "hazardous",
+                  "isCorrect": true
+               },
+               {
+                  "text": "marginal",
+                  "isCorrect": false
+               },
+               {
+                  "text": "reciprocal",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>18. Noticeably, a recent study found that living on the “wrong” side of a time zone can be hazardous to one's health.</b> <br> （值得注意的是，近期研究發現，住在時區中「錯誤」的一側可能危害健康。） <ul> <li> <b>考點：</b><b>hazardous</b>＝有害的、危險的；<b>be hazardous to one's health</b>＝危害健康（固定搭配）。 </li> <li> <b>線索：</b>後文提到睡眠不足與各種疾病（overweight, diabetes, heart attack, breast cancer），故選「有害」。 </li> <li> <b>其他選項：</b>fragile 脆弱的（修飾物）；marginal 邊緣的、微小的；reciprocal 相互的。 </li></ul> <b>撇步</b> <ul> <li> <b>be hazardous to health</b> 是固定用法，等於 be harmful to health。 </li> </ul> </div>"
+         },
+         {
+            "title": "19",
+            "options": [
+               {
+                  "text": "ascent",
+                  "isCorrect": false
+               },
+               {
+                  "text": "conflict",
+                  "isCorrect": false
+               },
+               {
+                  "text": "eruption",
+                  "isCorrect": false
+               },
+               {
+                  "text": "reset",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>19. They found that bedtimes shift from east to west, with a sharp reset happening once one crosses into a new time zone.</b> <br> （他們發現上床時間會由東向西推移，一旦跨入新時區就會出現急遽的重新設定。） <ul> <li> <b>考點：</b><b>reset</b>＝重新設定；a sharp reset＝急遽的重設（指生理時鐘被迫重新調整）。 </li> <li> <b>線索：</b>crosses into a new time zone（跨入新時區）→ 時間被「重設」，呼應前文 bedtimes shift。 </li> <li> <b>其他選項：</b>ascent 上升；conflict 衝突；eruption 爆發——都不合「時鐘重設」的語意。 </li> </ul> <b>撇步</b> <ul> <li> 時區、生理時鐘 → <b>reset</b>。 </li> </ul> </div>"
+         },
+         {
+            "title": "20",
+            "options": [
+               {
+                  "text": "deprived",
+                  "isCorrect": true
+               },
+               {
+                  "text": "depriving",
+                  "isCorrect": false
+               },
+               {
+                  "text": "to deprive",
+                  "isCorrect": false
+               },
+               {
+                  "text": "deprive",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>20. In general, people on the late sunset side of a time zone are more likely to be sleep deprived, more likely to sleep less than 6 hours, and less likely to sleep at least 8 hours.</b> <br> （一般而言，位於時區中日落較晚一側的人，較可能睡眠不足、較可能睡不到六小時，也較不可能睡滿八小時。） <ul> <li> <b>考點：</b><b>be sleep deprived</b>＝睡眠不足（複合形容詞 sleep-deprived，此處以兩個字呈現）；be 後須接<b>形容詞</b>，故用過去分詞 deprived。 </li> <li> <b>線索：</b>more likely to be... → be 後面接形容詞；deprived 是「被剝奪的」分詞形容詞。 </li> <li> <b>其他選項：</b>depriving（現在分詞，主動）、to deprive（不定詞）、deprive（原形）——都不能放在 be 後面當形容詞。 </li> </ul> <b>撇步</b> <ul> <li> be + <b>過去分詞</b> 表狀態：be sleep deprived、be stressed、be exhausted。 </li> </ul> </div>"
+         }
+      ]
+   },
+   {
+      "title": "<div> When Howard Carter unsealed the tomb of Tutankhamun in 1922, he set off a series of discoveries that would capture the imagination of the world. Almost a century later, a team of scientists has now completed a decade-long project of a painstaking study and conservation of the tomb that has not only solved some mysteries but also raised new questions.<br><br>One of the hallmarks of the tomb is the ubiquitous brown freckles across all of the wall paintings, present when Carter opened the burial chamber. A study of the spots revealed that they are microbial in origin. DNA analysis of swabs taken from the tomb walls turned up modern organisms, but electron microscope imaging showed no remnants of the original organisms that created the spots. The conservators theorize that because Tutankhamun died unexpectedly, the tomb might be prepared in a rush, and the moisture retained in the freshly plastered walls allowed microbes to thrive in the tomb after it was sealed. However, the spots have been dead for a long time—a fact confirmed by comparisons of photographs taken immediately after the tomb opening with those from present day.<br><br>The constant presence of dust is another serious problem. Fine-grained and thirsty, the desert dust brought in by visitors clings to every tomb surface, and is made even more tenacious after absorbing humidity from human breath. What's even worse is that there was no damage-free remedy for the fine, streaky veils of dust that accumulated on the tomb's fragile paintings. To tackle the dust problem, the conservators installed a sophisticated air filtration and ventilation system which not only filters the dusty scour out of the tomb environment, but also prevents excess particulates from wafting in. The regular exchange of air has also stabilized temperature and humidity within the tomb. And, upon removing the old viewing platform over the burial chamber to mount the system's air vents, project workers were surprised to find scraps of paper with entreaties to Tutankhamun for blessings and calls for pharaonic curses on other people.<br><br>Even though the most thorough inspection of Tutankhamun's tomb has now completed, several questions about its future still remain. The long-term impact of dust is still unknown. Found to be comprised primarily of calcium, magnesium, aluminum, and phosphorous, it's unclear how the dust may chemically interact with the natural minerals in the paints and pigments on the tomb walls over a longer period of time. The physical dangers of increased flooding linked to climate change is another concern and has not yet been considered. Although the tomb is safe from direct flooding, if adjacent tombs flood, vapor could seep through the walls and rip apart the tomb's plastered walls and their paintings.<br><br>Tourism remains the greatest immediate threat to the tomb. Despite the existence of a high-quality, ultra-detailed replica just a mile away, it's unclear whether the Egyptian government will ultimately restrict public access to the original tomb (and therefore reduce a guaranteed revenue stream). The conservators hope that, at the very least, the recent conservation work on Tutankhamun's tomb can result in a higher awareness of its significance for visitors in the future. </div>",
+      "options": [],
+      "hint": "",
+      "subItems": [
+         {
+            "title": "21",
+            "options": [
+               {
+                  "text": "Tutankhamun's afterlife.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Tutankhamun's renaissance.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Reconstruction of Tutankhamun's tomb.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "New concerns about Tutankhamun's tomb.",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>21. What is the passage mainly about? → New concerns about Tutankhamun's tomb.</b> <br> （這篇文章主要在談什麼？→ 關於圖坦卡門陵墓的新隱憂。） <ul> <li> <b>定位：</b>第一段開頭提到「十年的研究與保存計畫，不僅解開謎團，也<b>提出新問題</b>」，第四、五段更直接列出「still unknown／another concern／the greatest immediate threat」。 </li> <li> <b>主旨句：</b>第一段末句「...has not only solved some mysteries but also <b>raised new questions</b>」＋第五段「Tourism remains the greatest immediate threat」。 </li> <li> <b>其他選項：</b>(A) 死後世界——文章談的是陵墓保存，不是宗教意義；(B) 文藝復興——與圖坦卡門無關；(C) 重建——文中是「保存（conservation）」，不是重建（reconstruction）。 </li> </ul> <b>撇步</b> <ul> <li> 主旨題抓「<b>重複出現的關鍵詞</b>」：concern、threat、unknown、questions。 </li> </ul> </div>"
+         },
+         {
+            "title": "22",
+            "options": [
+               {
+                  "text": "Sticky.",
+                  "isCorrect": true
+               },
+               {
+                  "text": "Constant.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Dangerous.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Vulnerable.",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>22. What does the word “tenacious” in the passage most likely mean? → Sticky.</b> <br> （文中 tenacious 一字最可能是什麼意思？→ 黏著的。） <ul> <li> <b>定位：</b>第三段「the desert dust... clings to every tomb surface, and is made even more <b>tenacious</b> after absorbing humidity from human breath.」 </li> <li> <b>上下文線索：</b>clings to（附著於）＋absorbing humidity（吸收濕氣）→ 灰塵變得更「黏」。 </li> <li> <b>字義：</b>tenacious 原義是「頑固的、緊抓不放的」，在此具體化為「黏著、附著力強」。 </li> <li> <b>其他選項：</b>constant 持續的（文中另有 the constant presence of dust，但 tenacious 強調附著）；dangerous 危險的；vulnerable 脆弱的。 </li> </ul> <b>撇步</b> <ul> <li> 字義題靠「<b>前後文同義線索</b>」：clings to、absorbing humidity → sticky。 </li> </ul> </div>"
+         },
+         {
+            "title": "23",
+            "options": [
+               {
+                  "text": "Visitors.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Dust.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The brown freckles.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The viewing platform.",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>23. What can no longer be found in Tutankhamun's tomb now? → The viewing platform.</b> <br> （現在在圖坦卡門陵墓中已找不到什麼？→ 觀景平台。） <ul> <li> <b>定位：</b>第三段「upon <b>removing the old viewing platform</b> over the burial chamber to mount the system's air vents...」——為了安裝通風口，舊觀景平台已被拆除。 </li> <li> <b>其他選項：</b>(A) 遊客——觀光仍是最大威脅，遊客還在；(B) 灰塵——問題仍存在；(C) 褐色斑點——壁畫上的斑點仍在（只是微生物已死）。 </li> </ul> <b>撇步</b> <ul> <li> 問「已不存在」→ 找文章裡出現 <b>removing、replaced、no longer</b> 的地方。 </li> </ul> </div>"
+         },
+         {
+            "title": "24",
+            "options": [
+               {
+                  "text": "Eliminating microbes from tomb walls.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Redirecting visitors to a replica of the tomb.",
+                  "isCorrect": true
+               },
+               {
+                  "text": "Relocating the tomb to a flood-free location.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Re-painting the tomb walls to remove the dust.",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>24. Which of the following needs to be done most urgently to protect Tutankhamun's tomb? → Redirecting visitors to a replica of the tomb.</b> <br> （下列何者最迫切需要做以保護圖坦卡門陵墓？→ 把遊客導向複製品。） <ul> <li> <b>定位：</b>第五段第一句「<b>Tourism remains the greatest immediate threat</b> to the tomb.」＋「a high-quality, ultra-detailed <b>replica</b> just a mile away」。 </li> <li> <b>推論：</b>既然觀光是「最急迫的威脅」，且已有一比一複製品，最急迫的措施就是把遊客導向複製品。 </li> <li> <b>其他選項：</b>(A) 微生物早已死亡，不需消除；(C) 陵墓不可能搬遷；(D) 重畫壁畫會破壞文物。 </li> </ul> <b>撇步</b> <ul> <li> 「most urgently」對應文中的「<b>greatest immediate threat</b>」——答案就在那句附近。 </li> </ul> </div>"
+         },
+         {
+            "title": "25",
+            "options": [
+               {
+                  "text": "The dust is no longer harmful to the wall paintings.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The freckles started growing after the tomb was opened.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The organisms that created the freckles cannot be found in the tomb now.",
+                  "isCorrect": true
+               },
+               {
+                  "text": "The Egyptian government has decided to reduce the number of tomb visitors.",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>25. Which of the following statements about Tutankhamun's tomb is true? → The organisms that created the freckles cannot be found in the tomb now.</b> <br> （下列關於圖坦卡門陵墓的敘述何者為真？→ 造成褐色斑點的微生物現在已找不到。） <ul> <li> <b>定位：</b>第二段「electron microscope imaging showed <b>no remnants of the original organisms</b> that created the spots」＋「the spots have been dead for a long time」。 </li> <li> <b>其他選項：</b>(A) 錯——第四段說 dust 的長期影響「still unknown」，仍可能有害；(B) 錯——斑點在 Carter 打開陵墓時就存在，不是打開後才長；(D) 錯——第五段說政府是否限制參觀「it's unclear」，尚未決定。 </li> </ul> <b>撇步</b> <ul> <li> 細節題逐一回文定位，特別注意 <b>unclear、unknown、not yet</b> 這種「尚未確定」的字眼——選項若說「已決定」就是錯的。 </li> </ul> </div>"
+         }
+      ]
+   }
+]

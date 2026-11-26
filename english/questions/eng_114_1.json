@@ -1,0 +1,576 @@
+[
+   {
+      "title": "一、英譯中：請將下列文章翻譯成中文。（20 分）\nThe European Commission is taking action to tackle risks stemming from low-value imports sold via non-EU online retailers and marketplaces hosting non-EU traders. The Commission encourages actions, among others, in the areas of customs and trade, such as launching customs controls, consumer protection and the Digital Services and Digital Markets Acts.\nLast year, around 4.6 billion low-value consignments, i.e., goods with a value not exceeding €150, entered the EU market equal to 12 million parcels per day. This is twice as many as in 2023 and three times as many as in 2022, and many of these goods have found to be non-compliant with European legislation. This exponential growth is raising numerous concerns. Mainly, there are more and more harmful products entering the EU.\nMore so, European sellers, who respect our high product standards, are at risk of being harmed by unfair practices and the sale of counterfeit goods through online marketplaces. Finally, the large number of packages being shipped and transported has a negative environmental and climate footprint.",
+      "answer": "歐盟執委會正採取行動，以因應透過非歐盟線上零售商，以及媒合非歐盟賣家的線上市集所販售之低價進口商品所帶來的風險。執委會鼓勵在關務與貿易等領域採取行動，例如啟動關務管制、消費者保護，以及數位服務法與數位市場法。\n去年約有 46 億件低價寄件（即價值不超過 150 歐元的商品）進入歐盟市場，相當於每天 1,200 萬個包裹。這個數量是 2023 年的兩倍、2022 年的三倍，而其中許多商品被發現不符合歐盟法規。這種指數型成長正引發諸多疑慮，主要是愈來愈多有害產品進入歐盟。\n更有甚者，遵守我們高產品標準的歐洲賣家，正面臨不公平競爭行為以及透過線上市集販售仿冒品所帶來的傷害風險。最後，大量寄送與運輸的包裹也對環境與氣候造成負面足跡。",
+      "hint": "<div> <b>第一段句構</b> <ul> <li> <b>The European Commission is taking action to tackle risks</b>：主幹（歐盟執委會正採取行動因應風險）。 </li> <li> <b>stemming from low-value imports</b>：現在分詞片語修飾 risks（源自低價進口商品的風險）。 </li> <li> <b>sold via non-EU online retailers and marketplaces hosting non-EU traders</b>：sold 是過去分詞修飾 imports；hosting 是現在分詞修飾 marketplaces（媒合非歐盟賣家的市集）。 </li> <li> <b>among others</b>＝其中包含、等等；插在 in the areas of... 之前。 </li> </ul> <b>第二段句構</b> <ul> <li> <b>around 4.6 billion low-value consignments, i.e., goods with a value not exceeding €150</b>：i.e.＝亦即，用來解釋前面的 consignments。 </li> <li> <b>equal to 12 million parcels per day</b>：形容詞片語補充說明前面的數量。 </li> <li> <b>twice as many as in 2023 and three times as many as in 2022</b>：倍數表達（是……的兩倍／三倍）。 </li> <li> <b>have found to be non-compliant with European legislation</b>：find A to be B（發現 A 是 B）的被動用法。 </li> </ul> <b>第三段句構</b> <ul> <li> <b>European sellers, who respect our high product standards,</b>：非限定關係子句插入補充。 </li> <li> <b>are at risk of being harmed by unfair practices and the sale of counterfeit goods</b>：at risk of + V-ing；by 引出兩個原因。 </li> <li> <b>the large number of packages being shipped and transported</b>：being + 過去分詞作後位修飾（正在被運送的包裹）。 </li> </ul> <b>關鍵詞</b> <ul> <li> low-value consignment 低價寄件；marketplace 線上市集 </li> <li> customs control 關務管制；non-compliant with 不符合 </li> <li> counterfeit goods 仿冒品；unfair practices 不公平行為 </li> <li> exponential growth 指數型成長；environmental footprint 環境足跡 </li> </ul> <b>翻譯技巧</b> <ul> <li> 英文的<b>長主語＋分詞片語</b>，中文宜先譯主幹，再把修飾語往後挪：「因應……所帶來的風險」。 </li> <li> 三個段落各自成段，不要合併；數字（4.6 billion、€150、12 million）照譯並加「約」「相當於」。 </li> <li> 「i.e.」譯成「亦即」；「More so」譯成「更有甚者」。 </li> </ul> </div>"
+   },
+   {
+      "title": "二、英文寫作：請根據下列指示寫一篇英文作文。（30 分）\nWrite an essay in English on the topic of “One invention the world needs right now.” Think critically about the world's current challenges and propose an invention that could address one of them. In your essay explain why this invention is necessary, how it would work, and what impact it would have on society.",
+      "answer": "Among the many problems the world faces today, climate change is the most urgent, and the invention we need right now is an affordable, modular direct air capture (DAC) unit that can be installed on the roofs of ordinary buildings.\n\nThe necessity is hard to overstate. Carbon dioxide already in the atmosphere, not just future emissions, drives heat waves, floods, and crop failures. Current DAC plants are enormous and costly, so they serve as demonstrations rather than solutions. A compact, mass-produced unit would let households, schools, and factories remove carbon where it is produced and where it is consumed, turning millions of small actors into a global removal network.\n\nTechnically, the unit would draw air through a reusable sorbent that binds CO2, then release the gas in a concentrated stream using waste heat from the building itself. The captured CO2 could be sold to greenhouses, converted into building materials, or stored underground by local utilities. A smart meter would measure the amount removed and issue verified credits, so the device pays for part of its own cost.\n\nThe impact would be both environmental and social. Rooftop capture would make carbon removal visible in daily life, turning an abstract global problem into something citizens can act on. It would create local manufacturing jobs, reduce the cost of reaching net zero, and give developing countries a tool that does not require vast land or foreign investment. No single invention can solve climate change, but one that turns every roof into a small carbon sink would change the scale of the effort—and the sense of shared responsibility that makes it possible.",
+      "hint": "<div> <b>審題</b> <ul> <li> 三個必答要素：<b>為什麼需要</b>（necessity）、<b>如何運作</b>（how it works）、<b>對社會的影響</b>（impact）。 </li> <li> 只能寫<b>一項</b>發明，不要列清單；要能對應「當前世界挑戰」（氣候、水資源、糧食、醫療、能源）。 </li> <li> 建議主題：<b>屋頂式模組化直接空氣捕捉（DAC）裝置</b>，具體、可解釋、有政策連結。 </li> </ul> <b>四段架構</b> <ul> <li> <b>第一段（引言）</b>：點出最迫切的挑戰（氣候變遷），明確說出發明是什麼，並下立場句。 </li> <li> <b>第二段（必要性）</b>：說明既有方案的不足（大型、昂貴、示範性質），以及新裝置為何能補上缺口。 </li> <li> <b>第三段（運作方式）</b>：吸附劑捕捉 CO2 → 利用建築廢熱釋放 → 濃縮的 CO2 可出售、製成建材或封存 → 智慧電表核發減碳憑證。 </li> <li> <b>第四段（影響＋結論）</b>：環境面（讓碳移除可見、降低成本）＋社會面（創造就業、讓開發中國家也能參與）＋一句收束。 </li> </ul> <b>關鍵詞彙</b> <ul> <li> direct air capture (DAC) 直接空氣捕捉；modular 模組化的 </li> <li> sorbent 吸附劑；concentrated stream 濃縮氣流；waste heat 廢熱 </li> <li> net zero 淨零；carbon credit 碳權；verified 經查證的 </li> <li> scalable 可規模化的；footprint 足跡 </li> </ul> <b>加分句型</b> <ul> <li> <b>The necessity is hard to overstate.</b>（必要性再怎麼強調都不為過） </li> <li> <b>..., so they serve as demonstrations rather than solutions.</b>（rather than 對比） </li> <li> <b>No single invention can..., but one that... would change the scale of the effort</b>（讓步＋轉折，收尾有力） </li> </ul> <b>評分重點</b> <ul> <li> 字數：30 分題建議 <b>250–300 字</b>。 </li> <li> 結構：四段、每段一個中心句；全文圍繞「同一項發明」。 </li> <li> 用字：避免 good / bad，多用具體名詞（sorbent, credits, net zero）。 </li> <li> 文法：條件句、被動語態、分詞構句正確。 </li> </ul> </div>"
+   },
+   {
+      "title": "The words of comfort from Jean's friends served as a ______ during her time of grief.",
+      "options": [
+         {
+            "text": "compliment",
+            "isCorrect": false
+         },
+         {
+            "text": "commitment",
+            "isCorrect": false
+         },
+         {
+            "text": "confrontation",
+            "isCorrect": false
+         },
+         {
+            "text": "consolation",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>1. The words of comfort from Jean's friends served as a consolation during her time of grief.</b> <br> （朋友們安慰的話，在珍悲傷的時刻成為一種慰藉。） <ul> <li> <b>考點：</b><b>consolation</b>＝慰藉、安慰（動詞 console）；<b>serve as</b>＝作為。 </li> <li> <b>線索：</b>words of comfort（安慰的話）＋time of grief（悲傷時刻）→ 帶來「慰藉」。 </li> <li> <b>其他選項：</b>compliment 讚美；commitment 承諾；confrontation 對峙。 </li> <li> <b>例句：</b>Her letter was a great consolation to me.（她的來信對我是一大慰藉。） </li> </ul> <b>撇步</b> <ul> <li> comfort 的對應名詞 → <b>consolation</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "The university received a generous ______ from a philanthropist to fund scholarships for students in need.",
+      "options": [
+         {
+            "text": "application",
+            "isCorrect": false
+         },
+         {
+            "text": "obligation",
+            "isCorrect": false
+         },
+         {
+            "text": "endowment",
+            "isCorrect": true
+         },
+         {
+            "text": "undertaking",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>2. The university received a generous endowment from a philanthropist to fund scholarships for students in need.</b> <br> （這所大學收到一位慈善家慷慨的捐贈基金，用來資助清寒學生的獎學金。） <ul> <li> <b>考點：</b><b>endowment</b>＝捐贈（基金）、捐助；大學的「校務基金」也称 endowment。 </li> <li> <b>線索：</b>philanthropist（慈善家）＋fund scholarships（資助獎學金）→ 一筆「捐贈」。 </li> <li> <b>其他選項：</b>application 申請；obligation 義務；undertaking 事業、承諾。 </li> <li> <b>例句：</b>The school used its endowment to build a new library.（學校用捐贈基金蓋了新圖書館。） </li> </ul> <b>撇步</b> <ul> <li> 慈善家給大學的錢 → <b>endowment / donation</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "The ______ of the ecosystem in the wetlands helped to revitalize the natural habitat for wildlife.",
+      "options": [
+         {
+            "text": "deprivation",
+            "isCorrect": false
+         },
+         {
+            "text": "restoration",
+            "isCorrect": true
+         },
+         {
+            "text": "breakdown",
+            "isCorrect": false
+         },
+         {
+            "text": "crackdown",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>3. The restoration of the ecosystem in the wetlands helped to revitalize the natural habitat for wildlife.</b> <br> （濕地生態系的復育，有助於讓野生動物的自然棲地恢復生機。） <ul> <li> <b>考點：</b><b>restoration</b>＝恢復、復育（動詞 restore）。 </li> <li> <b>線索：</b>helped to revitalize（有助於恢復生機）→ 前面必是「復育」。 </li> <li> <b>其他選項：</b>deprivation 剝奪；breakdown 崩解；crackdown 取締、鎮壓。 </li> <li> <b>例句：</b>The restoration of the old church took ten years.（那座老教堂的修復花了十年。） </li> </ul> <b>撇步</b> <ul> <li> revitalize（使復甦）↔ <b>restoration</b>（復育）是固定搭檔。 </li> </ul> </div>"
+   },
+   {
+      "title": "When Berlinda came back home from work late at night, she ______ opened the door without waking her sons up.",
+      "options": [
+         {
+            "text": "definitely",
+            "isCorrect": false
+         },
+         {
+            "text": "digitally",
+            "isCorrect": false
+         },
+         {
+            "text": "deadly",
+            "isCorrect": false
+         },
+         {
+            "text": "discreetly",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>4. When Berlinda came back home from work late at night, she discreetly opened the door without waking her sons up.</b> <br> （柏林達深夜下班回家時，小心翼翼地開門，沒有吵醒兒子們。） <ul> <li> <b>考點：</b><b>discreetly</b>＝謹慎地、不引人注意地（形容詞 discreet）。 </li> <li> <b>線索：</b>without waking her sons up（不吵醒兒子）→ 動作要「輕、小心」。 </li> <li> <b>其他選項：</b>definitely 確定地；digitally 數位地；deadly 致命地。 </li> <li> <b>例句：</b>She discreetly left the room.（她悄悄離開房間。） </li> </ul> <b>撇步</b> <ul> <li> 注意拼字：<b>discreet（謹慎）</b> vs discrete（分立的）。 </li> </ul> </div>"
+   },
+   {
+      "title": "The ______ of the athlete from the team was due to a violation of the code of conduct.",
+      "options": [
+         {
+            "text": "award",
+            "isCorrect": false
+         },
+         {
+            "text": "reward",
+            "isCorrect": false
+         },
+         {
+            "text": "superstition",
+            "isCorrect": false
+         },
+         {
+            "text": "suspension",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>5. The suspension of the athlete from the team was due to a violation of the code of conduct.</b> <br> （這名運動員被處以停賽，原因是違反行為準則。） <ul> <li> <b>考點：</b><b>suspension</b>＝暫停、停賽、停職（動詞 suspend）。 </li> <li> <b>線索：</b>violation of the code of conduct（違反行為準則）→ 懲處是「停賽」。 </li> <li> <b>其他選項：</b>award 獎項；reward 報酬；superstition 迷信。 </li> <li> <b>例句：</b>He received a two-match suspension.（他被處以禁賽兩場。） </li> </ul> <b>撇步</b> <ul> <li> 違規 → <b>suspension</b>（停賽／停職）；不是 award（得獎）。 </li> </ul> </div>"
+   },
+   {
+      "title": "The storm caused ______ flooding in the area, overwhelming local emergency services.",
+      "options": [
+         {
+            "text": "negligible",
+            "isCorrect": false
+         },
+         {
+            "text": "unprecedented",
+            "isCorrect": true
+         },
+         {
+            "text": "admirable",
+            "isCorrect": false
+         },
+         {
+            "text": "undermined",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>6. The storm caused unprecedented flooding in the area, overwhelming local emergency services.</b> <br> （這場暴風雨在該地區造成前所未有的淹水，讓地方緊急應變單位疲於奔命。） <ul> <li> <b>考點：</b><b>unprecedented</b>＝前所未有的（un- + precedent + -ed）。 </li> <li> <b>線索：</b>overwhelming local emergency services（讓救災單位招架不住）→ 災情「前所未見」。 </li> <li> <b>其他選項：</b>negligible 微不足道的；admirable 令人欽佩的；undermined 被削弱的（動詞過去分詞，不能修飾 flooding）。 </li> <li> <b>例句：</b>The region experienced unprecedented rainfall.（該地區經歷了前所未有的降雨。） </li> </ul> <b>撇步</b> <ul> <li> 災害規模「破紀錄」→ <b>unprecedented</b>；反義 negligible。 </li> </ul> </div>"
+   },
+   {
+      "title": "The ______ melody of the piano echoed through the empty halls, evoking memories of lost love.",
+      "options": [
+         {
+            "text": "radiant",
+            "isCorrect": false
+         },
+         {
+            "text": "content",
+            "isCorrect": false
+         },
+         {
+            "text": "jubilant",
+            "isCorrect": false
+         },
+         {
+            "text": "melancholy",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>7. The melancholy melody of the piano echoed through the empty halls, evoking memories of lost love.</b> <br> （鋼琴憂傷的旋律在空蕩的走廊迴盪，喚起失去愛情的回憶。） <ul> <li> <b>考點：</b><b>melancholy</b>＝憂鬱的、哀傷的（也可當名詞「憂鬱」）。 </li> <li> <b>線索：</b>empty halls（空蕩走廊）＋memories of lost love（失去愛情的回憶）→ 氛圍是「憂傷」。 </li> <li> <b>其他選項：</b>radiant 燦爛的；content 滿足的；jubilant 歡欣的——都與語境相反。 </li> <li> <b>例句：</b>He sang a melancholy song about his hometown.（他唱了一首關於故鄉的憂傷歌曲。） </li> </ul> <b>撇步</b> <ul> <li> 「空蕩、失落、回憶」→ <b>melancholy</b>（近義：sorrowful、mournful）。 </li> </ul> </div>"
+   },
+   {
+      "title": "In comparison with other universities in the country, this university is much smaller with only 5,500 students and 235 ______ members.",
+      "options": [
+         {
+            "text": "board",
+            "isCorrect": false
+         },
+         {
+            "text": "club",
+            "isCorrect": false
+         },
+         {
+            "text": "team",
+            "isCorrect": false
+         },
+         {
+            "text": "faculty",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>8. In comparison with other universities in the country, this university is much smaller with only 5,500 students and 235 faculty members.</b> <br> （與國內其他大學相比，這所大學小得多，只有 5,500 名學生與 235 位教師。） <ul> <li> <b>考點：</b><b>faculty member</b>＝（大學）教師、教職員；faculty 指全體教職員。 </li> <li> <b>線索：</b>與 students（學生）並列 → 應是「教職員」。 </li> <li> <b>其他選項：</b>board 董事會；club 社團；team 團隊——都不是大學編制的正式成員。 </li> <li> <b>例句：</b>The faculty voted to change the grading policy.（全體教師投票決定更改評分政策。） </li> </ul> <b>撇步</b> <ul> <li> 大學的「師生」＝<b>students and faculty</b>；member 常與 faculty 搭配。 </li> </ul> </div>"
+   },
+   {
+      "title": "Despite facing numerous setbacks, Jane remained ______ and continued to pursue her dreams.",
+      "options": [
+         {
+            "text": "fragile",
+            "isCorrect": false
+         },
+         {
+            "text": "resilient",
+            "isCorrect": true
+         },
+         {
+            "text": "irritated",
+            "isCorrect": false
+         },
+         {
+            "text": "aggravated",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>9. Despite facing numerous setbacks, Jane remained resilient and continued to pursue her dreams.</b> <br> （儘管遭遇諸多挫折，珍仍保持韌性，繼續追求夢想。） <ul> <li> <b>考點：</b><b>resilient</b>＝有韌性的、能復原的（名詞 resilience）。 </li> <li> <b>句構：</b>Despite + N（儘管）→ 前後語氣相反：有挫折，但仍「堅韌」。 </li> <li> <b>其他選項：</b>fragile 脆弱的；irritated 惱怒的；aggravated 被激怒的（口語）。 </li> <li> <b>例句：</b>Children are often more resilient than adults expect.（孩子往往比大人想像的更有韌性。） </li> </ul> <b>撇步</b> <ul> <li> 挫折＋繼續追夢 → <b>resilient</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "Sophie ______ at John when she discovered to her amazement that John had knocked down her cello to the ground.",
+      "options": [
+         {
+            "text": "galloped",
+            "isCorrect": false
+         },
+         {
+            "text": "gasped",
+            "isCorrect": false
+         },
+         {
+            "text": "glared",
+            "isCorrect": true
+         },
+         {
+            "text": "gobbled",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>10. Sophie glared at John when she discovered to her amazement that John had knocked down her cello to the ground.</b> <br> （蘇菲發現約翰竟把她的琴撞倒在地，驚訝之餘狠狠瞪著他。） <ul> <li> <b>考點：</b><b>glare at</b>＝怒視、狠狠瞪著。 </li> <li> <b>線索：</b>to her amazement（令她驚訝）＋琴被撞倒 → 生氣地「瞪」。 </li> <li> <b>其他選項：</b>gallop 疾馳（馬）；gasp 喘氣、倒抽一口氣；gobble 狼吞虎嚥。 </li> <li> <b>例句：</b>She glared at him across the table.（她隔著桌子瞪他。） </li> </ul> <b>撇步</b> <ul> <li> 生氣看人＝<b>glare at</b>；惊讶倒抽氣＝gasp。 </li> </ul> </div>"
+   },
+   {
+      "title": "Our company's product promotion staff always try to make their presentations short and to the point since ______ talks would only drive potential buyers away.",
+      "options": [
+         {
+            "text": "captive",
+            "isCorrect": false
+         },
+         {
+            "text": "lengthy",
+            "isCorrect": true
+         },
+         {
+            "text": "punctual",
+            "isCorrect": false
+         },
+         {
+            "text": "unanimous",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>11. Our company's product promotion staff always try to make their presentations short and to the point since lengthy talks would only drive potential buyers away.</b> <br> （本公司產品推廣人員總盡量讓簡報簡短切題，因為冗長的談話只會把潛在買家趕跑。） <ul> <li> <b>考點：</b><b>lengthy</b>＝冗長的（帶負面意味）；short and to the point（簡短切題）為其反義。 </li> <li> <b>句構：</b>since＝因為（此處是副詞子句表原因）。 </li> <li> <b>其他選項：</b>captive 被俘的；punctual 準時的；unanimous 一致的。 </li> <li> <b>例句：</b>The meeting was lengthy and unproductive.（那場會議又長又沒效率。） </li> </ul> <b>撇步</b> <ul> <li> 「短」的反面 → <b>lengthy</b>（不是 long 的中性用法，而是偏負面）。 </li> </ul> </div>"
+   },
+   {
+      "title": "The airport had been ______ closed to all air traffic due to a bomb threat, and it was not reopened until three hours later.",
+      "options": [
+         {
+            "text": "doubtfully",
+            "isCorrect": false
+         },
+         {
+            "text": "marvelously",
+            "isCorrect": false
+         },
+         {
+            "text": "stubbornly",
+            "isCorrect": false
+         },
+         {
+            "text": "temporarily",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>12. The airport had been temporarily closed to all air traffic due to a bomb threat, and it was not reopened until three hours later.</b> <br> （機場因炸彈威脅暫時關閉所有航班，直到三小時後才重新開放。） <ul> <li> <b>考點：</b><b>temporarily</b>＝暫時地（形容詞 temporary）。 </li> <li> <b>線索：</b>not reopened until three hours later（三小時後才重開）→ 表示「暫時」關閉。 </li> <li> <b>其他選項：</b>doubtfully 懷疑地；marvelously 奇妙地；stubbornly 固執地。 </li> <li> <b>例句：</b>The road was temporarily closed for repairs.（道路因維修暫時封閉。） </li> </ul> <b>撇步</b> <ul> <li> 「之後會重開」→ <b>temporarily</b>；永久關閉則是 permanently。 </li> </ul> </div>"
+   },
+   {
+      "title": "Established in 1960, the Association is a global leader in developing and ______ knowledge about financial decision making.",
+      "options": [
+         {
+            "text": "disseminating",
+            "isCorrect": true
+         },
+         {
+            "text": "impersonating",
+            "isCorrect": false
+         },
+         {
+            "text": "commemorating",
+            "isCorrect": false
+         },
+         {
+            "text": "subordinating",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>13. Established in 1960, the Association is a global leader in developing and disseminating knowledge about financial decision making.</b> <br> （該協會成立於 1960 年，在開發與傳播財務決策知識方面居全球領先地位。） <ul> <li> <b>考點：</b><b>disseminate</b>＝傳播、散布（知識、資訊）；與 developing 並列，須用 V-ing。 </li> <li> <b>句構：</b>is a leader in + V-ing（在……方面領先）。 </li> <li> <b>其他選項：</b>impersonate 冒充；commemorate 紀念；subordinate 使服從。 </li> <li> <b>例句：</b>The center disseminates research findings to the public.（該中心向大眾傳播研究成果。） </li> </ul> <b>撇步</b> <ul> <li> 知識、資訊的「傳播」→ <b>disseminate</b>（近義：spread、circulate）。 </li> </ul> </div>"
+   },
+   {
+      "title": "Some people are ______ about the existence of UFOs and aliens, while others are convinced without a doubt.",
+      "options": [
+         {
+            "text": "hypocritical",
+            "isCorrect": false
+         },
+         {
+            "text": "skeptical",
+            "isCorrect": true
+         },
+         {
+            "text": "phenomenal",
+            "isCorrect": false
+         },
+         {
+            "text": "political",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>14. Some people are skeptical about the existence of UFOs and aliens, while others are convinced without a doubt.</b> <br> （有些人對幽浮與外星人的存在抱持懷疑，另一些人則深信不疑。） <ul> <li> <b>考點：</b><b>be skeptical about</b>＝對……抱持懷疑（名詞 skeptic／skepticism）。 </li> <li> <b>句構：</b>while 表對比：skeptical ↔ convinced without a doubt（深信不疑）。 </li> <li> <b>其他選項：</b>hypocritical 偽善的；phenomenal 非凡的；political 政治的。 </li> <li> <b>例句：</b>Many scientists are skeptical about the claim.（許多科學家對該說法存疑。） </li> </ul> <b>撇步</b> <ul> <li> 對比句：一邊懷疑 → <b>skeptical</b>；一邊相信 → convinced。 </li> </ul> </div>"
+   },
+   {
+      "title": "The storm continued to ______ throughout the night, with thunder shaking the windows and lightning illuminating the sky.",
+      "options": [
+         {
+            "text": "urge",
+            "isCorrect": false
+         },
+         {
+            "text": "rage",
+            "isCorrect": true
+         },
+         {
+            "text": "pursue",
+            "isCorrect": false
+         },
+         {
+            "text": "predict",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>15. The storm continued to rage throughout the night, with thunder shaking the windows and lightning illuminating the sky.</b> <br> （暴風雨整夜持續肆虐，雷聲震動窗戶，閃電照亮天空。） <ul> <li> <b>考點：</b><b>rage</b>＝（風暴、火焰、疫情）猛烈持續、肆虐。 </li> <li> <b>線索：</b>thunder shaking the windows、lightning illuminating the sky → 風雨「肆虐」。 </li> <li> <b>其他選項：</b>urge 催促；pursue 追求；predict 預測。 </li> <li> <b>例句：</b>The fire raged for three days.（大火肆虐了三天。） </li> </ul> <b>撇步</b> <ul> <li> 風暴、大火、疫情「一發不可收拾」→ <b>rage</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "<div> The issue of deception, or falsification, is a prevalent concern in various aspects of society. Whether it be in academic research, business practices, or personal interactions, the act of falsifying information <u>&nbsp;&nbsp; 16 &nbsp;&nbsp;</u> trust and integrity. In academic settings, falsifying data or plagiarizing content not only <u>&nbsp;&nbsp; 17 &nbsp;&nbsp;</u> ethical standards but also diminishes the credibility of scholarly work. Similarly, in business, misleading advertising or financial fraud can lead to significant legal and financial <u>&nbsp;&nbsp; 18 &nbsp;&nbsp;</u>, as well as tarnish the reputation of organizations. On a personal level, <u>&nbsp;&nbsp; 19 &nbsp;&nbsp;</u> behavior erodes relationships and erodes the fabric of trust that binds individuals together. Therefore, it is imperative for individuals and institutions to uphold honesty and transparency in all endeavors, fostering a culture of integrity and <u>&nbsp;&nbsp; 20 &nbsp;&nbsp;</u>. Only through honesty and authenticity can we cultivate trust and build a more ethical and trustworthy society. </div>",
+      "options": [],
+      "hint": "",
+      "subItems": [
+         {
+            "title": "16",
+            "options": [
+               {
+                  "text": "undermines",
+                  "isCorrect": true
+               },
+               {
+                  "text": "strengthens",
+                  "isCorrect": false
+               },
+               {
+                  "text": "intensifies",
+                  "isCorrect": false
+               },
+               {
+                  "text": "mediates",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>16. ...the act of falsifying information undermines trust and integrity.</b> <br> （偽造資訊的行為會削弱信任與誠信。） <ul> <li> <b>考點：</b><b>undermine</b>＝削弱、破壞（信任、權威、信心）。 </li> <li> <b>線索：</b>falsifying information（偽造資訊）→ 對信任是負面影響。 </li> <li> <b>其他選項：</b>strengthen 強化；intensify 加劇；mediate 調解。 </li> </ul> <b>撇步</b> <ul> <li> <b>undermine trust / credibility</b> 是高頻搭配。 </li> </ul> </div>"
+         },
+         {
+            "title": "17",
+            "options": [
+               {
+                  "text": "sustains",
+                  "isCorrect": false
+               },
+               {
+                  "text": "violates",
+                  "isCorrect": true
+               },
+               {
+                  "text": "safeguards",
+                  "isCorrect": false
+               },
+               {
+                  "text": "verifies",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>17. ...falsifying data or plagiarizing content not only violates ethical standards but also diminishes the credibility of scholarly work.</b> <br> （偽造數據或抄襲內容不僅違反倫理標準，也損害學術工作的可信度。） <ul> <li> <b>考點：</b><b>violate ethical standards</b>＝違反倫理標準。 </li> <li> <b>句構：</b>not only A but also B（不僅 A 而且 B），A、B 皆為動詞第三人稱單數（主語是 falsifying... or plagiarizing...，視為單一概念）。 </li> <li> <b>其他選項：</b>sustain 維持；safeguard 保護；verify 查證。 </li> </ul> <b>撇步</b> <ul> <li> 違反規定／標準 → <b>violate</b>（名詞 violation）。 </li> </ul> </div>"
+         },
+         {
+            "title": "18",
+            "options": [
+               {
+                  "text": "conquests",
+                  "isCorrect": false
+               },
+               {
+                  "text": "attainments",
+                  "isCorrect": false
+               },
+               {
+                  "text": "repercussions",
+                  "isCorrect": true
+               },
+               {
+                  "text": "implementations",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>18. ...misleading advertising or financial fraud can lead to significant legal and financial repercussions, as well as tarnish the reputation of organizations.</b> <br> （誤導性廣告或財務詐欺可能導致重大的法律與財務後果，並損害組織聲譽。） <ul> <li> <b>考點：</b><b>repercussions</b>＝（負面的）後果、影響。 </li> <li> <b>線索：</b>legal and financial ___（法律與財務上的……）→ 一定是負面後果。 </li> <li> <b>其他選項：</b>conquest 征服；attainment 成就；implementation 實施。 </li> </ul> <b>撇步</b> <ul> <li> 負面後果 → <b>repercussions</b>（近義：consequences）。 </li> </ul> </div>"
+         },
+         {
+            "title": "19",
+            "options": [
+               {
+                  "text": "conscientious",
+                  "isCorrect": false
+               },
+               {
+                  "text": "legitimate",
+                  "isCorrect": false
+               },
+               {
+                  "text": "forthright",
+                  "isCorrect": false
+               },
+               {
+                  "text": "deceitful",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>19. On a personal level, deceitful behavior erodes relationships and erodes the fabric of trust that binds individuals together.</b> <br> （在個人層面上，欺騙行為會侵蝕人際關係，也會侵蝕維繫人與人之間的信任結構。） <ul> <li> <b>考點：</b><b>deceitful</b>＝欺騙的、不誠實的（名詞 deceit）。 </li> <li> <b>線索：</b>erodes relationships（侵蝕關係）→ 前面必是負面行為。 </li> <li> <b>其他選項：</b>conscientious 盡責的；legitimate 合法的；forthright 直率的（皆為正面）。 </li> </ul> <b>撇步</b> <ul> <li> 全文主題是 deception／falsification → 選 <b>deceitful</b>。 </li> </ul> </div>"
+         },
+         {
+            "title": "20",
+            "options": [
+               {
+                  "text": "diversity",
+                  "isCorrect": false
+               },
+               {
+                  "text": "versatility",
+                  "isCorrect": false
+               },
+               {
+                  "text": "ambiguity",
+                  "isCorrect": false
+               },
+               {
+                  "text": "accountability",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>20. ...fostering a culture of integrity and accountability.</b> <br> （培養誠信與課責的文化。） <ul> <li> <b>考點：</b><b>accountability</b>＝課責、問責（對自己的行為負責）。 </li> <li> <b>線索：</b>與 integrity 並列，且全文談誠實、透明 → 最搭的是「課責」。 </li> <li> <b>其他選項：</b>diversity 多元；versatility 多才多藝；ambiguity 模糊。 </li> </ul> <b>撇步</b> <ul> <li> <b>integrity and accountability</b> 是治理類文章的高頻搭配。 </li> </ul> </div>"
+         }
+      ]
+   },
+   {
+      "title": "<div> Imagine a world where machines are our teachers, our friends, and our companions and where they can drive our cars, diagnose our diseases, and even write our creative content. This is the world of artificial intelligence (AI), and it is a future that is already starting to take <u>&nbsp;&nbsp; 21 &nbsp;&nbsp;</u>.<br><br>In movies like <i>The Matrix</i> and <i>Terminator</i>, AI is often <u>&nbsp;&nbsp; 22 &nbsp;&nbsp;</u> as a threat to humanity. But in reality, AI has the potential to be a powerful tool for good. It can help us <u>&nbsp;&nbsp; 23 &nbsp;&nbsp;</u> some of the world's biggest problems, such as climate change, disease, and poverty.<br><br>AI is already being used in a variety of ways today. For example, Tesla, Waymo, and other companies are developing self-driving cars that use AI to <u>&nbsp;&nbsp; 24 &nbsp;&nbsp;</u> the road and avoid obstacles. Amazon and other online retailers use AI to recommend products to customers <u>&nbsp;&nbsp; 25 &nbsp;&nbsp;</u> their past purchases and browsing history. It's also being used to develop new products and services, such as personalized shopping recommendations and AI-powered chatbots. </div>",
+      "options": [],
+      "hint": "",
+      "subItems": [
+         {
+            "title": "21",
+            "options": [
+               {
+                  "text": "turns",
+                  "isCorrect": false
+               },
+               {
+                  "text": "notes",
+                  "isCorrect": false
+               },
+               {
+                  "text": "shape",
+                  "isCorrect": true
+               },
+               {
+                  "text": "block",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>21. This is the world of artificial intelligence (AI), and it is a future that is already starting to take shape.</b> <br> （這就是人工智慧的世界，而這個未來已經開始成形。） <ul> <li> <b>考點：</b><b>take shape</b>＝成形、具體化、逐漸實現（固定片語）。 </li> <li> <b>線索：</b>主詞是 a future（未來），搭配 is already starting to...（已經開始）→ 「開始成形」。 </li> <li> <b>其他選項：</b>take turns 輪流；take notes 記筆記；take block 不是正確片語。 </li> <li> <b>例句：</b>The plan is finally taking shape.（計畫終於逐漸成形。） </li> </ul> <b>撇步</b> <ul> <li> 「未來、計畫、想法」逐漸實現 → <b>take shape</b>。 </li> </ul> </div>"
+         },
+         {
+            "title": "22",
+            "options": [
+               {
+                  "text": "delayed",
+                  "isCorrect": false
+               },
+               {
+                  "text": "portrayed",
+                  "isCorrect": true
+               },
+               {
+                  "text": "refreshed",
+                  "isCorrect": false
+               },
+               {
+                  "text": "tortured",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>22. In movies like The Matrix and Terminator, AI is often portrayed as a threat to humanity.</b> <br> （在《駭客任務》與《魔鬼終結者》等電影裡，AI 常被描繪成人類的威脅。） <ul> <li> <b>考點：</b><b>be portrayed as</b>＝被描繪成、被刻畫為（portray＝描繪）。 </li> <li> <b>線索：</b>In movies...（在電影裡）＋as a threat（作為威脅）→ 「被描繪成」。 </li> <li> <b>其他選項：</b>delay 延遲；refresh 更新；torture 折磨。 </li> <li> <b>例句：</b>The hero is portrayed as a lonely fighter.（這位英雄被刻畫成孤獨的鬥士。） </li> </ul> <b>撇步</b> <ul> <li> <b>be portrayed as / be depicted as / be described as</b> 都是「被描繪為」。 </li> </ul> </div>"
+         },
+         {
+            "title": "23",
+            "options": [
+               {
+                  "text": "create",
+                  "isCorrect": false
+               },
+               {
+                  "text": "gain",
+                  "isCorrect": false
+               },
+               {
+                  "text": "raise",
+                  "isCorrect": false
+               },
+               {
+                  "text": "solve",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>23. It can help us solve some of the world's biggest problems, such as climate change, disease, and poverty.</b> <br> （它能幫我們解決世界上一些最大的問題，例如氣候變遷、疾病與貧窮。） <ul> <li> <b>考點：</b><b>solve a problem</b>＝解決問題（固定搭配）。 </li> <li> <b>線索：</b>problems（問題）＋such as climate change, disease, and poverty。 </li> <li> <b>其他選項：</b>create 創造；gain 獲得；raise 提出（raise a question 是提出問題，不是解決）。 </li></ul> <b>撇步</b> <ul> <li> 問題用 <b>solve</b>；提出問題用 raise；製造問題用 create。 </li> </ul> </div>"
+         },
+         {
+            "title": "24",
+            "options": [
+               {
+                  "text": "navigate",
+                  "isCorrect": true
+               },
+               {
+                  "text": "expand",
+                  "isCorrect": false
+               },
+               {
+                  "text": "detour",
+                  "isCorrect": false
+               },
+               {
+                  "text": "obstruct",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>24. ...self-driving cars that use AI to navigate the road and avoid obstacles.</b> <br> （……使用 AI 在道路上導航並避開障礙物的自駕車。） <ul> <li> <b>考點：</b><b>navigate</b>＝導航、行駛於、找到路。 </li> <li> <b>線索：</b>self-driving cars（自駕車）＋avoid obstacles（避開障礙）→ 需要「導航」。 </li> <li> <b>其他選項：</b>expand 擴張；detour 繞道（當動詞少見）；obstruct 阻礙。 </li></ul> <b>撇步</b> <ul> <li> 開車、船、飛機「行駛／導航」→ <b>navigate</b>。 </li> </ul> </div>"
+         },
+         {
+            "title": "25",
+            "options": [
+               {
+                  "text": "aside from",
+                  "isCorrect": false
+               },
+               {
+                  "text": "based on",
+                  "isCorrect": true
+               },
+               {
+                  "text": "in spite of",
+                  "isCorrect": false
+               },
+               {
+                  "text": "on behalf of",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>25. Amazon and other online retailers use AI to recommend products to customers based on their past purchases and browsing history.</b> <br> （亞馬遜等線上零售商運用 AI，根據顧客過去的購買紀錄與瀏覽紀錄推薦商品。） <ul> <li> <b>考點：</b><b>based on</b>＝根據、以……為基礎（過去分詞片語）。 </li> <li> <b>線索：</b>their past purchases and browsing history（過去的購買與瀏覽紀錄）→ 推薦的「依據」。 </li> <li> <b>其他選項：</b>aside from 除了；in spite of 儘管；on behalf of 代表。 </li></ul> <b>撇步</b> <ul> <li> 「根據資料／紀錄」→ <b>based on</b>。 </li> </ul> </div>"
+         }
+      ]
+   }
+]
