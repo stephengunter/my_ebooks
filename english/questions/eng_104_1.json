@@ -1,0 +1,588 @@
+[
+   {
+      "title": "一、(一) 英譯中：請將下列英文段落翻譯成中文。（15 分）\nA Taiwanese passenger carrying bottles of cough syrup was stopped and fined by a customs officer at the entry point of an American airport. It turned out that the syrup contained opium, which was deemed illegal by the airport customs security agents. The bottles were later confiscated and the passenger was fined US$500.",
+      "answer": "一名攜帶數瓶咳嗽糖漿的台灣旅客，在美國機場的入境關口被海關人員攔下並開罰。原來這種糖漿含有鴉片，機場海關安全人員認定其為非法物品。這些瓶子後來被沒收，該旅客並被罰款 500 美元。",
+      "hint": "<div> <b>句構拆解</b> <ul> <li> <b>A Taiwanese passenger carrying bottles of cough syrup</b>：現在分詞片語 carrying... 修飾 passenger（攜帶咳嗽糖漿的旅客）。 </li> <li> <b>was stopped and fined by a customs officer at the entry point of an American airport</b>：被動式（被攔下並罰款）；at the entry point＝在入境關口。 </li> <li> <b>It turned out that the syrup contained opium</b>：It turned out that...＝結果發現／原來……。 </li> <li> <b>which was deemed illegal by the airport customs security agents</b>：關係子句修飾 opium；be deemed＋形容詞＝被認定為。 </li> <li> <b>The bottles were later confiscated and the passenger was fined US$500.</b>：兩個被動式的並列。 </li> </ul> <b>關鍵詞</b> <ul> <li> cough syrup 咳嗽糖漿 </li><li> entry point 入境關口 </li><li> turn out 結果發現 </li><li> opium 鴉片 </li><li> be deemed illegal 被認定為非法 </li><li> confiscate 沒收；fine 罰款 </li></ul> <b>翻譯技巧</b> <ul> <li> 「It turned out that」譯「原來……」比「結果證明」更自然。 </li><li> 英文兩個被動句，中文可用主動：「海關人員攔下並開罰」「這些瓶子後來被沒收」。 </li><li> be deemed illegal 譯「認定為非法」，不要逐字譯「被認為是不合法的」。 </li></ul> <b>易錯點</b> <ul> <li> syrup 不要譯成「糖」——cough syrup 是「咳嗽糖漿」。 </li><li> 「fined US$500」譯「罰款 500 美元」，位置放在句末較順。 </li></ul> </div>"
+   },
+   {
+      "title": "一、(二) 中譯英：請將下列中文段落翻譯成英文。（15 分）\n根據一項最近公布的調查顯示，四分之三在臺定居且為白領階級之外籍人士表示對在臺生活感到滿意。但是，調查亦顯示，只有百分之二十的受訪人士表示對各類產品包裝上的雙語標示感到滿意。",
+      "answer": "According to a recently released survey, three quarters of the white-collar foreigners living in Taiwan say they are satisfied with life in Taiwan. However, the survey also shows that only 20 percent of the respondents are satisfied with the bilingual labeling on product packaging.",
+      "hint": "<div> <b>句構策略</b> <ul> <li> 「根據一項最近公布的調查顯示」→ <b>According to a recently released survey</b>（或 A recently released survey shows that...）。 </li> <li> 「四分之三在臺定居且為白領階級之外籍人士」→ <b>three quarters of the white-collar foreigners living in Taiwan</b>（living in Taiwan 為現在分詞修飾）。 </li> <li> 「表示對在臺生活感到滿意」→ <b>say they are satisfied with life in Taiwan</b>。 </li> <li> 「但是，調查亦顯示」→ <b>However, the survey also shows that...</b>。 </li> <li> 「只有百分之二十的受訪人士」→ <b>only 20 percent of the respondents</b>。 </li> <li> 「對各類產品包裝上的雙語標示感到滿意」→ <b>are satisfied with the bilingual labeling on product packaging</b>。 </li> </ul> <b>關鍵詞</b> <ul> <li> 最近公布的 recently released／newly published </li><li> 白領階級 white-collar </li><li> 外籍人士 foreigners／expatriates </li><li> 受訪者 respondents </li><li> 雙語標示 bilingual labeling </li><li> 產品包裝 product packaging </li></ul> <b>加分寫法</b> <ul> <li> 「四分之三」也可用 <b>three out of four</b>。 </li><li> 「對……感到滿意」也可用 <b>are happy with</b> 或 <b>are content with</b>。 </li></ul> <b>易錯點</b> <ul> <li> 「在臺定居」不要只譯 live in Taiwan 就結束，需保留「定居」意味：<b>living/residing in Taiwan</b>。 </li><li> 「各類產品包裝上」→ <b>on product packaging</b>（packaging 不可數，不加 s）。 </li></ul> </div>"
+   },
+   {
+      "title": "二、英文作文：（20 分）\nHave you ever been a team leader before? Write an essay of about 300 words to describe (1) your role as a team leader, (2) the one particular challenge you faced in trying to resolve issues among team members, and (3) what you would have done to be more effective if you could do it again.",
+      "answer": "Two years ago I led a four-person team in a university competition to design a recycling campaign for our campus. As the leader, my role was less about giving orders than about keeping the team moving: I set the schedule, divided the tasks according to each member's strengths, and ran our weekly meetings. I also acted as the bridge to our faculty advisor, summarizing our progress and bringing back her comments.\n\nThe particular challenge came from a clash between two members. One wanted a bold, viral social-media campaign; the other insisted on a careful survey-based approach. The disagreement was not really about strategy—it was about how each of them wanted to be seen. The first wanted credit for creativity, the second for rigor. For two weeks I tried to settle it by splitting the work, which only produced two half-finished projects and a tense atmosphere.\n\nLooking back, I would have done three things differently. First, I would have named the real problem in the open meeting instead of hoping it would disappear. Second, I would have asked each member privately what success meant to them, so that the disagreement could be addressed at the level where it actually existed. Third, I would have set a decision deadline in advance: debate until Friday, then decide, and commit.\n\nI learned that leading a team is mostly the work of making disagreement productive. Technical skills can be divided; tension cannot. If I led a team again, I would spend less energy avoiding conflict and more energy designing a fair way to resolve it.",
+      "hint": "<div> <b>審題</b> <ul> <li> 三個必答部分：①<b>你作為隊長的職責</b>②<b>一次處理團隊衝突的具體挑戰</b>③<b>如果重來會怎麼做更有效</b>。 </li><li> 必須有<b>具體情境</b>（社團、比賽、專題），不能只談抽象道理。 </li><li> 約 300 字；第三部分要用<b>與過去事實相反的假設語氣</b>（would have done）。 </li></ul> <b>四段架構</b> <ul> <li> <b>第一段（角色）</b>：團隊規模、目標、你的具體工作（排程、分工、主持會議、對外溝通）。 </li><li> <b>第二段（挑戰）</b>：兩位成員的衝突（一種要大膽創意、一種要嚴謹調查）；你原本用「分工各做一半」處理，結果失敗。 </li><li> <b>第三段（重來會怎麼做）</b>：三點——公開點出真正的問題、私下了解每人的「成功定義」、事先設下決策期限。 </li><li> <b>第四段（結論）</b>：領導的核心是「讓分歧變得有生產力」。 </li></ul> <b>關鍵詞彙</b> <ul> <li> team leader 隊長；divide tasks 分工 </li><li> faculty advisor 指導老師 </li><li> clash between members 成員衝突 </li><li> viral campaign 病毒式行銷活動 </li><li> decision deadline 決策期限 </li><li> commit 全力投入、定案 </li></ul> <b>加分句型</b> <ul> <li> <b>My role was less about giving orders than about keeping the team moving.</b>（less about A than about B） </li><li> <b>The disagreement was not really about strategy—it was about how each of them wanted to be seen.</b>（破折號點出深層原因） </li><li> <b>I would have named the real problem in the open meeting instead of hoping it would disappear.</b>（與過去相反的假設語氣） </li><li> <b>Technical skills can be divided; tension cannot.</b>（短句對比收束） </li></ul> <b>評分重點</b> <ul> <li> 三部分都要寫到，尤其第三部分不能漏。 </li><li> 挑戰要「具體」：谁與誰、爭什麼、你怎麼處理、結果如何。 </li><li> 假設語氣（would have + p.p.）用對。 </li></ul> </div>"
+   },
+   {
+      "title": "Many cats who have spent a good deal of their time outdoors, such as ______ cats, do not seem to adjust to life indoors.",
+      "options": [
+         {
+            "text": "stray",
+            "isCorrect": true
+         },
+         {
+            "text": "male",
+            "isCorrect": false
+         },
+         {
+            "text": "hairy",
+            "isCorrect": false
+         },
+         {
+            "text": "grumpy",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>1. Many cats who have spent a good deal of their time outdoors, such as stray cats, do not seem to adjust to life indoors.</b> <br> （許多長時間待在戶外的貓，例如流浪貓，似乎無法適應室內生活。） <ul> <li> <b>考點：</b><b>stray</b>＝流浪的（stray cat 流浪貓）。 </li> <li> <b>線索：</b>outdoors（戶外）＋adjust to life indoors（適應室內生活）→ 流浪貓。 </li> <li> <b>其他選項：</b>male 雄性的；hairy 多毛的；grumpy 脾氣壞的。 </li> </ul> <b>撇步</b> <ul> <li> 沒有家的貓狗 → <b>stray</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "E-cigarettes come highly recommended for the ______ smokers to effectively fight the deadly habit.",
+      "options": [
+         {
+            "text": "clandestine",
+            "isCorrect": false
+         },
+         {
+            "text": "recalcitrant",
+            "isCorrect": true
+         },
+         {
+            "text": "lascivious",
+            "isCorrect": false
+         },
+         {
+            "text": "tantamount",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>2. E-cigarettes come highly recommended for the recalcitrant smokers to effectively fight the deadly habit.</b> <br> （電子菸被大力推薦給難以戒除的吸菸者，以有效對抗這個致命習慣。） <ul> <li> <b>考點：</b><b>recalcitrant</b>＝頑抗的、難以駕馭的（此處指戒不掉菸的人）。 </li> <li> <b>線索：</b>to effectively fight the deadly habit（有效對抗致命習慣）→ 戒不掉的吸菸者。 </li> <li> <b>其他選項：</b>clandestine 秘密的；lascivious 淫蕩的；tantamount 等同的（be tantamount to）。 </li> </ul> <b>撇步</b> <ul> <li> 不聽勸、難改變 → <b>recalcitrant</b>（近義：stubborn、obstinate）。 </li> </ul> </div>"
+   },
+   {
+      "title": "We are seeking advice on how to best ______ our broken-up pool deck, hopefully making it look as before.",
+      "options": [
+         {
+            "text": "advocate",
+            "isCorrect": false
+         },
+         {
+            "text": "consume",
+            "isCorrect": false
+         },
+         {
+            "text": "endorse",
+            "isCorrect": false
+         },
+         {
+            "text": "renovate",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>3. We are seeking advice on how to best renovate our broken-up pool deck, hopefully making it look as before.</b> <br> （我們正在尋求建議，看如何最好地翻修破損的泳池平台，希望能讓它恢復原貌。） <ul> <li> <b>考點：</b><b>renovate</b>＝翻修、整修（建築、空間）。 </li> <li> <b>線索：</b>broken-up pool deck（破損的泳池平台）＋look as before（恢復原貌）→ 翻修。 </li> <li> <b>其他選項：</b>advocate 提倡；consume 消耗；endorse 背書。 </li> </ul> <b>撇步</b> <ul> <li> 房屋、空間「翻修」→ <b>renovate</b>（名詞 renovation）。 </li> </ul> </div>"
+   },
+   {
+      "title": "It is extremely difficult to please the ______ gourmet who has never rated a restaurant with \"excellent.\"",
+      "options": [
+         {
+            "text": "bellicose",
+            "isCorrect": false
+         },
+         {
+            "text": "fastidious",
+            "isCorrect": true
+         },
+         {
+            "text": "phlegmatic",
+            "isCorrect": false
+         },
+         {
+            "text": "reminiscent",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>4. It is extremely difficult to please the fastidious gourmet who has never rated a restaurant with \"excellent.\"</b> <br> （要取悅這位從未給任何餐廳「極佳」評價的挑剔美食家，極其困難。） <ul> <li> <b>考點：</b><b>fastidious</b>＝挑剔的、講究的。 </li> <li> <b>線索：</b>never rated a restaurant with \"excellent\"（從沒給過最高評價）→ 挑剔。 </li> <li> <b>其他選項：</b>bellicose 好戰的；phlegmatic 冷漠的；reminiscent 令人懷念的。 </li> </ul> <b>撇步</b> <ul> <li> 對細節極度講究、難取悅 → <b>fastidious</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "The website provides ______ to certain public records of the local town courts.",
+      "options": [
+         {
+            "text": "access",
+            "isCorrect": true
+         },
+         {
+            "text": "adage",
+            "isCorrect": false
+         },
+         {
+            "text": "easel",
+            "isCorrect": false
+         },
+         {
+            "text": "exile",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>5. The website provides access to certain public records of the local town courts.</b> <br> （該網站提供查閱當地鎮法院某些公開紀錄的管道。） <ul> <li> <b>考點：</b><b>provide access to</b>＝提供接近／查閱……的管道。 </li> <li> <b>線索：</b>website（網站）＋public records（公開紀錄）→ 提供查閱。 </li> <li> <b>其他選項：</b>adage 諺語；easel 畫架；exile 流放。 </li> </ul> <b>撇步</b> <ul> <li> <b>provide/give access to</b> 是固定搭配。 </li> </ul> </div>"
+   },
+   {
+      "title": "The government has instituted security regulations intended to prevent the entry of hazardous materials or ______ into the country.",
+      "options": [
+         {
+            "text": "illumination",
+            "isCorrect": false
+         },
+         {
+            "text": "inducement",
+            "isCorrect": false
+         },
+         {
+            "text": "convention",
+            "isCorrect": false
+         },
+         {
+            "text": "contraband",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>6. The government has instituted security regulations intended to prevent the entry of hazardous materials or contraband into the country.</b> <br> （政府制定了安全法規，以防止危險物品或違禁品入境。） <ul> <li> <b>考點：</b><b>contraband</b>＝違禁品、走私品（海關高頻字）。 </li> <li> <b>線索：</b>prevent the entry（防止入境）＋hazardous materials（危險物品）→ 違禁品。 </li> <li> <b>其他選項：</b>illumination 照明；inducement 誘因；convention 慣例、公約。 </li> </ul> <b>撇步</b> <ul> <li> 海關、邊境主題 → <b>contraband</b>（違禁品）。 </li> </ul> </div>"
+   },
+   {
+      "title": "Shipments between two countries are international ______ and must comply with applicable regulations before being cleared for entry.",
+      "options": [
+         {
+            "text": "duplications",
+            "isCorrect": false
+         },
+         {
+            "text": "transactions",
+            "isCorrect": true
+         },
+         {
+            "text": "oscillations",
+            "isCorrect": false
+         },
+         {
+            "text": "contentions",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>7. Shipments between two countries are international transactions and must comply with applicable regulations before being cleared for entry.</b> <br> （兩國之間的貨運屬於國際交易，通關前必須遵守相關法規。） <ul> <li> <b>考點：</b><b>transactions</b>＝交易（international transactions 國際交易）。 </li> <li> <b>線索：</b>shipments between two countries（兩國貨運）＋cleared for entry（通關）→ 國際交易。 </li> <li> <b>其他選項：</b>duplication 複製；oscillation 擺動；contention 爭論。 </li> </ul> <b>撇步</b> <ul> <li> 買賣、貨運往來 → <b>transactions</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "A tax relief program ______ qualifying homeowners for increases in local property taxes on their primary residences.",
+      "options": [
+         {
+            "text": "circumvents",
+            "isCorrect": false
+         },
+         {
+            "text": "reimburses",
+            "isCorrect": true
+         },
+         {
+            "text": "perpetrates",
+            "isCorrect": false
+         },
+         {
+            "text": "intersects",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>8. A tax relief program reimburses qualifying homeowners for increases in local property taxes on their primary residences.</b> <br> （一項減稅方案會補償符合資格的自住房屋所有人，就其地方房屋稅的增加部分退款。） <ul> <li> <b>考點：</b><b>reimburse</b>＝補償、退款（reimburse sb. for sth.）。 </li> <li> <b>線索：</b>tax relief program（減稅方案）＋increases in property taxes（房屋稅增加）→ 補償。 </li> <li> <b>其他選項：</b>circumvent 規避；perpetrate 犯（罪）；intersect 相交。 </li> </ul> <b>撇步</b> <ul> <li> 把錢退還給人 → <b>reimburse</b>（名詞 reimbursement）。 </li> </ul> </div>"
+   },
+   {
+      "title": "The regulations allow you to bring back only one liter of alcoholic ______ duty-free for personal use.",
+      "options": [
+         {
+            "text": "obsession",
+            "isCorrect": false
+         },
+         {
+            "text": "beverage",
+            "isCorrect": true
+         },
+         {
+            "text": "paradox",
+            "isCorrect": false
+         },
+         {
+            "text": "execution",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>9. The regulations allow you to bring back only one liter of alcoholic beverage duty-free for personal use.</b> <br> （規定只允許免稅帶回一公升酒精飲料供個人使用。） <ul> <li> <b>考點：</b><b>beverage</b>＝飲料；alcoholic beverage＝酒精飲料。 </li> <li> <b>線索：</b>one liter（一公升）＋duty-free（免稅）→ 酒精飲料。 </li> <li> <b>其他選項：</b>obsession 痴迷；paradox 矛盾；execution 執行、處決。 </li> </ul> <b>撇步</b> <ul> <li> 免稅額度題 → <b>alcoholic beverage</b>（酒精飲料）。 </li> </ul> </div>"
+   },
+   {
+      "title": "Regulatory mandates include tariff and duty ______, security clearances, registration requirements, filings and shipment documentation.",
+      "options": [
+         {
+            "text": "assessments",
+            "isCorrect": true
+         },
+         {
+            "text": "consortium",
+            "isCorrect": false
+         },
+         {
+            "text": "resemblance",
+            "isCorrect": false
+         },
+         {
+            "text": "plausibility",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>10. Regulatory mandates include tariff and duty assessments, security clearances, registration requirements, filings and shipment documentation.</b> <br> （法規要求包括關稅與稅費的評定、安全審查、登記要求、申報文件與貨運單據。） <ul> <li> <b>考點：</b><b>assessments</b>＝評定、核定（duty assessment＝稅費核定）。 </li> <li> <b>線索：</b>tariff and duty（關稅與稅費）→ 需要「評定」。 </li> <li> <b>其他選項：</b>consortium  consortium 聯合體；resemblance 相似；plausibility 合理性。 </li> </ul> <b>撇步</b> <ul> <li> 稅額「核定」→ <b>assessment</b>（動詞 assess）。 </li> </ul> </div>"
+   },
+   {
+      "title": "<div> To counter the lost fertility that comes with harvesting crops and land-tilling, farmers have relied on regular applications of human-made fertilizers to maintain field productivity. Excessive application of fertilizers can, <u>&nbsp;&nbsp; 11 &nbsp;&nbsp;</u>, further reduce natural soil fertility by introducing salts that kill microorganisms. Fertilizers can also provide an excess of nitrogen that stimulates populations of <u>&nbsp;&nbsp; 12 &nbsp;&nbsp;</u> bacteria to the point that too little organic matter is available to feed soil bacteria, which then starve. Nitrogen leaching into lakes can lead to unnatural algal blooms that can consume all of the oxygen, <u>&nbsp;&nbsp; 13 &nbsp;&nbsp;</u> fish and plant life. When nitrogen contaminates domestic water wells, as has happened in communities close to dairies and feedlots with inadequately controlled animal <u>&nbsp;&nbsp; 14 &nbsp;&nbsp;</u>, the “blue baby syndrome” can result. Nitrates interfere with the oxygen-carrying ability of red blood cells and the effect can be especially serious for infants. Most adults have an enzyme that converts the <u>&nbsp;&nbsp; 15 &nbsp;&nbsp;</u> red blood cells back to normal. </div>",
+      "options": [],
+      "hint": "",
+      "subItems": [
+         {
+            "title": "11",
+            "options": [
+               {
+                  "text": "paradoxically",
+                  "isCorrect": true
+               },
+               {
+                  "text": "ironically",
+                  "isCorrect": false
+               },
+               {
+                  "text": "fruitfully",
+                  "isCorrect": false
+               },
+               {
+                  "text": "amicably",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>11. Excessive application of fertilizers can, paradoxically, further reduce natural soil fertility...</b> <br> （矛盾的是，過量施肥反而會進一步降低土壤的自然肥力……） <ul> <li> <b>考點：</b><b>paradoxically</b>＝矛盾地（看似矛盾卻真實）。 </li> <li> <b>線索：</b>fertilizers（肥料）本應增加肥力，卻「進一步降低」肥力 → 矛盾。 </li><li> <b>其他選項：</b>ironically 諷刺地（語氣不同）；fruitfully 有成果地；amicably 友善地。 </li></ul> <b>撇步</b> <ul> <li> 結果與預期相反、形成矛盾 → <b>paradoxically</b>。 </li> </ul> </div>"
+         },
+         {
+            "title": "12",
+            "options": [
+               {
+                  "text": "decomposition",
+                  "isCorrect": true
+               },
+               {
+                  "text": "productivity",
+                  "isCorrect": false
+               },
+               {
+                  "text": "reconstruction",
+                  "isCorrect": false
+               },
+               {
+                  "text": "sensibility",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>12. Fertilizers can also provide an excess of nitrogen that stimulates populations of decomposition bacteria...</b> <br> （肥料也會提供過量的氮，刺激分解細菌大量繁殖……） <ul> <li> <b>考點：</b><b>decomposition bacteria</b>＝分解細菌（decomposition 分解）。 </li> <li> <b>線索：</b>後面說「有機物不足以餵養土壤細菌，細菌因此餓死」→ 是「分解」有機物的細菌。 </li><li> <b>其他選項：</b>productivity 生產力；reconstruction 重建；sensibility 感受力。 </li></ul> <b>撇步</b> <ul> <li> 分解有機物 → <b>decomposition</b>（動詞 decompose）。 </li> </ul> </div>"
+         },
+         {
+            "title": "13",
+            "options": [
+               {
+                  "text": "stimulating",
+                  "isCorrect": false
+               },
+               {
+                  "text": "killing",
+                  "isCorrect": true
+               },
+               {
+                  "text": "kneading",
+                  "isCorrect": false
+               },
+               {
+                  "text": "shooting",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>13. ...algal blooms that can consume all of the oxygen, killing fish and plant life.</b> <br> （……藻華會耗盡所有氧氣，使魚類與植物死亡。） <ul> <li> <b>考點：</b><b>killing</b>（現在分詞表結果）＝導致……死亡。 </li> <li> <b>線索：</b>consume all of the oxygen（耗盡氧氣）→ 結果是魚與植物「死亡」。 </li><li> <b>其他選項：</b>stimulating 刺激；kneading 揉捏；shooting 射擊。 </li></ul> <b>撇步</b> <ul> <li> 分詞構句表「結果」：..., killing...＝造成……死亡。 </li> </ul> </div>"
+         },
+         {
+            "title": "14",
+            "options": [
+               {
+                  "text": "wastes",
+                  "isCorrect": true
+               },
+               {
+                  "text": "museums",
+                  "isCorrect": false
+               },
+               {
+                  "text": "pastries",
+                  "isCorrect": false
+               },
+               {
+                  "text": "libraries",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>14. ...communities close to dairies and feedlots with inadequately controlled animal wastes...</b> <br> （……鄰近乳牛場與飼養場、動物排泄物管控不佳的社區……） <ul> <li> <b>考點：</b><b>animal wastes</b>＝動物排泄物（waste 廢棄物）。 </li> <li> <b>線索：</b>dairies and feedlots（乳牛場與飼養場）→ 動物排泄物污染水源。 </li><li> <b>其他選項：</b>museum 博物館；pastry 糕點；library 圖書館。 </li></ul> <b>撇步</b> <ul> <li> 農場污染 → <b>animal wastes</b>（注意 wastes 用複數指排泄物）。 </li></ul> </div>"
+         },
+         {
+            "title": "15",
+            "options": [
+               {
+                  "text": "erased",
+                  "isCorrect": false
+               },
+               {
+                  "text": "arrested",
+                  "isCorrect": false
+               },
+               {
+                  "text": "cloned",
+                  "isCorrect": false
+               },
+               {
+                  "text": "damaged",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>15. Most adults have an enzyme that converts the damaged red blood cells back to normal.</b> <br> （大多數成人有一種酵素，能把受損的紅血球恢復正常。） <ul> <li> <b>考點：</b><b>damaged</b>＝受損的（過去分詞當形容詞）。 </li> <li> <b>線索：</b>硝酸鹽干擾紅血球攜氧能力 → 紅血球「受損」。 </li><li> <b>其他選項：</b>erased 被抹除的；arrested 被逮捕的；cloned 被複製的。 </li></ul> <b>撇步</b> <ul> <li> 受損的細胞、組織 → <b>damaged</b>。 </li></ul> </div>"
+         }
+      ]
+   },
+   {
+      "title": "<div> Much has been written about <i>feng shui</i> in English. At present time, the year of 2012, there are over 300 separate titles in English and many thousands of websites on the subject. Yet 25 years ago the subject was virtually unheard of in the United States and very difficult to discover amongst Western-educated Chinese. Before that there were only books written by missionaries and colonial administrators living in the nineteenth century. Western interest was probably sparked by my first book, <i>The Living Earth Manual of Feng Shui</i>, which was written in 1976 when most material on <i>feng shui</i> was still available only in Chinese. <i>Feng shui</i> did not however become “dinner party conversation” until the late 1980s, and Lillian Too did much to popularize it in the 1990s in the Western worlds. However, when interest in <i>feng shui</i> did finally gather speed, because of the lack of source material, many well-meaning teachers and writers seemed to forget that it is a really precise and exacting subject, and extended it in ways not originally part of its traditional Chinese roots. Now, although any science can be extended by new research and testing, this has got to be done with a full knowledge of all that has gone before. It is sometimes forgotten that <i>feng shui</i> is not a branch of interior decorating, but a practical science in its own right. To put not too fine a point on it, a lot of later-day Western <i>feng shui</i> has been simplified beyond the point where it works, or has been invented or “intuited.” Often intuition has provided a key or a direction in which to look, but it is never sufficient in itself to declare “it must be so” because I feel it to be so. It therefore came as a delight and a breath of fresh air when I laid my hands on the new project about <i>feng shui</i>. </div>",
+      "options": [],
+      "hint": "",
+      "subItems": [
+         {
+            "title": "16. According to the passage, which of the following is true about the books on feng shui?",
+            "options": [
+               {
+                  "text": "Before the mid-20th century, almost no one talked about feng shui in the United States.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The missionaries and colonial administrators were strong practitioners of feng shui.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The first English book on feng shui was written by the author of the passage.",
+                  "isCorrect": true
+               },
+               {
+                  "text": "Chinese scholars in the United States began to teach people what feng shui was in the 1970s.",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>→ The first English book on feng shui was written by the author of the passage.</b> <br> （關於風水書籍，何者為真？→ 第一本英文風水書是本文作者所寫。） <ul> <li> <b>定位：</b>「Western interest was probably sparked by <b>my first book</b>, <i>The Living Earth Manual of Feng Shui</i>, which was written in 1976 when <b>most material on feng shui was still available only in Chinese</b>.」 </li><li> <b>推論：</b>1976 年時風水資料幾乎只有中文，作者的書點燃了西方興趣 → 即第一本英文風水書。 </li><li> <b>其他選項：</b>(A) 文中說 25 年前（1987）在美國幾乎沒聽過，不是「20 世紀中葉前」；(B) 傳教士只是「寫書」，不是實踐者；(D) 文中未提中國學者在 1970 年代教學。 </li><li> <b>⚠️ (C) 的「第一本」是從「my first book＋資料只有中文」推得，請對照你的答案。 </li></ul> <b>撇步</b> <ul> <li> 推論題把兩個線索串起來：<b>my first book</b>＋<b>only available in Chinese</b>。 </li></ul> </div>"
+         },
+         {
+            "title": "17. When did feng shui become popular among Western people?",
+            "options": [
+               {
+                  "text": "In the early 19th century.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "In the late 19th century.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "In the early 20th century.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "In the late 20th century.",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>→ In the late 20th century.</b> <br> （風水何時在西方流行起來？→ 二十世紀末。） <ul> <li> <b>定位：</b>「<i>Feng shui</i> did not however become 'dinner party conversation' until the <b>late 1980s</b>, and Lillian Too did much to popularize it in the <b>1990s</b>...」 </li><li> <b>推論：</b>1980 年代末到 1990 年代＝二十世紀末。 </li></ul> <b>撇步</b> <ul> <li> 年代題：late 1980s＋1990s → <b>late 20th century</b>。 </li></ul> </div>"
+         },
+         {
+            "title": "18. According to the author, what is feng shui?",
+            "options": [
+               {
+                  "text": "A dinner party conversation.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "An interior decoration.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "A practical science.",
+                  "isCorrect": true
+               },
+               {
+                  "text": "A source material.",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>→ A practical science.</b> <br> （作者認為風水是什麼？→ 一門實用的科學。） <ul> <li> <b>定位：</b>「<i>feng shui</i> is not a branch of interior decorating, but <b>a practical science in its own right</b>.」 </li><li> <b>其他選項：</b>dinner party conversation（是「流行」的比喻）、interior decoration（作者明確否定）、source material（指原始資料）。 </li></ul> <b>撇步</b> <ul> <li> not A but B 句型：否定前者、肯定後者 → <b>practical science</b>。 </li></ul> </div>"
+         },
+         {
+            "title": "19. What does the author think about the later-day Western feng shui?",
+            "options": [
+               {
+                  "text": "\"It must be so\" is the learning attitude for mastering the skills of feng shui.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The faculty of invention makes a feng shui master scientifically professional.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Intuition plays a key role for a feng shui master to look for the right direction.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The studies of feng shui nowadays are generally too simplified to be scientifically precise.",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>→ The studies of feng shui nowadays are generally too simplified to be scientifically precise.</b> <br> （作者認為當代西方風水被過度簡化，已不夠科學精確。） <ul> <li> <b>定位：</b>「a lot of later-day Western feng shui has been <b>simplified beyond the point where it works</b>, or has been invented or 'intuited.'」 </li><li> <b>其他選項：</b>(A) 作者反對「it must be so」的態度；(B) 發明不等於專業；(C) 直覺只是提供方向，<b>不足以</b>宣稱必然如此。 </li></ul> <b>撇步</b> <ul> <li> 作者立場題抓<b>批評語</b>：simplified beyond the point where it works。 </li></ul> </div>"
+         },
+         {
+            "title": "20. Which of the following most accurately states the main idea of the passage?",
+            "options": [
+               {
+                  "text": "The misleading understanding of recently published books on feng shui.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The crucial significance and urgent need to promote the science of feng shui.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The personal pleasure and public demand to work on the project of feng shui.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The historical development and recent studies of feng shui in the United States.",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>→ The historical development and recent studies of feng shui in the United States.</b> <br> （主旨：風水在美國的歷史發展與晚近研究。） <ul> <li> <b>結構：</b>先談 19 世紀傳教士的書、1976 年作者的書、1980–90 年代的流行，再談晚近西方風水被簡化的問題——正是「歷史發展＋晚近研究」。 </li><li> <b>其他選項：</b>(A) 只涵盖後半段批評；(B) 並非全文主旨（作者未主張「迫切需要推廣」）；(C) 個人愉悅只出現在末句。 </li></ul> <b>撇步</b> <ul> <li> 主旨要涵蓋<b>時間軸＋評論</b>兩部分，不能只取一段。 </li></ul> </div>"
+         }
+      ]
+   },
+   {
+      "title": "<div> The 1989 Loma Prieta quake (magnitude 7.0) struck in the early evening as a World Series baseball game was about to start between the two Bay Area teams, the San Francisco Giants and the Oakland A's. At least 60 people died, most of them <u>&nbsp;&nbsp; 21 &nbsp;&nbsp;</u> an elevated section of freeway near Oakland. Also, part of the eastern span of the Bay Bridge collapsed, <u>&nbsp;&nbsp; 22 &nbsp;&nbsp;</u> the bridge for more than a month. The Marina District in San Francisco sustained heavy damage where <u>&nbsp;&nbsp; 23 &nbsp;&nbsp;</u> had been built on former bay land, filled many decades earlier. Such filled land loses its solidity, undergoing <u>&nbsp;&nbsp; 24 &nbsp;&nbsp;</u> and amplified movement during earthquakes. The <u>&nbsp;&nbsp; 25 &nbsp;&nbsp;</u> was to the south in the Santa Cruz mountains, where the cities of Watsonville and Santa Cruz sustained damage. In total, about 16,000 homes and apartment units were destroyed or damaged. The American Red Cross operated 45 shelters for months that housed, at the peak, 6,000 people. </div>",
+      "options": [],
+      "hint": "",
+      "subItems": [
+         {
+            "title": "21",
+            "options": [
+               {
+                  "text": "at the killing off of",
+                  "isCorrect": false
+               },
+               {
+                  "text": "by the falling back of",
+                  "isCorrect": false
+               },
+               {
+                  "text": "in the crumbling down of",
+                  "isCorrect": true
+               },
+               {
+                  "text": "on the picking up of",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>21. At least 60 people died, most of them in the crumbling down of an elevated section of freeway near Oakland.</b> <br> （至少 60 人死亡，其中大多數是在奧克蘭附近一段高架公路崩塌時罹難。） <ul> <li> <b>考點：</b><b>crumbling down</b>＝崩塌（crumble 崩解）；in the crumbling down of＝在……崩塌之中。 </li> <li> <b>線索：</b>elevated section of freeway（高架公路）＋地震 → 崩塌。 </li><li> <b>其他選項：</b>killing off（滅絕）；falling back（退卻）；picking up（撿起）。 </li></ul> <b>撇步</b> <ul> <li> 建築物因地震「倒塌」→ <b>crumble / collapse</b>。 </li> </ul> </div>"
+         },
+         {
+            "title": "22",
+            "options": [
+               {
+                  "text": "building",
+                  "isCorrect": false
+               },
+               {
+                  "text": "closing",
+                  "isCorrect": true
+               },
+               {
+                  "text": "lifting",
+                  "isCorrect": false
+               },
+               {
+                  "text": "paying",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>22. ...part of the eastern span of the Bay Bridge collapsed, closing the bridge for more than a month.</b> <br> （……海灣大橋東段部分坍塌，使大橋封閉了一個多月。） <ul> <li> <b>考點：</b><b>closing</b>（現在分詞表結果）＝導致……關閉。 </li> <li> <b>線索：</b>collapsed（坍塌）＋for more than a month（一個多月）→ 封閉。 </li><li> <b>其他選項：</b>building 建造；lifting 舉起；paying 支付。 </li></ul> <b>撇步</b> <ul> <li> 橋、道路因事故「封閉」→ <b>close</b>。 </li> </ul> </div>"
+         },
+         {
+            "title": "23",
+            "options": [
+               {
+                  "text": "rescues",
+                  "isCorrect": false
+               },
+               {
+                  "text": "ruins",
+                  "isCorrect": false
+               },
+               {
+                  "text": "shocks",
+                  "isCorrect": false
+               },
+               {
+                  "text": "structures",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>23. The Marina District in San Francisco sustained heavy damage where structures had been built on former bay land...</b> <br> （舊金山的碼頭區受損嚴重，那裡有建築物蓋在昔日填海而成的灣區土地上……） <ul> <li> <b>考點：</b><b>structures</b>＝建築物、結構物。 </li> <li> <b>線索：</b>had been built on former bay land（蓋在昔日海灣土地上）→ 建築物。 </li><li> <b>其他選項：</b>rescue 救援；ruin 廢墟；shock 震動。 </li></ul> <b>撇步</b> <ul> <li> 「被建造」的主詞 → <b>structures / buildings</b>。 </li> </ul> </div>"
+         },
+         {
+            "title": "24",
+            "options": [
+               {
+                  "text": "demarcation",
+                  "isCorrect": false
+               },
+               {
+                  "text": "encapsulation",
+                  "isCorrect": false
+               },
+               {
+                  "text": "liquefaction",
+                  "isCorrect": true
+               },
+               {
+                  "text": "ossification",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>24. Such filled land loses its solidity, undergoing liquefaction and amplified movement during earthquakes.</b> <br> （這種填出來的土地會失去堅實度，在地震時發生液化與放大的搖晃。） <ul> <li> <b>考點：</b><b>liquefaction</b>＝土壤液化（地震工程術語）。 </li> <li> <b>線索：</b>filled land（填土）＋loses its solidity（失去堅實）→ 液化。 </li><li> <b>其他選項：</b>demarcation 劃界；encapsulation 封裝；ossification 骨化、僵化。 </li></ul> <b>撇步</b> <ul> <li> 地震＋填土＋失去堅實 → <b>soil liquefaction</b>。 </li> </ul> </div>"
+         },
+         {
+            "title": "25",
+            "options": [
+               {
+                  "text": "avalanche",
+                  "isCorrect": false
+               },
+               {
+                  "text": "epicenter",
+                  "isCorrect": true
+               },
+               {
+                  "text": "tornado",
+                  "isCorrect": false
+               },
+               {
+                  "text": "tsunami",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>25. The epicenter was to the south in the Santa Cruz mountains...</b> <br> （震央位於南邊的聖塔克魯茲山區……） <ul> <li> <b>考點：</b><b>epicenter</b>＝震央（地震正上方的地表位置）。 </li> <li> <b>線索：</b>quake（地震）＋to the south in the Santa Cruz mountains（南邊山區）→ 震央。 </li><li> <b>其他選項：</b>avalanche 雪崩；tornado 龍捲風；tsunami 海嘯。 </li></ul> <b>撇步</b> <ul> <li> 地震的三個字：<b>quake、epicenter、magnitude</b>。 </li></ul> </div>"
+         }
+      ]
+   }
+]

@@ -1,0 +1,588 @@
+[
+   {
+      "title": "一、英譯中：請將下列英文譯成正確、流暢的中文。（15 分）\nFor job hunters, there has been no shortage of warnings about the career jeopardy of posting discriminatory content on sites like Facebook and Twitter; yet many of them still don't heed that advice. Besides, some don't even realize that they are doing just as much damage by bending the truth of their credentials or spamming their resumes.",
+      "answer": "對求職者而言，關於在 Facebook、Twitter 等網站張貼歧視性內容會危及職涯的警告從未少過；然而許多人仍不把這些忠告當一回事。此外，有些人甚至沒意識到，扭曲自己的資歷或濫發履歷，同樣會造成一樣大的傷害。",
+      "hint": "<div> <b>句構拆解</b> <ul> <li> <b>For job hunters, there has been no shortage of warnings about...</b>：there has been no shortage of＝……從未少過（雙重否定，語氣強調）。 </li> <li> <b>the career jeopardy of posting discriminatory content on sites like Facebook and Twitter</b>：of 後接動名詞片語，說明警告的內容（張貼歧視性內容的職涯風險）。 </li> <li> <b>yet many of them still don't heed that advice</b>：yet 表轉折；heed＝聽從、理會。 </li> <li> <b>some don't even realize that they are doing just as much damage by bending the truth of their credentials or spamming their resumes</b>：that 子句；by + V-ing 表手段（藉由扭曲資歷或濫發履歷）。 </li> </ul> <b>關鍵詞</b> <ul> <li> job hunter 求職者 </li><li> career jeopardy 職涯風險（jeopardy＝危險） </li><li> discriminatory content 歧視性內容 </li><li> heed advice 聽從忠告 </li><li> bend the truth 扭曲事實 </li><li> credentials 資歷、學經歷；spam resumes 濫發履歷 </li></ul> <b>翻譯技巧</b> <ul> <li> no shortage of warnings 不要直譯「沒有短缺」，譯「警告從未少過」才自然。 </li> <li> just as much damage 的「一樣大」要保留，因為作者是在對比「歧視貼文」與「造假履歷」兩種傷害。 </li> <li> 英文一個長句，中文可在分號處<b>斷成兩句</b>。 </li> </ul> <b>易錯點</b> <ul> <li> 把 spam 當名詞「垃圾郵件」——此處是動詞「濫發」。 </li> <li> 把 credentials 只譯「證件」——在求職語境是「資歷、學經歷」。 </li> </ul> </div>"
+   },
+   {
+      "title": "二、中譯英：請將下列中文譯成正確、流暢的英文。（15 分）\n轉型正義為普世價值，但在努力追求的過程中常遭遇兩難：到底是正義優先還是和平至上。需要謹守的是：轉型正義不能悖離歷史事實，或陷入政爭的泥沼之中，淪為快意恩仇的工具。",
+      "answer": "Transitional justice is a universal value, but the pursuit of it often runs into a dilemma: should justice come first, or should peace prevail? What must be adhered to is that transitional justice cannot depart from historical facts, nor sink into the swamp of political struggle and become a tool for settling personal scores.",
+      "hint": "<div> <b>句構策略</b> <ul> <li> 原文三句，英文也建議<b>三句</b>：①普世價值＋兩難；②兩難的內容（正義 vs 和平）；③必須謹守的界線。 </li> <li> 「常遭遇兩難」→ <b>often runs into a dilemma</b>（或 faces a dilemma）。 </li> <li> 「到底是正義優先還是和平至上」→ 用<b>選擇問句</b>：should justice come first, or should peace prevail? </li> <li> 「需要謹守的是」→ <b>What must be adhered to is that...</b>（或 What must be kept in mind is that...）。 </li> <li> 「不能悖離……或陷入……淪為……」→ <b>cannot depart from..., nor sink into..., and become...</b>（nor 後倒裝或接原形）。 </li> </ul> <b>關鍵詞</b> <ul> <li> 轉型正義 transitional justice </li><li> 普世價值 universal value </li><li> 兩難 dilemma </li><li> 歷史事實 historical facts </li><li> 政爭 political struggle </li><li> 泥沼 swamp／quagmire </li><li> 快意恩仇 settle personal scores／take revenge </li></ul> <b>加分寫法</b> <ul> <li> 「和平至上」除了 peace prevails，也可用 peace takes precedence。 </li> <li> 「淪為工具」→ become a tool for / be reduced to a tool for。 </li> </ul> <b>易錯點</b> <ul> <li> 「轉型正義」不要直譯 transforming justice，固定說法是 <b>transitional justice</b>。 </li> <li> 「快意恩仇」不是快意（joy）＋恩仇（gratitude and grudge），而是「清算私怨」，用 <b>settling personal scores</b> 最貼切。 </li> </ul> </div>"
+   },
+   {
+      "title": "三、英文作文：（20 分）\nIn a composition of no less than 200 words, elaborate your observation on how the outbreak of coronavirus in the world has changed the relationships among nations in the global community. Support your points with examples.",
+      "answer": "The coronavirus pandemic did not merely interrupt trade and travel; it redrew the map of international relationships. Three changes stand out: borders became instruments of policy, supply chains became questions of national security, and solidarity became selective.\n\nFirst, borders turned into tools. For decades, globalization assumed that goods and people should move as freely as possible. During the pandemic, however, countries closed borders overnight, quarantined arrivals, and treated travelers as potential threats. Taiwan's early border controls, effective as they were, illustrated a wider trend: public health justified restrictions that would have been unthinkable in 2019.\n\nSecond, supply chains were redefined as security issues. When masks, ventilators, and later vaccines were scarce, governments discovered that dependence on a single supplier could be dangerous. The result was a wave of reshoring and \"friend-shoring\"—moving production to allies rather than to the cheapest location. Trade policy is now written with geopolitical considerations in mind.\n\nThird, solidarity became selective. The pandemic produced genuine cooperation—scientists sharing genomic data, countries donating vaccines through COVAX—but it also exposed vaccine nationalism, export bans, and blaming of outsiders. Nations learned that they could cooperate on research while competing on doses.\n\nIn short, the pandemic did not end globalization; it politicized it. Relationships among nations are now shaped less by economic efficiency and more by trust, security, and the memory of who helped whom in a crisis.",
+      "hint": "<div> <b>審題</b> <ul> <li> 題目要求<b>觀察</b>（observation）＋<b>舉例</b>（examples），且至少 200 字。 </li> <li> 主題是「疫情如何改變<b>國與國之間的關係</b>」，不是「疫情如何改變個人生活」。 </li> <li> 建議三個觀察點：<b>邊境成為政策工具、供應鏈安全化、團結變得選擇性</b>。 </li> </ul> <b>五段架構</b> <ul> <li> <b>第一段（引言）</b>：三句話點出三個變化，作為全文骨架。 </li> <li> <b>第二段（邊境）</b>：疫情前全球化假設人員貨物自由流動；疫情期間各國封閉邊境、隔離旅客，以台灣早期邊境管制為例。 </li> <li> <b>第三段（供應鏈）</b>：口罩、呼吸器、疫苗短缺→發現依賴單一供應商有風險→ reshoring、friend-shoring。 </li> <li> <b>第四段（團結）</b>：正面（基因定序共享、COVAX）與負面（疫苗民族主義、出口禁令、指責他國）並陳。 </li> <li> <b>第五段（結論）</b>：全球化沒有結束，而是被<b>政治化</b>；國與國關係從效率轉向信任、安全與記憶。 </li> </ul> <b>關鍵詞彙</b> <ul> <li> border control 邊境管制；quarantine 隔離 </li><li> supply chain 供應鏈；reshoring 回流；friend-shoring 友岸外包 </li><li> vaccine nationalism 疫苗民族主義；export ban 出口禁令 </li><li> COVAX 疫苗全球取得機制；genomic data 基因定序資料 </li><li> solidarity 團結；geopolitical 地緣政治的 </li></ul> <b>加分句型</b> <ul> <li> <b>did not merely interrupt..., it redrew the map of...</b>（not merely...but 的變體，破題有力） </li> <li> <b>effective as they were</b>（讓步倒裝：雖然有效） </li> <li> <b>The pandemic did not end globalization; it politicized it.</b>（結尾對比，簡潔有力） </li><li> <b>who helped whom in a crisis</b>（名詞子句，收尾有記憶點） </li></ul> <b>評分重點</b> <ul> <li> 每段都要有<b>具體例子</b>（台灣邊境、口罩/疫苗、COVAX）。 </li> <li> 避免只寫「疫情很嚴重」；重點在「關係的變化」。 </li> <li> 用字具體：reshoring、friend-shoring、vaccine nationalism 都能加分。 </li> </ul> </div>"
+   },
+   {
+      "title": "High blood pressure is a serious symptom of cardiovascular ______ and can be the smoking gun behind strokes, heart attacks, and more.",
+      "options": [
+         {
+            "text": "assortment",
+            "isCorrect": false
+         },
+         {
+            "text": "dysfunction",
+            "isCorrect": true
+         },
+         {
+            "text": "elasticity",
+            "isCorrect": false
+         },
+         {
+            "text": "distribution",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>1. High blood pressure is a serious symptom of cardiovascular dysfunction and can be the smoking gun behind strokes, heart attacks, and more.</b> <br> （高血壓是心血管功能失調的嚴重症狀，也可能是中風、心臟病等疾病的關鍵線索。） <ul> <li> <b>考點：</b><b>dysfunction</b>＝功能失調（dys- 不良 + function 功能）。 </li> <li> <b>線索：</b>high blood pressure（高血壓）＋strokes, heart attacks（中風、心臟病）→ 心血管「功能失調」。 </li> <li> <b>其他選項：</b>assortment 種類；elasticity 彈性；distribution 分布。 </li> </ul> <b>撇步</b> <ul> <li> 器官、系統「功能失調」→ <b>dysfunction</b>（如 liver dysfunction）。 </li> </ul> </div>"
+   },
+   {
+      "title": "Most ______ foods are very high in sodium. If you're eating something out of a can or a package, chances are you're not doing anything to help your blood pressure.",
+      "options": [
+         {
+            "text": "condensed",
+            "isCorrect": false
+         },
+         {
+            "text": "compressed",
+            "isCorrect": false
+         },
+         {
+            "text": "elevated",
+            "isCorrect": false
+         },
+         {
+            "text": "processed",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>2. Most processed foods are very high in sodium. If you're eating something out of a can or a package, chances are you're not doing anything to help your blood pressure.</b> <br> （大多數加工食品的鈉含量很高。如果你吃的是罐頭或包裝食品，那大概對血壓沒什麼幫助。） <ul> <li> <b>考點：</b><b>processed food</b>＝加工食品（process 加工）。 </li> <li> <b>線索：</b>out of a can or a package（罐頭或包裝）→ 加工食品。 </li> <li> <b>其他選項：</b>condensed 濃縮的；compressed 壓縮的；elevated 提高的。 </li> </ul> <b>撇步</b> <ul> <li> 罐頭、包裝、速食 → <b>processed food</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "A group of scientists recently created a system that ______ brain waves into words by focusing on the physical movements related to speech.",
+      "options": [
+         {
+            "text": "evacuates",
+            "isCorrect": false
+         },
+         {
+            "text": "postulates",
+            "isCorrect": false
+         },
+         {
+            "text": "stipulates",
+            "isCorrect": false
+         },
+         {
+            "text": "translates",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>3. A group of scientists recently created a system that translates brain waves into words by focusing on the physical movements related to speech.</b> <br> （一群科學家最近開發出一套系統，透過聚焦與說話相關的身體動作，把腦波轉譯成詞語。） <ul> <li> <b>考點：</b><b>translate A into B</b>＝把 A 轉譯成 B。 </li> <li> <b>線索：</b>brain waves into words（腦波變成詞語）→ 需要「轉譯」。 </li> <li> <b>其他選項：</b>evacuate 撤離；postulate 假定；stipulate 規定。 </li> </ul> <b>撇步</b> <ul> <li> A into B 的「轉換」動詞：translate、convert、transform。 </li> </ul> </div>"
+   },
+   {
+      "title": "As we sat over our drinks, he ______ his business, and by I expressed casually my surprise at him not earning more.",
+      "options": [
+         {
+            "text": "gloated",
+            "isCorrect": false
+         },
+         {
+            "text": "glorified",
+            "isCorrect": true
+         },
+         {
+            "text": "garnished",
+            "isCorrect": false
+         },
+         {
+            "text": "gesticulated",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>4. As we sat over our drinks, he glorified his business, and by I expressed casually my surprise at him not earning more.</b> <br> （我們坐著喝飲料時，他把自己的事業說得天花亂墜，而我順口表達了對他收入不高的訝異。） <ul> <li> <b>考點：</b><b>glorify</b>＝美化、頌揚（此處帶「吹噓」意味）。 </li> <li> <b>線索：</b>後面說「我對他沒賺更多錢感到訝異」→ 表示他把自己事業「講得很好」。 </li> <li> <b>其他選項：</b>gloat 幸災樂禍；garnish 裝飾（食物）；gesticulate 比手畫腳。 </li> </ul> <b>撇步</b> <ul> <li> 把某事說得很了不起 → <b>glorify</b>；幸災樂禍才是 gloat。 </li> </ul> </div>"
+   },
+   {
+      "title": "Our organization doesn't support any political party and has rigorous safeguards in place at every level to protect our ______.",
+      "options": [
+         {
+            "text": "neutrality",
+            "isCorrect": true
+         },
+         {
+            "text": "maturity",
+            "isCorrect": false
+         },
+         {
+            "text": "partiality",
+            "isCorrect": false
+         },
+         {
+            "text": "popularity",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>5. Our organization doesn't support any political party and has rigorous safeguards in place at every level to protect our neutrality.</b> <br> （本組織不支持任何政黨，並在各層級設有嚴格防護措施以維護我們的中立。） <ul> <li> <b>考點：</b><b>neutrality</b>＝中立（形容詞 neutral）。 </li> <li> <b>線索：</b>doesn't support any political party（不支持任何政黨）→ 要維護「中立」。 </li> <li> <b>其他選項：</b>maturity 成熟；partiality 偏袒（反義）；popularity 受歡迎程度。 </li> </ul> <b>撇步</b> <ul> <li> 不偏任何一方＝<b>neutrality</b>；偏袒是 partiality。 </li> </ul> </div>"
+   },
+   {
+      "title": "The directive aims to ensure that persons of a particular religion or belief, disability, age or sexual orientation do not suffer from ______.",
+      "options": [
+         {
+            "text": "immaturity",
+            "isCorrect": false
+         },
+         {
+            "text": "illiteracy",
+            "isCorrect": false
+         },
+         {
+            "text": "distraction",
+            "isCorrect": false
+         },
+         {
+            "text": "discrimination",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>6. The directive aims to ensure that persons of a particular religion or belief, disability, age or sexual orientation do not suffer from discrimination.</b> <br> （這項指令旨在確保特定宗教或信仰、身心障礙、年齡或性傾向的人不遭受歧視。） <ul> <li> <b>考點：</b><b>discrimination</b>＝歧視；suffer from discrimination＝遭受歧視。 </li> <li> <b>線索：</b>religion、disability、age、sexual orientation 都是反歧視法的典型保護特徵。 </li> <li> <b>其他選項：</b>immaturity 不成熟；illiteracy 文盲；distraction 分心。 </li> </ul> <b>撇步</b> <ul> <li> 宗教、身障、年齡、性傾向並列 → <b>discrimination</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "Jenny tried to ______ her parents about where she had been that evening, but her parents could smell the smoke and beer on her.",
+      "options": [
+         {
+            "text": "provoke",
+            "isCorrect": false
+         },
+         {
+            "text": "deceive",
+            "isCorrect": true
+         },
+         {
+            "text": "engrave",
+            "isCorrect": false
+         },
+         {
+            "text": "inspire",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>7. Jenny tried to deceive her parents about where she had been that evening, but her parents could smell the smoke and beer on her.</b> <br> （珍妮想騙父母她那天晚上去了哪裡，但父母聞得到她身上的菸味和啤酒味。） <ul> <li> <b>考點：</b><b>deceive sb. about sth.</b>＝在某事上欺騙某人。 </li> <li> <b>線索：</b>but her parents could smell the smoke and beer（但父母聞到味道）→ 她試圖「騙」。 </li> <li> <b>其他選項：</b>provoke 激怒；engrave 雕刻；inspire 激勵。 </li> </ul> <b>撇步</b> <ul> <li> 隱瞞、說謊 → <b>deceive / mislead</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "Koalas are often ______ identified due to their appearance as a member of the bear family, but they are scientifically classified as a marsupial related to kangaroos.",
+      "options": [
+         {
+            "text": "appropriately",
+            "isCorrect": false
+         },
+         {
+            "text": "illegally",
+            "isCorrect": false
+         },
+         {
+            "text": "mistakenly",
+            "isCorrect": true
+         },
+         {
+            "text": "nominally",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>8. Koalas are often mistakenly identified due to their appearance as a member of the bear family, but they are scientifically classified as a marsupial related to kangaroos.</b> <br> （無尾熊常因外表而被誤認為熊科動物，但科學上牠們被歸類為與袋鼠有關的有袋類。） <ul> <li> <b>考點：</b><b>mistakenly</b>＝錯誤地（be mistaken for＝被誤認為）。 </li> <li> <b>線索：</b>but they are scientifically classified as a marsupial（但科學上是有袋類）→ 前面的辨識是「錯誤的」。 </li> <li> <b>其他選項：</b>appropriately 適當地；illegally 非法地；nominally 名義上。 </li> </ul> <b>撇步</b> <ul> <li> 被誤認 → <b>mistakenly identified / mistaken for</b>。 </li> </ul> </div>"
+   },
+   {
+      "title": "Our research on the elderly has shown that those who have dementia often appear to suffer a double ______ of age and cognitive disability.",
+      "options": [
+         {
+            "text": "condolence",
+            "isCorrect": false
+         },
+         {
+            "text": "concentration",
+            "isCorrect": false
+         },
+         {
+            "text": "jeopardy",
+            "isCorrect": true
+         },
+         {
+            "text": "insulation",
+            "isCorrect": false
+         }
+      ],
+      "hint": "<div> <b>9. ...those who have dementia often appear to suffer a double jeopardy of age and cognitive disability.</b> <br> （……失智症患者似乎常同時承受年老與認知障礙的雙重風險。） <ul> <li> <b>考點：</b><b>double jeopardy</b>＝雙重風險、雙重不利（jeopardy＝危險）。 </li> <li> <b>線索：</b>age and cognitive disability（年齡與認知障礙）→ 兩種不利同時存在。 </li> <li> <b>其他選項：</b>condolence 慰問；concentration 專注；insulation 隔絕。 </li> </ul> <b>撇步</b> <ul> <li> 「雙重不利／雙重風險」＝<b>double jeopardy</b>（法律上另有「一事不再理」之意）。 </li> </ul> </div>"
+   },
+   {
+      "title": "A ______ of scandals and revelations has collectively undermined the government over the past year.",
+      "options": [
+         {
+            "text": "transmission",
+            "isCorrect": false
+         },
+         {
+            "text": "concession",
+            "isCorrect": false
+         },
+         {
+            "text": "scenario",
+            "isCorrect": false
+         },
+         {
+            "text": "succession",
+            "isCorrect": true
+         }
+      ],
+      "hint": "<div> <b>10. A succession of scandals and revelations has collectively undermined the government over the past year.</b> <br> （過去一年接連不斷的醜聞與爆料，共同削弱了政府。） <ul> <li> <b>考點：</b><b>a succession of</b>＝一連串、接連的（succession＝連續）。 </li> <li> <b>線索：</b>scandals and revelations（醜聞與爆料）＋collectively（共同）→ 一連串事件。 </li> <li> <b>其他選項：</b>transmission 傳輸；concession 讓步；scenario 情境。 </li> </ul> <b>撇步</b> <ul> <li> 接連發生＝<b>a succession of</b>（近義：a series of）。 </li> </ul> </div>"
+   },
+   {
+      "title": "<div> Before the invention of the at-home refrigerator in 1913, it was rare to find a strawberry in the winter or a gala apple in the spring <u>&nbsp;&nbsp; 11 &nbsp;&nbsp;</u> it had been preserved. Jams, jellies, and preserves were developed by industrious fruit eaters of days <u>&nbsp;&nbsp; 12 &nbsp;&nbsp;</u> as methods of keeping fruits fresh out of season. When the option to freeze and refrigerate became available, fresh food that was in season in warmer climates could <u>&nbsp;&nbsp; 13 &nbsp;&nbsp;</u> a trip elsewhere for consumption, removing the need for old-time preservation techniques. <u>&nbsp;&nbsp; 14 &nbsp;&nbsp;</u> no longer a necessity, some older methods of storing foods became traditional delicacies. Fruit jams, jellies, and preserves have <u>&nbsp;&nbsp; 15 &nbsp;&nbsp;</u> beyond becoming outdated and remained popular sweet spreads for breads, sandwiches, and many other foods. </div>",
+      "options": [],
+      "hint": "",
+      "subItems": [
+         {
+            "title": "11",
+            "options": [
+               {
+                  "text": "once",
+                  "isCorrect": false
+               },
+               {
+                  "text": "or else",
+                  "isCorrect": false
+               },
+               {
+                  "text": "unless",
+                  "isCorrect": true
+               },
+               {
+                  "text": "since",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>11. ...it was rare to find a strawberry in the winter or a gala apple in the spring unless it had been preserved.</b> <br> （除非經過保存處理，否則冬天很難找到草莓、春天很難找到嘎啦蘋果。） <ul> <li> <b>考點：</b><b>unless</b>＝除非（引導條件子句），後面接 it had been preserved。 </li> <li> <b>線索：</b>rare to find...（很難找到）＋it had been preserved（被保存過）→ 「除非」。 </li> <li> <b>其他選項：</b>once 一旦；or else 否則（通常接句子，且語氣不同）；since 自從／因為。 </li></ul> <b>撇步</b> <ul> <li> 「除非……否則很少」→ <b>rare... unless...</b>。 </li> </ul> </div>"
+         },
+         {
+            "title": "12",
+            "options": [
+               {
+                  "text": "past",
+                  "isCorrect": true
+               },
+               {
+                  "text": "passing",
+                  "isCorrect": false
+               },
+               {
+                  "text": "passed",
+                  "isCorrect": false
+               },
+               {
+                  "text": "to pass",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>12. Jams, jellies, and preserves were developed by industrious fruit eaters of days past as methods of keeping fruits fresh out of season.</b> <br> （果醬、果凍與蜜餞是過去勤勞的吃水果的人所發展出來的，用來在非產季保存水果。） <ul> <li> <b>考點：</b><b>of days past</b>＝過去的（past 當形容詞，置於名詞後）。 </li> <li> <b>線索：</b>were developed（過去式）→ 指「過去的人」。 </li> <li> <b>其他選項：</b>passing 經過的；passed（動詞過去式）；to pass（不定詞）。 </li></ul> <b>撇步</b> <ul> <li> 「昔日的」＝<b>of days past</b>／in the past；past 在此是後位形容詞。 </li> </ul> </div>"
+         },
+         {
+            "title": "13",
+            "options": [
+               {
+                  "text": "maintain",
+                  "isCorrect": false
+               },
+               {
+                  "text": "reserve",
+                  "isCorrect": false
+               },
+               {
+                  "text": "cancel",
+                  "isCorrect": false
+               },
+               {
+                  "text": "survive",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>13. ...fresh food that was in season in warmer climates could survive a trip elsewhere for consumption...</b> <br> （……在較溫暖氣候中當季的新鮮食物，可以撐過運送到別處消費的旅程……） <ul> <li> <b>考點：</b><b>survive a trip</b>＝撐過旅程（survive 在此為「經歷……而存活」）。 </li> <li> <b>線索：</b>freeze and refrigerate（冷凍冷藏）→ 食物可以「撐過」運送。 </li> <li> <b>其他選項：</b>maintain 維持；reserve 保留；cancel 取消。 </li></ul> <b>撇步</b> <ul> <li> 渡過難關、撐過旅程 → <b>survive</b>（及物用法）。 </li> </ul> </div>"
+         },
+         {
+            "title": "14",
+            "options": [
+               {
+                  "text": "Despite",
+                  "isCorrect": false
+               },
+               {
+                  "text": "While",
+                  "isCorrect": true
+               },
+               {
+                  "text": "As",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Even now",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>14. While no longer a necessity, some older methods of storing foods became traditional delicacies.</b> <br> （雖然已不再是必需品，一些較古老的保存食物方法卻成了傳統美食。） <ul> <li> <b>考點：</b><b>While</b>＋形容詞/名詞（省略主詞與 be）＝雖然（＝Although）。 </li> <li> <b>線索：</b>no longer a necessity（不再是必需）↔ became traditional delicacies（成了傳統美食）→ 轉折。 </li> <li> <b>其他選項：</b>Despite 是介系詞，後面需名詞（但此處是省略句，且語意為讓步）；As 當「因為／當」；Even now 語意不符。 </li></ul> <b>撇步</b> <ul> <li> <b>While + 名詞/形容詞</b>（省略 be）是常見的讓步用法。 </li> </ul> </div>"
+         },
+         {
+            "title": "15",
+            "options": [
+               {
+                  "text": "lasted",
+                  "isCorrect": true
+               },
+               {
+                  "text": "entertained",
+                  "isCorrect": false
+               },
+               {
+                  "text": "improved",
+                  "isCorrect": false
+               },
+               {
+                  "text": "qualified",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>15. Fruit jams, jellies, and preserves have lasted beyond becoming outdated and remained popular sweet spreads...</b> <br> （果醬、果凍與蜜餞並未因過時而消失，反而歷久不衰，仍是受歡迎的甜抹醬……） <ul> <li> <b>考點：</b><b>last</b>＝持續、維持（have lasted beyond＝超越了……而持續存在）。 </li> <li> <b>線索：</b>beyond becoming outdated（超越過時）＋remained popular（仍受歡迎）→ 歷久不衰。 </li> <li> <b>其他選項：</b>entertain 娛樂；improve 改善；qualify 取得資格。 </li></ul> <b>撇步</b> <ul> <li> 產品、傳統「歷久不衰」→ <b>last</b>（名詞 lasting）。 </li> </ul> </div>"
+         }
+      ]
+   },
+   {
+      "title": "<div> Would you ever eat a plant whose genes were altered by scientists in a laboratory? You probably already have, for genetically modified organisms (GMOs), also known as genetically engineered organisms, are <u>&nbsp;&nbsp; 16 &nbsp;&nbsp;</u> in modern food supplies. The concept underlying genetic modification is not new. For centuries, farmers have used a method called selective breeding to produce more <u>&nbsp;&nbsp; 17 &nbsp;&nbsp;</u> crops. They do this by choosing seeds from plants that appear to be particularly <u>&nbsp;&nbsp; 18 &nbsp;&nbsp;</u> to pests and cold or dry weather and planting those seeds in place of weaker strains. Over time, the desirable strains come to dominate the genetic <u>&nbsp;&nbsp; 19 &nbsp;&nbsp;</u> of the farmers' crops. Not everyone is supportive of the technology, however. Critics point to the fact that GM foods are simply too new to be embraced, <u>&nbsp;&nbsp; 20 &nbsp;&nbsp;</u> that there could exist long-term health risks that have yet to surface. For instance, consumers with allergies have had adverse reaction to the implanted genes. </div>",
+      "options": [],
+      "hint": "",
+      "subItems": [
+         {
+            "title": "16",
+            "options": [
+               {
+                  "text": "mastered",
+                  "isCorrect": false
+               },
+               {
+                  "text": "destroyed",
+                  "isCorrect": false
+               },
+               {
+                  "text": "widespread",
+                  "isCorrect": true
+               },
+               {
+                  "text": "compiled",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>16. ...for genetically modified organisms (GMOs)... are widespread in modern food supplies.</b> <br> （……因為基因改造生物（GMO）在現代食品供應中很普遍。） <ul> <li> <b>考點：</b><b>widespread</b>＝普遍的、廣泛分布的。 </li> <li> <b>線索：</b>You probably already have（你大概已經吃過了）→ 表示 GMO「很普遍」。 </li> <li> <b>其他選項：</b>mastered 精通；destroyed 摧毀；compiled 彙編。 </li></ul> <b>撇步</b> <ul> <li> 普遍存在 → <b>widespread</b>（近義：common、prevalent）。 </li> </ul> </div>"
+         },
+         {
+            "title": "17",
+            "options": [
+               {
+                  "text": "perishable",
+                  "isCorrect": false
+               },
+               {
+                  "text": "fragile",
+                  "isCorrect": false
+               },
+               {
+                  "text": "mobile",
+                  "isCorrect": false
+               },
+               {
+                  "text": "resilient",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>17. ...farmers have used a method called selective breeding to produce more resilient crops.</b> <br> （……農民使用一種叫做選擇性育種的方法，以生產更有韌性的作物。） <ul> <li> <b>考點：</b><b>resilient</b>＝有韌性的、能適應逆境的。 </li> <li> <b>線索：</b>後面說要選「抗病蟲害、耐冷耐旱」的種子 → 作物要「有韌性」。 </li> <li> <b>其他選項：</b>perishable 易腐壞的；fragile 脆弱的；mobile 可移動的。 </li></ul> <b>撇步</b> <ul> <li> 作物、生態「抗逆、有韌性」→ <b>resilient</b>（名詞 resilience）。 </li> </ul> </div>"
+         },
+         {
+            "title": "18",
+            "options": [
+               {
+                  "text": "resistant",
+                  "isCorrect": true
+               },
+               {
+                  "text": "susceptible",
+                  "isCorrect": false
+               },
+               {
+                  "text": "allergic",
+                  "isCorrect": false
+               },
+               {
+                  "text": "welcoming",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>18. ...plants that appear to be particularly resistant to pests and cold or dry weather...</b> <br> （……看起來特別能抵抗病蟲害與寒冷或乾燥天氣的植物……） <ul> <li> <b>考點：</b><b>be resistant to</b>＝對……有抵抗力（名詞 resistance）。 </li> <li> <b>線索：</b>to pests and cold or dry weather（病蟲害、寒冷乾燥）→ 要「抵抗」。 </li> <li> <b>其他選項：</b>susceptible 易受影響的（反義）；allergic 過敏的；welcoming 歡迎的。 </li></ul> <b>撇步</b> <ul> <li> 抗病、抗藥、抗蟲 → <b>resistant to</b>；易感才是 susceptible to。 </li> </ul> </div>"
+         },
+         {
+            "title": "19",
+            "options": [
+               {
+                  "text": "homelands",
+                  "isCorrect": false
+               },
+               {
+                  "text": "restraints",
+                  "isCorrect": false
+               },
+               {
+                  "text": "defects",
+                  "isCorrect": false
+               },
+               {
+                  "text": "profiles",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>19. Over time, the desirable strains come to dominate the genetic profiles of the farmers' crops.</b> <br> （隨著時間推移，理想的品系逐漸主導農民作物的基因組成。） <ul> <li> <b>考點：</b><b>genetic profile</b>＝基因圖譜、基因組成（profile＝剖面、概況）。 </li> <li> <b>線索：</b>genetic ___（基因……）＋strains dominate（品系主導）→ 基因組成。 </li> <li> <b>其他選項：</b>homelands 家園；restraints 限制；defects 缺陷。 </li></ul> <b>撇步</b> <ul> <li> <b>genetic profile</b> 是遺傳學高頻搭配。 </li> </ul> </div>"
+         },
+         {
+            "title": "20",
+            "options": [
+               {
+                  "text": "misleading",
+                  "isCorrect": false
+               },
+               {
+                  "text": "alleging",
+                  "isCorrect": true
+               },
+               {
+                  "text": "denouncing",
+                  "isCorrect": false
+               },
+               {
+                  "text": "excluding",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>20. Critics point to the fact that GM foods are simply too new to be embraced, alleging that there could exist long-term health risks that have yet to surface.</b> <br> （批評者指出，基改食品還太新、不宜貿然接受，並宣稱可能存在尚未浮現的長期健康風險。） <ul> <li> <b>考點：</b><b>allege</b>＝宣稱、指控（尚未證實的主張）；現在分詞 alleging 引導補充說明。 </li> <li> <b>線索：</b>there could exist...（可能存在）→ 是「宣稱」而非已成定論。 </li> <li> <b>其他選項：</b>misleading 誤導（須與事實相反）；denouncing 譴責（語氣更強）；excluding 排除。 </li></ul> <b>撇步</b> <ul> <li> 「指控、宣稱（未經證實）」→ <b>allege</b>（名詞 allegation）。 </li> </ul> </div>"
+         }
+      ]
+   },
+   {
+      "title": "<div> Post-traumatic stress disorder is a malady of memory. Sufferers are often haunted by recurrent nightmares, distressing thoughts and flashbacks so intense in color, smell and sound that they feel as if they are reliving the trauma. But what if these unbearable memories could be selectively erased? Sheena Josselyn, a professor of physiology and psychology, who studies how the brain encodes, stores and uses information, is intrigued by the idea and has been investigating how to “silence” memories—make them temporarily inaccessible—in mice. She thinks it's possible that a variation of this technique could one day help treat post-traumatic stress disorder in humans.<br><br>Studies with mice have found that although their brains contain billions of neurons, only a few are necessary to form a fearful memory. Researchers working with mice began by teaching them to fear a tone: when it sounds, they feel a mild shock to their feet (not to hurt them, just to scare them). The next time the mice hear the tone, they crouch and freeze, signaling fear. The researchers discovered that they could trigger the memory of that fear even without presenting the tone. They did this by stimulating the small group of nerve cells holding that memory through a technology called optogenetics. Using the same technology, they found they could also suppress the fearful memory. With optogenetics, scientists insert proteins into neurons to make them sensitive to light. Depending on the type of protein and color of light used, these cells can then be activated or deactivated by shining pulses of the light directly into the brain. If the light activates the cells, the mice freeze as if they've just heard the tone. If the light deactivates the cells, the memory is suppressed. While optogenetics is an invasive procedure and technologically not feasible with humans, Josselyn hopes that the general principles learned from these studies could eventually help scientists create new drugs for treating memory disorders such as post-traumatic stress disorder and Alzheimer's.<br><br>But should you erase a bad memory? Absolutely not, says Josselyn. She emphasizes that this future technology should not be applied to everyday bad things, and that these discoveries need to go hand in hand with a real thinking about the ethics involved in potentially manipulating memories in people. Their use would only be considered in extreme cases after all other treatment options have been explored. The goal is not to sanitize life or make people super happy, but rather to make everyone a functional person, capable of moments of joy. </div>",
+      "options": [],
+      "hint": "",
+      "subItems": [
+         {
+            "title": "21. What would be the best title of this passage?",
+            "options": [
+               {
+                  "text": "Possible Causes of Memory Loss.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Post-traumatic Stress Disorder.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Studies of Trauma in Humans.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Suppressing Fearful Memories.",
+                  "isCorrect": true
+               }
+            ],
+            "hint": "<div> <b>→ Suppressing Fearful Memories.</b> <br> （本文最適合的標題是什麼？→ 抑制恐懼記憶。） <ul> <li> <b>定位：</b>第一段「investigating how to <b>'silence' memories</b>」；第二段「they found they could also <b>suppress the fearful memory</b>」——全文主軸是「抑制記憶」。 </li> <li> <b>其他選項：</b>(A) 記憶喪失的原因——文中談的是「消除特定恐懼記憶」，不是記憶喪失；(B) PTSD 只是背景；(C) 人類創傷研究——實驗對象是老鼠。 </li> </ul> <b>撇步</b> <ul> <li> 標題題要涵蓋<b>全文反覆出現的動作</b>：silence / suppress memories。 </li> </ul> </div>"
+         },
+         {
+            "title": "22. What did researchers do to form a fearful memory of a tone in mice?",
+            "options": [
+               {
+                  "text": "The researchers gave mice a mild shock when the tone sounded.",
+                  "isCorrect": true
+               },
+               {
+                  "text": "The researchers inserted proteins into the mice's brains.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The mice were shown pulses of light when hearing the tone.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The scientists used different colors of light to activate the mice's cells.",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>→ The researchers gave mice a mild shock when the tone sounded.</b> <br> （研究者如何讓老鼠對某個聲音形成恐懼記憶？→ 聲音響起時給老鼠輕微電擊。） <ul> <li> <b>定位：</b>第二段「when it sounds, they feel a <b>mild shock to their feet</b>」——這是<b>形成</b>恐懼記憶的步驟。 </li> <li> <b>其他選項：</b>(B) 插入蛋白、(C) 打光、(D) 用不同顏色光——都是<b>之後</b>用光遺傳學「觸發或抑制」記憶的步驟，不是「形成記憶」。 </li></ul> <b>撇步</b> <ul> <li> 問「形成記憶」→ 找 teaching 階段的動作（tone + shock）。 </li> </ul> </div>"
+         },
+         {
+            "title": "23. Which of the following is a reason that future technology should not be used to erase a bad memory in humans?",
+            "options": [
+               {
+                  "text": "Optogenetics is an invasive procedure.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Humans' brains are different from mice's.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "Technology should not be used to manipulate memories in people.",
+                  "isCorrect": true
+               },
+               {
+                  "text": "Future technology is used to create moments of joy.",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>→ Technology should not be used to manipulate memories in people.</b> <br> （下列何者是「不應用人類身上消除壞記憶」的理由？→ 不應以科技操控人的記憶。） <ul> <li> <b>定位：</b>第三段「this future technology <b>should not be applied</b> to everyday bad things, and these discoveries need to go hand in hand with a real thinking about the <b>ethics involved in potentially manipulating memories</b> in people.」 </li> <li> <b>其他選項：</b>(A) 侵入性雖是事實，但文中是說「技術上不可行」，不是倫理理由；(B) 文中未以腦部差異為理由；(D) 製造喜悅是「目標」，不是「不使用的理由」。 </li></ul> <b>撇步</b> <ul> <li> 問「理由」→ 第三段的關鍵詞是 <b>ethics / manipulating memories</b>。 </li> </ul> </div>"
+         },
+         {
+            "title": "24. Which of the following statements would the author most likely agree to?",
+            "options": [
+               {
+                  "text": "Optogenetics is a technology used in treating trauma in humans.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The use of optogenetics needs to take ethics into consideration.",
+                  "isCorrect": true
+               },
+               {
+                  "text": "Mice's brains contain billions of neurons similar to those of humans.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "The goal of treating memory disorders is to help people suppress fearful memories.",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>→ The use of optogenetics needs to take ethics into consideration.</b> <br> （作者最可能同意下列何者？→ 使用光遺傳學須將倫理納入考量。） <ul> <li> <b>定位：</b>第三段「need to go hand in hand with a real thinking about the <b>ethics</b> involved」。 </li> <li> <b>其他選項：</b>(A) 光遺傳學「尚未」用於人類（文中說 not feasible with humans）；(C) 文中只說老鼠腦有數十億神經元，未說與人類相似；(D) 治療目標是讓人「功能正常、能感受喜悅」，不是「壓抑恐懼記憶」。 </li></ul> <b>撇步</b> <ul> <li> 「作者同意」題要找<b>作者明確主張</b>的句子（need to take ethics into consideration）。 </li> </ul> </div>"
+         },
+         {
+            "title": "25. Which of the following statements can be inferred?",
+            "options": [
+               {
+                  "text": "Discoveries of optogenetics might help scientists create new methods in the treatment of memory disorders.",
+                  "isCorrect": true
+               },
+               {
+                  "text": "The technology of optogenetics can be used to treat post-traumatic stress disorder in humans.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "It is possible to silence memories in humans after all treatment options have been explored.",
+                  "isCorrect": false
+               },
+               {
+                  "text": "With the technology of optogenetics, humans can easily seize moments of joy.",
+                  "isCorrect": false
+               }
+            ],
+            "hint": "<div> <b>→ Discoveries of optogenetics might help scientists create new methods in the treatment of memory disorders.</b> <br> （可推論出什麼？→ 光遺傳學的發現可能有助科學家開發治療記憶障礙的新方法。） <ul> <li> <b>依據：</b>第二段末「Josselyn hopes that the <b>general principles</b> learned from these studies could eventually help scientists <b>create new drugs</b> for treating memory disorders such as PTSD and Alzheimer's.」 </li> <li> <b>其他選項：</b>(B) 光遺傳學「不能」直接用於人類（invasive, not feasible）；(C) 文中說「未來技術」只在極端案例、其他療法都用盡後才考慮，且不是「可 silencing 人類記憶」的既定事實；(D) 「輕易獲得喜悅」是曲解。 </li></ul> <b>撇步</b> <ul> <li> 推論題要「<b>弱化</b>」：might help、could eventually 這類保留語氣才是正解。 </li> </ul> </div>"
+         }
+      ]
+   }
+]
